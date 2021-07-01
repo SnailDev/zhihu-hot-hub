@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-07-01 18:02:00 +0800`
+`更新时间：2021-07-01 19:01:49 +0800`
 
 ## 热门搜索
 
@@ -53,6 +53,7 @@
 1. [如何理解中国向世界的 4 个庄严宣告？](https://www.zhihu.com/question/469269512)
 1. [建党百年庆典中，有哪些高燃的精彩瞬间？](https://www.zhihu.com/special/1393929772259581952)
 1. [今天，全军官兵都在各自战位上庆祝建党 100 周年，有没有哪个精彩瞬间让你破防？](https://www.zhihu.com/question/469245739)
+1. [你经历的哪些真实故事，让你意识到「中国真的不一样了」？](https://www.zhihu.com/question/429896850)
 1. [中国全面建成小康社会对世界意味着什么？](https://www.zhihu.com/question/469243529)
 1. [《觉醒年代》有哪些超燃台词短句?](https://www.zhihu.com/question/463340352)
 1. [你所在的行业有哪些说出去很「凡尔赛」的发展成果？](https://www.zhihu.com/question/447184680)
@@ -68,16 +69,16 @@
 1. [100 年以来，哪些人成为了中国的「脊梁」？](https://www.zhihu.com/question/469067940)
 1. [雨后出现的大蜗牛千万别碰，它携带很多寄生虫和病原菌，究竟有多危险？](https://www.zhihu.com/question/468733508)
 1. [如何看待车主朋友圈直播特斯拉下雨天车窗无法关闭导致漏雨？何种原因造成的？为何 4s 店说是女车主自己弄的？](https://www.zhihu.com/question/468832311)
-1. [鸿蒙发布以后，华为手机桌面布局该如何设计？](https://www.zhihu.com/question/462891140)
-1. [健身每天只练习一个部位可以吗？](https://www.zhihu.com/question/402800360)
 1. [你们每天一日三餐都吃什么？](https://www.zhihu.com/question/307237785)
-1. [猫咪多久会忘记一个人？](https://www.zhihu.com/question/284146536)
-1. [如何评价 GitHub 与 OpenAI 合作推出的 AI 代码建议方案 Copilot?](https://www.zhihu.com/question/468950598)
+1. [健身每天只练习一个部位可以吗？](https://www.zhihu.com/question/402800360)
+1. [鸿蒙发布以后，华为手机桌面布局该如何设计？](https://www.zhihu.com/question/462891140)
 1. [好多人说计算机二级证书没啥用，真的是这样吗？](https://www.zhihu.com/question/432050455)
+1. [猫咪多久会忘记一个人？](https://www.zhihu.com/question/284146536)
 1. [《海贼王》如何结尾会伤害到所有读者？](https://www.zhihu.com/question/453888306)
-1. [你经历的哪些真实故事，让你意识到「中国真的不一样了」？](https://www.zhihu.com/question/429896850)
+1. [南大计算机卡线，是否应该求稳去华中科技大学?](https://www.zhihu.com/question/467391928)
 1. [这 100 年来，中国科技数码行业有哪些飞跃发展的成果让你感到骄傲和自豪？](https://www.zhihu.com/question/468832684)
 1. [哪些时刻，国家给了你安全感？](https://www.zhihu.com/question/446990478)
+1. [建党百年，你所在的城市、单位或者身边的人都是通过什么方式来庆祝的呢？](https://www.zhihu.com/question/469260448)
 1. [《游戏王》中真红眼黑龙为什么被称为顶级卡片？](https://www.zhihu.com/question/24348322)
 1. [12 强赛分组抽签结果出炉，国足将面对日本澳大利亚，你看好国足冲击世界杯的前景吗？](https://www.zhihu.com/question/469309297)
 1. [NBA 西决太阳 130:103 淘汰快船，4:2 晋级总决赛，如何评价这场比赛？](https://www.zhihu.com/question/469222349)
@@ -88,15 +89,14 @@
 1. [旅行中的哪一刻令你感到「祖国的山河美如画」？](https://www.zhihu.com/question/468764145)
 1. [党内最高荣誉「七一勋章」首次颁授，29 名同志获「七一勋章」，你对功勋党员有什么想说的？](https://www.zhihu.com/question/468683456)
 1. [孩子高一，家长说一句话就烦，现在的孩子是怎么了？该怎么办？](https://www.zhihu.com/question/446145871)
+1. [如何评价电影《革命者》？](https://www.zhihu.com/question/457600870)
 1. [中国好的二本有哪些？](https://www.zhihu.com/question/282553012)
+1. [中国共产党百年的奋斗史，对世界产生了哪些影响，有哪些重要意义？](https://www.zhihu.com/question/469274581)
 1. [《王者荣耀》现在哪些英雄可以带斩杀？](https://www.zhihu.com/question/466600116)
 1. [有哪些被颜值耽误的美食？](https://www.zhihu.com/question/463302536)
-1. [计算机专业想进大厂，大一结束应该什么水准？](https://www.zhihu.com/question/450241362)
+1. [滴滴 6 月 30 日纽交所上市，市值 670 亿美元，还有哪些值得关注的信息？](https://www.zhihu.com/question/469170831)
 1. [有什么平价好用的精华推荐吗？](https://www.zhihu.com/question/39844456)
-1. [命运真的是注定的吗，多努力也无法更改的吗？](https://www.zhihu.com/question/468059308)
-1. [有什么让你忍不住姨母笑的小说？](https://www.zhihu.com/question/443447926)
-1. [有反复看好几遍的的小说推荐吗 ？](https://www.zhihu.com/question/440336071)
-1. [作为一名从小非常害怕昆虫的妈妈，如何培养孩子对昆虫和大自然的兴趣？](https://www.zhihu.com/question/468299114)
+1. [iPhone13 值得等吗？](https://www.zhihu.com/question/445568012)
 
 ## 热门视频
 
