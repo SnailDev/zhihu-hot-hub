@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2021-10-22 01:14:55 +0800`
+`更新时间：2021-10-22 02:02:52 +0800`
 
 ## 热门搜索
 
@@ -19,9 +19,9 @@
 1. [警方通报李云迪嫖娼](https://www.zhihu.com/search?q=%E6%9D%8E%E4%BA%91%E8%BF%AA)
 1. [国内疫情最新情况](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E7%96%AB%E6%83%85%E6%96%B0%E5%A2%9E)
 1. [麦当劳被曝使用过期食材](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3)
-1. [双十一攻略](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80)
 1. [游戏《仙剑 7》被破解](https://www.zhihu.com/search?q=%E4%BB%99%E5%89%917)
-1. [河北无症状在京轨迹曝光](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%97%A0%E7%97%87%E7%8A%B6)
+1. [李佳琦销售额破百亿](https://www.zhihu.com/search?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E9%94%80%E5%94%AE%E9%A2%9D)
+1. [双十一攻略](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80)
 1. [主机游戏店铺被查封](https://www.zhihu.com/search?q=%E4%B8%BB%E6%9C%BA%E6%B8%B8%E6%88%8F)
 1. [乌合麒麟新作](https://www.zhihu.com/search?q=%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F)
 1. [国考笔试新增「行政执法类」](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E7%AC%94%E8%AF%95)
@@ -36,14 +36,14 @@
 1. [小红书种草笔记 4 元一篇](https://www.zhihu.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6)
 1. [中俄军演通过津轻海峡](https://www.zhihu.com/search?q=%E6%B4%A5%E8%BD%BB%E6%B5%B7%E5%B3%A1)
 1. [25 岁博导冯磊](https://www.zhihu.com/search?q=%E5%86%AF%E7%A3%8A)
-1. [北京新增 1 例确诊病例](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B)
+1. [河北无症状在京轨迹曝光](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%97%A0%E7%97%87%E7%8A%B6)
 1. [猿辅导转型羽绒服业务](https://www.zhihu.com/search?q=%E7%8C%BF%E8%BE%85%E5%AF%BC%E7%BE%BD%E7%BB%92%E6%9C%8D)
 1. [沈阳一饭店突发爆炸](https://www.zhihu.com/search?q=%E6%B2%88%E9%98%B3%E9%A5%AD%E5%BA%97%E7%88%86%E7%82%B8)
 1. [战神 4 上架 Steam](https://www.zhihu.com/search?q=%E6%88%98%E7%A5%9E4)
 1. [甘肃新增 5 例本土确诊](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83%E6%96%B0%E5%A2%9E)
 1. [发改委依法干预煤炭价格](https://www.zhihu.com/search?q=%E7%85%A4%E7%82%AD%E4%BB%B7%E6%A0%BC)
 1. [比特币涨至 6.6 万美元](https://www.zhihu.com/search?q=%E6%AF%94%E7%89%B9%E5%B8%81%E6%B6%A8%E4%BB%B7)
-1. [李佳琦销售额破百亿](https://www.zhihu.com/search?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%E9%94%80%E5%94%AE%E9%A2%9D)
+1. [北京新增 1 例确诊病例](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B)
 1. [猪肾脏移植人体手术成功](https://www.zhihu.com/search?q=%E7%8C%AA%E8%82%BE%E8%84%8F)
 
 ## 热门话题
@@ -59,12 +59,12 @@
 1. [10 月 19 日，在岸、离岸人民币对美元双双突破 6.4 关口，创下 4 个月以来新高，发生了什么？](https://www.zhihu.com/question/493426553)
 1. [优酷新综艺《鱿鱼的胜利》被指疑似抄袭《鱿鱼游戏》，道歉称系误使用毙掉的初稿，什么样的综艺观众才会买单？](https://www.zhihu.com/question/493567048)
 1. [中国大部分法学生最后只能沦落为《爱情公寓》里张伟那种律师吗？](https://www.zhihu.com/question/490274686)
-1. [世界首例猪肾移植人体手术测试初步成功， 3 天均未发生排异现象，这项技术有怎样的价值？](https://www.zhihu.com/question/493537408)
 1. [如果「两个黄鹂鸣翠柳，一行白鹭上青天」是我十分钟之前写出来的，会有人觉得它能成为千古名句么？](https://www.zhihu.com/question/363227073)
+1. [世界首例猪肾移植人体手术测试初步成功， 3 天均未发生排异现象，这项技术有怎样的价值？](https://www.zhihu.com/question/493537408)
 1. [网易 CEO 丁磊称要让用户实现「只装一个软件听歌」的目标，难度有多大？为什么用户会选择多个软件听歌？](https://www.zhihu.com/question/493462590)
+1. [如何评价索尼在 2021 年 10 月 21 日发布的全画幅微单 A7M4？](https://www.zhihu.com/question/493779605)
 1. [你觉得国漫的巅峰之作是哪个？](https://www.zhihu.com/question/492775949)
 1. [甲骨文已经证实伊尹确实存在，为什么不能佐证夏朝的存在呢？](https://www.zhihu.com/question/487085237)
-1. [如何评价索尼在 2021 年 10 月 21 日发布的全画幅微单 A7M4？](https://www.zhihu.com/question/493779605)
 1. [如何看待罗翔的「爱具体的人，而非爱抽象的人」?](https://www.zhihu.com/question/486879608)
 1. [TI10 假赛疑云《DOTA2》解说施丹尼强势进场，如何看待他对 TI10 决赛不合理之处的解答？](https://www.zhihu.com/question/493601558)
 1. [为什么现在的年轻人开始羡慕父母那一代的生活？](https://www.zhihu.com/question/493587304)
@@ -78,27 +78,27 @@
 1. [两女子晚上住酒店密码锁被陌生人解开，店方称「不排除客人自导自演」，真实情况如何？入住酒店如何保障安全？](https://www.zhihu.com/question/493501489)
 1. [医生会故意让病人在 ICU 多待一些日子吗？](https://www.zhihu.com/question/493133417)
 1. [2022 年校招互联网大厂薪资情况是怎样的?](https://www.zhihu.com/question/429956519)
+1. [LGD 队员 Y 队发长文总结 TI10 决赛 BanPick 思路，如何评价他们当时做出的决策？](https://www.zhihu.com/question/493758570)
 1. [《甄嬛传》里最愚蠢的嫔妃是谁？](https://www.zhihu.com/question/489685171)
-1. [周大福、周生生、周大生、周六福、六福、金六福、金大福这些牌子有哪些区别？](https://www.zhihu.com/question/32209352)
-1. [如何劝自己不要养猫呢？](https://www.zhihu.com/question/350890019)
-1. [想做平面设计师，有什么需要注意的吗？](https://www.zhihu.com/question/283833125)
-1. [电影《沙丘》口碑如何？值得去电影院看吗？](https://www.zhihu.com/question/484666562)
+1. [如何评价综艺《披荆斩棘的哥哥》第十一期？](https://www.zhihu.com/question/493652574)
 1. [小红书种草笔记代发 4 元一篇，虚假种草需要负法律责任吗？平台要承担什么责任吗？](https://www.zhihu.com/question/493321966)
+1. [如何劝自己不要养猫呢？](https://www.zhihu.com/question/350890019)
+1. [广州有什么让你吃一次就终生难忘的美食？](https://www.zhihu.com/question/480890360)
+1. [想做平面设计师，有什么需要注意的吗？](https://www.zhihu.com/question/283833125)
 1. [考研期间哪些事不能做？](https://www.zhihu.com/question/271809687)
 1. [有哪些特别好的句子？](https://www.zhihu.com/question/483839654)
 1. [如何欣赏雷鬼（Reggae）音乐？](https://www.zhihu.com/question/20962823)
+1. [为什么明明知道男朋友不合适，但为什么还在坚持这段感情?](https://www.zhihu.com/question/460992487)
+1. [周大福、周生生、周大生、周六福、六福、金六福、金大福这些牌子有哪些区别？](https://www.zhihu.com/question/32209352)
 1. [双十一预售李佳琦薇娅销售额近两百亿，头部销售额这么高会挤压平台中小商家流量吗？中小主播、商家怎么办？](https://www.zhihu.com/question/493658320)
+1. [电影《沙丘》口碑如何？值得去电影院看吗？](https://www.zhihu.com/question/484666562)
 1. [狗子自己在家会孤单么？](https://www.zhihu.com/question/475566678)
 1. [行测资料分析怎么缩短做题时间?](https://www.zhihu.com/question/350262314)
 1. [观看由丹尼斯·维伦纽瓦执导的新版《沙丘》之前，我们需要了解哪些东西？](https://www.zhihu.com/question/424553421)
 1. [如何体面的结束一段感情？](https://www.zhihu.com/question/294412231)
-1. [辽宁沈阳市一饭店发生燃气爆炸，已造成 4 人死亡、 47 人受伤，目前情况如何？](https://www.zhihu.com/question/493626666)
 1. [为什么我的猫不愿意睡在我给它买的猫窝里？](https://www.zhihu.com/question/355770059)
 1. [你所在的研究领域有哪些经典笑话？](https://www.zhihu.com/question/491936447)
-1. [结婚该选择一个什么样的人?](https://www.zhihu.com/question/485227674)
 1. [教资刷真题有用吗？](https://www.zhihu.com/question/443024248)
-1. [国考行政执法类考什么？是统一的试卷吗？](https://www.zhihu.com/question/492349814)
-1. [2021 年「双十一」天猫有哪些玩法？](https://www.zhihu.com/question/493328702)
 
 ## 热门视频
 
