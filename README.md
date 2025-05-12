@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-05-12 15:10:12 +0800`
+`更新时间：2025-05-12 16:13:39 +0800`
 
 ## 热门搜索
 
@@ -33,7 +33,6 @@
 1. [gta6第二支预告](https://www.zhihu.com/search?q=gta6%E7%AC%AC%E4%BA%8C%E6%94%AF%E9%A2%84%E5%91%8A)
 1. [降准降息对普通人有何影响](https://www.zhihu.com/search?q=%E9%99%8D%E5%87%86%E9%99%8D%E6%81%AF%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D)
 1. [你的手机信号变 5GA 了吗？](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E6%89%8B%E6%9C%BA%E4%BF%A1%E5%8F%B7%E5%8F%98%205GA%20%E4%BA%86%E5%90%97%EF%BC%9F)
-1. [海昏《齐论语》竹简首露真容](https://www.zhihu.com/search?q=%E6%B5%B7%E6%98%8F%E3%80%8A%E9%BD%90%E8%AE%BA%E8%AF%AD%E3%80%8B%E7%AB%B9%E7%AE%80%E9%A6%96%E9%9C%B2%E7%9C%9F%E5%AE%B9)
 1. [美众院同意将墨西哥湾改名美国湾](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%97%E9%99%A2%E5%90%8C%E6%84%8F%E5%B0%86%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%B9%BE%E6%94%B9%E5%90%8D%E7%BE%8E%E5%9B%BD%E6%B9%BE)
 1. [救护车转运重症病人半路要求加价](https://www.zhihu.com/search?q=%E6%95%91%E6%8A%A4%E8%BD%A6%E8%BD%AC%E8%BF%90%E9%87%8D%E7%97%87%E7%97%85%E4%BA%BA%E5%8D%8A%E8%B7%AF%E8%A6%81%E6%B1%82%E5%8A%A0%E4%BB%B7)
 1. [西安冰雹](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E5%86%B0%E9%9B%B9)
