@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-05-23 14:13:42 +0800`
+`更新时间：2025-05-23 15:09:52 +0800`
 
 ## 热门搜索
 
+1. [鹿晗新歌](https://www.zhihu.com/search?q=%E9%B9%BF%E6%99%97%E6%96%B0%E6%AD%8C)
 1. [武汉暴雨](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8)
 1. [湖北暴雨](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E6%9A%B4%E9%9B%A8)
 1. [为何都说人生的容错率大到无法想象](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%83%BD%E8%AF%B4%E4%BA%BA%E7%94%9F%E7%9A%84%E5%AE%B9%E9%94%99%E7%8E%87%E5%A4%A7%E5%88%B0%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1)
@@ -31,11 +32,9 @@
 1. [林诗栋/蒯曼：这个比分没料到](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B/%E8%92%AF%E6%9B%BC%EF%BC%9A%E8%BF%99%E4%B8%AA%E6%AF%94%E5%88%86%E6%B2%A1%E6%96%99%E5%88%B0)
 1. [林诗栋/蒯曼晋级混双 16 强](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B/%E8%92%AF%E6%9B%BC%E6%99%8B%E7%BA%A7%E6%B7%B7%E5%8F%8C%2016%20%E5%BC%BA)
 1. [瑞士法郎是避风港](https://www.zhihu.com/search?q=%E7%91%9E%E5%A3%AB%E6%B3%95%E9%83%8E%E6%98%AF%E9%81%BF%E9%A3%8E%E6%B8%AF)
+1. [23999元的鸿蒙电脑值得买吗](https://www.zhihu.com/search?q=23999%E5%85%83%E7%9A%84%E9%B8%BF%E8%92%99%E7%94%B5%E8%84%91%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97)
 1. [中国操作系统市场规模](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1)
 1. [英特尔考虑剥离其网络与边缘业务](https://www.zhihu.com/search?q=%E8%8B%B1%E7%89%B9%E5%B0%94%E8%80%83%E8%99%91%E5%89%A5%E7%A6%BB%E5%85%B6%E7%BD%91%E7%BB%9C%E4%B8%8E%E8%BE%B9%E7%BC%98%E4%B8%9A%E5%8A%A1)
-1. [西安碑林博物馆文物遭多人刻字](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E7%A2%91%E6%9E%97%E5%8D%9A%E7%89%A9%E9%A6%86%E6%96%87%E7%89%A9%E9%81%AD%E5%A4%9A%E4%BA%BA%E5%88%BB%E5%AD%97)
-1. [欧盟下调经济增长预期](https://www.zhihu.com/search?q=%E6%AC%A7%E7%9B%9F%E4%B8%8B%E8%B0%83%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E9%A2%84%E6%9C%9F)
-1. [一家三口溺水两人遇难失联](https://www.zhihu.com/search?q=%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E6%BA%BA%E6%B0%B4%E4%B8%A4%E4%BA%BA%E9%81%87%E9%9A%BE%E5%A4%B1%E8%81%94)
 
 ## 热门话题
 
