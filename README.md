@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-05-23 07:09:02 +0800`
+`更新时间：2025-05-23 08:44:06 +0800`
 
 ## 热门搜索
 
@@ -19,6 +19,7 @@
 1. [湖北暴雨](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E6%9A%B4%E9%9B%A8)
 1. [为何都说人生的容错率大到无法想象](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%83%BD%E8%AF%B4%E4%BA%BA%E7%94%9F%E7%9A%84%E5%AE%B9%E9%94%99%E7%8E%87%E5%A4%A7%E5%88%B0%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1)
 1. [网红儿童成父母「摇钱树」](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%84%BF%E7%AB%A5%E6%88%90%E7%88%B6%E6%AF%8D%E3%80%8C%E6%91%87%E9%92%B1%E6%A0%91%E3%80%8D)
+1. [花 4000 元报冥想班是智商税吗](https://www.zhihu.com/search?q=%E8%8A%B1%204000%20%E5%85%83%E6%8A%A5%E5%86%A5%E6%83%B3%E7%8F%AD%E6%98%AF%E6%99%BA%E5%95%86%E7%A8%8E%E5%90%97)
 1. [黄杨钿甜戴 230 万耳环被质疑](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E6%88%B4%20230%20%E4%B8%87%E8%80%B3%E7%8E%AF%E8%A2%AB%E8%B4%A8%E7%96%91)
 1. [雷军：小米玄戒O1芯片采用第二代3nm工艺制程](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92O1%E8%8A%AF%E7%89%87%E9%87%87%E7%94%A8%E7%AC%AC%E4%BA%8C%E4%BB%A33nm%E5%B7%A5%E8%89%BA%E5%88%B6%E7%A8%8B)
 1. [多家大行下调存款利率1年期下破1%](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E5%A4%A7%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%871%E5%B9%B4%E6%9C%9F%E4%B8%8B%E7%A0%B41%25)
