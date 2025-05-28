@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-05-28 07:08:49 +0800`
+`更新时间：2025-05-28 08:44:30 +0800`
 
 ## 热门搜索
 
-1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=%E5%93%AA%E4%B8%80%E5%88%BB%E8%AE%A9%E4%BD%A0%E7%BB%88%E4%BA%8E%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%86%E8%BF%99%E5%B0%B1%E6%98%AF%E5%91%BD)
-1. [人为什么要睡觉](https://www.zhihu.com/search?q=%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89)
+1. [还记得你高考交卷前在想什么吗](https://www.zhihu.com/search?q=%E8%BF%98%E8%AE%B0%E5%BE%97%E4%BD%A0%E9%AB%98%E8%80%83%E4%BA%A4%E5%8D%B7%E5%89%8D%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88%E5%90%97)
+1. [陈幸同总结多哈世乒赛](https://www.zhihu.com/search?q=%E9%99%88%E5%B9%B8%E5%90%8C%E6%80%BB%E7%BB%93%E5%A4%9A%E5%93%88%E4%B8%96%E4%B9%92%E8%B5%9B)
 1. [女子在家中被捅伤致死](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%AE%B6%E4%B8%AD%E8%A2%AB%E6%8D%85%E4%BC%A4%E8%87%B4%E6%AD%BB)
 1. [毕赣狂野时代](https://www.zhihu.com/search?q=%E6%AF%95%E8%B5%A3%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3)
 1. [折腰预告](https://www.zhihu.com/search?q=%E6%8A%98%E8%85%B0%E9%A2%84%E5%91%8A)
