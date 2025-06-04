@@ -11,13 +11,14 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-06-04 13:10:33 +0800`
+`更新时间：2025-06-04 14:14:07 +0800`
 
 ## 热门搜索
 
-1. [李在明](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E)
-1. [小沈阳演唱会](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%BC%94%E5%94%B1%E4%BC%9A)
-1. [郑钦文vs萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87vs%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
+1. [一个重达 2 吨的肥宅能不能赢泰森](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E9%87%8D%E8%BE%BE%202%20%E5%90%A8%E7%9A%84%E8%82%A5%E5%AE%85%E8%83%BD%E4%B8%8D%E8%83%BD%E8%B5%A2%E6%B3%B0%E6%A3%AE)
+1. [能在麦穗上面飞奔的是什么蛇](https://www.zhihu.com/search?q=%E8%83%BD%E5%9C%A8%E9%BA%A6%E7%A9%97%E4%B8%8A%E9%9D%A2%E9%A3%9E%E5%A5%94%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E8%9B%87)
+1. [李在明：彻查「世越」号及梨泰院事故](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E%EF%BC%9A%E5%BD%BB%E6%9F%A5%E3%80%8C%E4%B8%96%E8%B6%8A%E3%80%8D%E5%8F%B7%E5%8F%8A%E6%A2%A8%E6%B3%B0%E9%99%A2%E4%BA%8B%E6%95%85)
+1. [蔚来一季度营收超120亿](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E4%B8%80%E5%AD%A3%E5%BA%A6%E8%90%A5%E6%94%B6%E8%B6%85120%E4%BA%BF)
 1. [你见过哪些结婚作死的行为](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E7%BB%93%E5%A9%9A%E4%BD%9C%E6%AD%BB%E7%9A%84%E8%A1%8C%E4%B8%BA)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
@@ -42,7 +43,6 @@
 1. [新手买相机推荐](https://www.zhihu.com/search?q=%E6%96%B0%E6%89%8B%E4%B9%B0%E7%9B%B8%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 给一岁宝宝囤点玩具](https://www.zhihu.com/search?q=618%20%E7%BB%99%E4%B8%80%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9B%A4%E7%82%B9%E7%8E%A9%E5%85%B7)
 1. [运动黑科技产品推荐](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E9%BB%91%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%8E%A8%E8%8D%90)
-1. [618 主打科技力的跑鞋](https://www.zhihu.com/search?q=618%20%E4%B8%BB%E6%89%93%E7%A7%91%E6%8A%80%E5%8A%9B%E7%9A%84%E8%B7%91%E9%9E%8B)
 
 ## 热门话题
 
