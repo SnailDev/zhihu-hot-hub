@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-06-06 08:44:21 +0800`
+`更新时间：2025-06-06 10:29:41 +0800`
 
 ## 热门搜索
 
-1. [如何看待黄杨钿甜的「你奈我何」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E7%9A%84%E3%80%8C%E4%BD%A0%E5%A5%88%E6%88%91%E4%BD%95%E3%80%8D)
-1. [如何看待此次榴莲价格「腰斩」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%AD%A4%E6%AC%A1%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E3%80%8C%E8%85%B0%E6%96%A9%E3%80%8D)
+1. [女童衣着暴露直播会对其造成怎样的影响](https://www.zhihu.com/search?q=%E5%A5%B3%E7%AB%A5%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%E7%9B%B4%E6%92%AD%E4%BC%9A%E5%AF%B9%E5%85%B6%E9%80%A0%E6%88%90%E6%80%8E%E6%A0%B7%E7%9A%84%E5%BD%B1%E5%93%8D)
+1. [为什么高启兰戴上眼镜那么美](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E5%90%AF%E5%85%B0%E6%88%B4%E4%B8%8A%E7%9C%BC%E9%95%9C%E9%82%A3%E4%B9%88%E7%BE%8E)
 1. [《歌手》第四期歌单](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E7%AC%AC%E5%9B%9B%E6%9C%9F%E6%AD%8C%E5%8D%95)
 1. [歌手歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95)
 1. [有哪句影视台词是你至今难忘的](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E5%8F%A5%E5%BD%B1%E8%A7%86%E5%8F%B0%E8%AF%8D%E6%98%AF%E4%BD%A0%E8%87%B3%E4%BB%8A%E9%9A%BE%E5%BF%98%E7%9A%84)
