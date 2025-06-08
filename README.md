@@ -11,18 +11,18 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-06-08 22:07:59 +0800`
+`更新时间：2025-06-08 23:08:04 +0800`
 
 ## 热门搜索
 
-1. [高考英语](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD)
-1. [北京高考作文](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87)
+1. [有店铺紫色内裤周销量上涨10倍](https://www.zhihu.com/search?q=%E6%9C%89%E5%BA%97%E9%93%BA%E7%B4%AB%E8%89%B2%E5%86%85%E8%A3%A4%E5%91%A8%E9%94%80%E9%87%8F%E4%B8%8A%E6%B6%A810%E5%80%8D)
+1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [国足首发](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91)
 1. [长沙暴雨](https://www.zhihu.com/search?q=%E9%95%BF%E6%B2%99%E6%9A%B4%E9%9B%A8)
 1. [如何看待美国识字率只有 79％](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E8%AF%86%E5%AD%97%E7%8E%87%E5%8F%AA%E6%9C%89%2079%EF%BC%85)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F)
 1. [「妈妈岗」在全国各地兴起](https://www.zhihu.com/search?q=%E3%80%8C%E5%A6%88%E5%A6%88%E5%B2%97%E3%80%8D%E5%9C%A8%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E5%85%B4%E8%B5%B7)
-1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
+1. [华为将发布全球首款5g智能手表](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE5g%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
 1. [618 护眼灯选购](https://www.zhihu.com/search?q=618%20%E6%8A%A4%E7%9C%BC%E7%81%AF%E9%80%89%E8%B4%AD)
