@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-06-09 08:48:43 +0800`
+`更新时间：2025-06-09 10:45:04 +0800`
 
 ## 热门搜索
 
-1. [高考英语](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD)
-1. [国足首发](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91)
+1. [国产新能源车跑了31万公里电池被锁](https://www.zhihu.com/search?q=%E5%9B%BD%E4%BA%A7%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%B7%91%E4%BA%8631%E4%B8%87%E5%85%AC%E9%87%8C%E7%94%B5%E6%B1%A0%E8%A2%AB%E9%94%81)
+1. [叶童曾担心参加浪姐会砸了饭碗](https://www.zhihu.com/search?q=%E5%8F%B6%E7%AB%A5%E6%9B%BE%E6%8B%85%E5%BF%83%E5%8F%82%E5%8A%A0%E6%B5%AA%E5%A7%90%E4%BC%9A%E7%A0%B8%E4%BA%86%E9%A5%AD%E7%A2%97)
 1. [如何看待美国识字率只有 79％](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E8%AF%86%E5%AD%97%E7%8E%87%E5%8F%AA%E6%9C%89%2079%EF%BC%85)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F)
 1. [「妈妈岗」在全国各地兴起](https://www.zhihu.com/search?q=%E3%80%8C%E5%A6%88%E5%A6%88%E5%B2%97%E3%80%8D%E5%9C%A8%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E5%85%B4%E8%B5%B7)
