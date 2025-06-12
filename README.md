@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-06-12 10:30:24 +0800`
+`更新时间：2025-06-12 11:40:37 +0800`
 
 ## 热门搜索
 
-1. [美团nocode上线](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2nocode%E4%B8%8A%E7%BA%BF)
-1. [发工资不让干活是一种新型诈骗](https://www.zhihu.com/search?q=%E5%8F%91%E5%B7%A5%E8%B5%84%E4%B8%8D%E8%AE%A9%E5%B9%B2%E6%B4%BB%E6%98%AF%E4%B8%80%E7%A7%8D%E6%96%B0%E5%9E%8B%E8%AF%88%E9%AA%97)
+1. [山东地理](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E7%90%86)
+1. [45岁张柏芝近照曝光变化好大](https://www.zhihu.com/search?q=45%E5%B2%81%E5%BC%A0%E6%9F%8F%E8%8A%9D%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89%E5%8F%98%E5%8C%96%E5%A5%BD%E5%A4%A7)
 1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
 1. [国足vs巴林](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97)
 1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E7%9D%80%E8%A3%85%E6%9C%80%E5%BF%8C%E8%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
