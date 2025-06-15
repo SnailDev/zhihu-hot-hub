@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-06-15 07:09:01 +0800`
+`更新时间：2025-06-15 08:51:57 +0800`
 
 ## 热门搜索
 
-1. [四六级](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7)
-1. [B站崩了](https://www.zhihu.com/search?q=B%E7%AB%99%E5%B4%A9%E4%BA%86)
+1. [labubu盲盒二手市场溢价超30倍](https://www.zhihu.com/search?q=labubu%E7%9B%B2%E7%9B%92%E4%BA%8C%E6%89%8B%E5%B8%82%E5%9C%BA%E6%BA%A2%E4%BB%B7%E8%B6%8530%E5%80%8D)
+1. [高考结束后的老师们](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%E7%9A%84%E8%80%81%E5%B8%88%E4%BB%AC)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
