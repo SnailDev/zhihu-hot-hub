@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-06-19 16:13:33 +0800`
+`更新时间：2025-06-19 17:10:50 +0800`
 
 ## 热门搜索
 
-1. [奥迪暂停全面电动化计划](https://www.zhihu.com/search?q=%E5%A5%A5%E8%BF%AA%E6%9A%82%E5%81%9C%E5%85%A8%E9%9D%A2%E7%94%B5%E5%8A%A8%E5%8C%96%E8%AE%A1%E5%88%92)
+1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%B9%B2%E8%BF%87%E6%9C%80%E7%89%9B%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [发明魔芋的前辈是经历了什么](https://www.zhihu.com/search?q=%E5%8F%91%E6%98%8E%E9%AD%94%E8%8A%8B%E7%9A%84%E5%89%8D%E8%BE%88%E6%98%AF%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [健身为什么比较花钱呢](https://www.zhihu.com/search?q=%E5%81%A5%E8%BA%AB%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94%E8%BE%83%E8%8A%B1%E9%92%B1%E5%91%A2)
 1. [中年夫妻有多少是生活和谐的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E6%9C%89%E5%A4%9A%E5%B0%91%E6%98%AF%E7%94%9F%E6%B4%BB%E5%92%8C%E8%B0%90%E7%9A%84)
@@ -31,7 +32,6 @@
 1. [民办校少了1.5万所](https://www.zhihu.com/search?q=%E6%B0%91%E5%8A%9E%E6%A0%A1%E5%B0%91%E4%BA%861.5%E4%B8%87%E6%89%80)
 1. [雷军称小米 YU7 将于六月底发布](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%20YU7%20%E5%B0%86%E4%BA%8E%E5%85%AD%E6%9C%88%E5%BA%95%E5%8F%91%E5%B8%83)
 1. [第二款玄戒 O1 平板 7S Pro将发布](https://www.zhihu.com/search?q=%E7%AC%AC%E4%BA%8C%E6%AC%BE%E7%8E%84%E6%88%92%20O1%20%E5%B9%B3%E6%9D%BF%207S%20Pro%E5%B0%86%E5%8F%91%E5%B8%83)
-1. [Labubu 包挂迈向时尚奢侈品圈](https://www.zhihu.com/search?q=Labubu%20%E5%8C%85%E6%8C%82%E8%BF%88%E5%90%91%E6%97%B6%E5%B0%9A%E5%A5%A2%E4%BE%88%E5%93%81%E5%9C%88)
 1. [奔驰车高速失控竟是前车主远程劫车](https://www.zhihu.com/search?q=%E5%A5%94%E9%A9%B0%E8%BD%A6%E9%AB%98%E9%80%9F%E5%A4%B1%E6%8E%A7%E7%AB%9F%E6%98%AF%E5%89%8D%E8%BD%A6%E4%B8%BB%E8%BF%9C%E7%A8%8B%E5%8A%AB%E8%BD%A6)
 1. [日本平价寿司北上广爆火](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%B9%B3%E4%BB%B7%E5%AF%BF%E5%8F%B8%E5%8C%97%E4%B8%8A%E5%B9%BF%E7%88%86%E7%81%AB)
 1. [俄罗斯从伊朗撤侨](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E4%BB%8E%E4%BC%8A%E6%9C%97%E6%92%A4%E4%BE%A8)
