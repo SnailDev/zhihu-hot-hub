@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-06-26 16:13:31 +0800`
+`更新时间：2025-06-26 17:11:11 +0800`
 
 ## 热门搜索
 
-1. [浙江高考最高分总分](https://www.zhihu.com/search?q=%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E6%9C%80%E9%AB%98%E5%88%86%E6%80%BB%E5%88%86)
-1. [地震干饭小孩哥被教育了](https://www.zhihu.com/search?q=%E5%9C%B0%E9%9C%87%E5%B9%B2%E9%A5%AD%E5%B0%8F%E5%AD%A9%E5%93%A5%E8%A2%AB%E6%95%99%E8%82%B2%E4%BA%86)
+1. [高考失利怎么办](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E6%80%8E%E4%B9%88%E5%8A%9E)
+1. [高考失利](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9)
 1. [广东高考分数线公布](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [为何中国象棋中要设置马脚](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E4%B8%AD%E8%A6%81%E8%AE%BE%E7%BD%AE%E9%A9%AC%E8%84%9A)
 1. [四川高考分数线公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
