@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-06-27 14:14:55 +0800`
+`更新时间：2025-06-27 15:10:41 +0800`
 
 ## 热门搜索
 
@@ -36,6 +36,7 @@
 1. [2025山西高考分数线](https://www.zhihu.com/search?q=2025%E5%B1%B1%E8%A5%BF%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [山西高考出分](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [选志愿听张朝阳还是张雪峰](https://www.zhihu.com/search?q=%E9%80%89%E5%BF%97%E6%84%BF%E5%90%AC%E5%BC%A0%E6%9C%9D%E9%98%B3%E8%BF%98%E6%98%AF%E5%BC%A0%E9%9B%AA%E5%B3%B0)
+1. [谷歌华人工程师杀妻案再开庭](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%8D%8E%E4%BA%BA%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%9D%80%E5%A6%BB%E6%A1%88%E5%86%8D%E5%BC%80%E5%BA%AD)
 
 ## 热门话题
 
