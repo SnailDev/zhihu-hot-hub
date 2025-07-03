@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-07-03 11:45:15 +0800`
+`更新时间：2025-07-03 12:22:22 +0800`
 
 ## 热门搜索
 
-1. [黑救护车上死亡停车吃饭耽误半小时](https://www.zhihu.com/search?q=%E9%BB%91%E6%95%91%E6%8A%A4%E8%BD%A6%E4%B8%8A%E6%AD%BB%E4%BA%A1%E5%81%9C%E8%BD%A6%E5%90%83%E9%A5%AD%E8%80%BD%E8%AF%AF%E5%8D%8A%E5%B0%8F%E6%97%B6)
+1. [特斯拉涨价](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%B6%A8%E4%BB%B7)
+1. [中年夫妻有多少生活和谐的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E6%9C%89%E5%A4%9A%E5%B0%91%E7%94%9F%E6%B4%BB%E5%92%8C%E8%B0%90%E7%9A%84)
 1. [今晚油价上调](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83)
 1. [一分一段表](https://www.zhihu.com/search?q=%E4%B8%80%E5%88%86%E4%B8%80%E6%AE%B5%E8%A1%A8)
 1. [多家健身房拒绝为老人办卡](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E5%81%A5%E8%BA%AB%E6%88%BF%E6%8B%92%E7%BB%9D%E4%B8%BA%E8%80%81%E4%BA%BA%E5%8A%9E%E5%8D%A1)
