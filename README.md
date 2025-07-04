@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-07-04 17:11:00 +0800`
+`更新时间：2025-07-04 18:10:31 +0800`
 
 ## 热门搜索
 
-1. [成都暴雨](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8)
-1. [英伟达股价再创新高](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98)
+1. [如何看待比亚迪 6 月销量](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%AF%94%E4%BA%9A%E8%BF%AA%206%20%E6%9C%88%E9%94%80%E9%87%8F)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [中年夫妻有多少生活和谐的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E6%9C%89%E5%A4%9A%E5%B0%91%E7%94%9F%E6%B4%BB%E5%92%8C%E8%B0%90%E7%9A%84)
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
