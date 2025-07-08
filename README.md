@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-07-08 10:43:06 +0800`
+`更新时间：2025-07-08 11:44:16 +0800`
 
 ## 热门搜索
 
-1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
+1. [学生拒报清北老师大怒解散群聊](https://www.zhihu.com/search?q=%E5%AD%A6%E7%94%9F%E6%8B%92%E6%8A%A5%E6%B8%85%E5%8C%97%E8%80%81%E5%B8%88%E5%A4%A7%E6%80%92%E8%A7%A3%E6%95%A3%E7%BE%A4%E8%81%8A)
+1. [养蜜袋鼯会后悔吗](https://www.zhihu.com/search?q=%E5%85%BB%E8%9C%9C%E8%A2%8B%E9%BC%AF%E4%BC%9A%E5%90%8E%E6%82%94%E5%90%97)
 1. [青岛大学毕业典礼](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
