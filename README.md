@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-07-09 14:14:47 +0800`
+`更新时间：2025-07-09 15:12:02 +0800`
 
 ## 热门搜索
 
-1. [国足vs韩国](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3vs%E9%9F%A9%E5%9B%BD)
-1. [美团崩了](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E5%B4%A9%E4%BA%86)
+1. [曝蜜雪冰城员工用脚关直饮水桶](https://www.zhihu.com/search?q=%E6%9B%9D%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%91%98%E5%B7%A5%E7%94%A8%E8%84%9A%E5%85%B3%E7%9B%B4%E9%A5%AE%E6%B0%B4%E6%A1%B6)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
