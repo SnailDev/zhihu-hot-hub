@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-07-10 11:46:24 +0800`
+`更新时间：2025-07-10 12:22:38 +0800`
 
 ## 热门搜索
 
-1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
+1. [湖南发现4.9亿吨锂矿石](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E5%8F%91%E7%8E%B04.9%E4%BA%BF%E5%90%A8%E9%94%82%E7%9F%BF%E7%9F%B3)
+1. [巴黎高定时装周](https://www.zhihu.com/search?q=%E5%B7%B4%E9%BB%8E%E9%AB%98%E5%AE%9A%E6%97%B6%E8%A3%85%E5%91%A8)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
 1. [消暑家电选购清单](https://www.zhihu.com/search?q=%E6%B6%88%E6%9A%91%E5%AE%B6%E7%94%B5%E9%80%89%E8%B4%AD%E6%B8%85%E5%8D%95)
