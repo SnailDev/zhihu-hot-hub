@@ -11,19 +11,19 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-07-10 15:12:05 +0800`
+`更新时间：2025-07-10 16:13:37 +0800`
 
 ## 热门搜索
 
-1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
+1. [矿山瞒报事故举报者信息泄露](https://www.zhihu.com/search?q=%E7%9F%BF%E5%B1%B1%E7%9E%92%E6%8A%A5%E4%BA%8B%E6%95%85%E4%B8%BE%E6%8A%A5%E8%80%85%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2)
+1. [咖啡缺铁性贫血](https://www.zhihu.com/search?q=%E5%92%96%E5%95%A1%E7%BC%BA%E9%93%81%E6%80%A7%E8%B4%AB%E8%A1%80)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
 1. [消暑家电选购清单](https://www.zhihu.com/search?q=%E6%B6%88%E6%9A%91%E5%AE%B6%E7%94%B5%E9%80%89%E8%B4%AD%E6%B8%85%E5%8D%95)
-1. [不靠心静靠硬实力](https://www.zhihu.com/search?q=%E4%B8%8D%E9%9D%A0%E5%BF%83%E9%9D%99%E9%9D%A0%E7%A1%AC%E5%AE%9E%E5%8A%9B)
 1. [全场景消暑指南](https://www.zhihu.com/search?q=%E5%85%A8%E5%9C%BA%E6%99%AF%E6%B6%88%E6%9A%91%E6%8C%87%E5%8D%97)
 1. [空调选购的捷径是「匹配需求」](https://www.zhihu.com/search?q=%E7%A9%BA%E8%B0%83%E9%80%89%E8%B4%AD%E7%9A%84%E6%8D%B7%E5%BE%84%E6%98%AF%E3%80%8C%E5%8C%B9%E9%85%8D%E9%9C%80%E6%B1%82%E3%80%8D)
 1. [懂行人才知道的空调选购要点](https://www.zhihu.com/search?q=%E6%87%82%E8%A1%8C%E4%BA%BA%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E7%A9%BA%E8%B0%83%E9%80%89%E8%B4%AD%E8%A6%81%E7%82%B9)
-1. [厨房像桑拿房怎么办？](https://www.zhihu.com/search?q=%E5%8E%A8%E6%88%BF%E5%83%8F%E6%A1%91%E6%8B%BF%E6%88%BF%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F)
+1. [教育局回应学校后厨用扫把清理厨具](https://www.zhihu.com/search?q=%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E6%A0%A1%E5%90%8E%E5%8E%A8%E7%94%A8%E6%89%AB%E6%8A%8A%E6%B8%85%E7%90%86%E5%8E%A8%E5%85%B7)
 1. [拯救夏日厨房桑拿房](https://www.zhihu.com/search?q=%E6%8B%AF%E6%95%91%E5%A4%8F%E6%97%A5%E5%8E%A8%E6%88%BF%E6%A1%91%E6%8B%BF%E6%88%BF)
 1. [夏日不开火厨房](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E4%B8%8D%E5%BC%80%E7%81%AB%E5%8E%A8%E6%88%BF)
 1. [轻松应对夏日爆炒的油烟机](https://www.zhihu.com/search?q=%E8%BD%BB%E6%9D%BE%E5%BA%94%E5%AF%B9%E5%A4%8F%E6%97%A5%E7%88%86%E7%82%92%E7%9A%84%E6%B2%B9%E7%83%9F%E6%9C%BA)
