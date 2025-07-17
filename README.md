@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-07-17 15:13:36 +0800`
+`更新时间：2025-07-17 16:14:12 +0800`
 
 ## 热门搜索
 
-1. [生父回应把孩子塞后备箱：不会道歉](https://www.zhihu.com/search?q=%E7%94%9F%E7%88%B6%E5%9B%9E%E5%BA%94%E6%8A%8A%E5%AD%A9%E5%AD%90%E5%A1%9E%E5%90%8E%E5%A4%87%E7%AE%B1%EF%BC%9A%E4%B8%8D%E4%BC%9A%E9%81%93%E6%AD%89)
-1. [比特币突破12万美元关口](https://www.zhihu.com/search?q=%E6%AF%94%E7%89%B9%E5%B8%81%E7%AA%81%E7%A0%B412%E4%B8%87%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3)
+1. [说说你身边最震惊你的八卦](https://www.zhihu.com/search?q=%E8%AF%B4%E8%AF%B4%E4%BD%A0%E8%BA%AB%E8%BE%B9%E6%9C%80%E9%9C%87%E6%83%8A%E4%BD%A0%E7%9A%84%E5%85%AB%E5%8D%A6)
 1. [为什么越来越多年轻人不买房](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E4%B9%B0%E6%88%BF)
 1. [开轿车累还是 suv 累](https://www.zhihu.com/search?q=%E5%BC%80%E8%BD%BF%E8%BD%A6%E7%B4%AF%E8%BF%98%E6%98%AF%20suv%20%E7%B4%AF)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
@@ -27,6 +26,7 @@
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
+1. [消暑家电选购清单](https://www.zhihu.com/search?q=%E6%B6%88%E6%9A%91%E5%AE%B6%E7%94%B5%E9%80%89%E8%B4%AD%E6%B8%85%E5%8D%95)
 1. [不靠心静靠硬实力](https://www.zhihu.com/search?q=%E4%B8%8D%E9%9D%A0%E5%BF%83%E9%9D%99%E9%9D%A0%E7%A1%AC%E5%AE%9E%E5%8A%9B)
 1. [全场景消暑指南](https://www.zhihu.com/search?q=%E5%85%A8%E5%9C%BA%E6%99%AF%E6%B6%88%E6%9A%91%E6%8C%87%E5%8D%97)
 1. [空调选购的捷径是「匹配需求」](https://www.zhihu.com/search?q=%E7%A9%BA%E8%B0%83%E9%80%89%E8%B4%AD%E7%9A%84%E6%8D%B7%E5%BE%84%E6%98%AF%E3%80%8C%E5%8C%B9%E9%85%8D%E9%9C%80%E6%B1%82%E3%80%8D)
