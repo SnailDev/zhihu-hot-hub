@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-07-28 10:59:10 +0800`
+`更新时间：2025-07-28 12:04:22 +0800`
 
 ## 热门搜索
 
-1. [河北阜平山洪暴发车辆被冲走](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E9%98%9C%E5%B9%B3%E5%B1%B1%E6%B4%AA%E6%9A%B4%E5%8F%91%E8%BD%A6%E8%BE%86%E8%A2%AB%E5%86%B2%E8%B5%B0)
-1. [北大将全面取消绩点](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E7%BB%A9%E7%82%B9)
+1. [BLG战胜AL](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CAL)
+1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
 1. [消暑家电选购清单](https://www.zhihu.com/search?q=%E6%B6%88%E6%9A%91%E5%AE%B6%E7%94%B5%E9%80%89%E8%B4%AD%E6%B8%85%E5%8D%95)
