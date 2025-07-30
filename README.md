@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-07-30 08:50:12 +0800`
+`更新时间：2025-07-30 10:55:21 +0800`
 
 ## 热门搜索
 
-1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
+1. [樊振东德甲赛场见](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BE%B7%E7%94%B2%E8%B5%9B%E5%9C%BA%E8%A7%81)
+1. [如何判断电视的三六九等](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E7%94%B5%E8%A7%86%E7%9A%84%E4%B8%89%E5%85%AD%E4%B9%9D%E7%AD%89)
 1. [数学是从什么时候开始反直觉的](https://www.zhihu.com/search?q=%E6%95%B0%E5%AD%A6%E6%98%AF%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84)
 1. [石宇奇夺冠](https://www.zhihu.com/search?q=%E7%9F%B3%E5%AE%87%E5%A5%87%E5%A4%BA%E5%86%A0)
 1. [皮亚斯特里夺冠](https://www.zhihu.com/search?q=%E7%9A%AE%E4%BA%9A%E6%96%AF%E7%89%B9%E9%87%8C%E5%A4%BA%E5%86%A0)
