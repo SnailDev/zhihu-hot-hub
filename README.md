@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-08-02 11:50:21 +0800`
+`更新时间：2025-08-02 12:25:34 +0800`
 
 ## 热门搜索
 
-1. [95后女飞行员徐枫灿回应质疑](https://www.zhihu.com/search?q=95%E5%90%8E%E5%A5%B3%E9%A3%9E%E8%A1%8C%E5%91%98%E5%BE%90%E6%9E%AB%E7%81%BF%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91)
+1. [少林寺新住持16岁出家](https://www.zhihu.com/search?q=%E5%B0%91%E6%9E%97%E5%AF%BA%E6%96%B0%E4%BD%8F%E6%8C%8116%E5%B2%81%E5%87%BA%E5%AE%B6)
+1. [爱康国宾媒体说明会](https://www.zhihu.com/search?q=%E7%88%B1%E5%BA%B7%E5%9B%BD%E5%AE%BE%E5%AA%92%E4%BD%93%E8%AF%B4%E6%98%8E%E4%BC%9A)
 1. [陈芋汐10米台冠军](https://www.zhihu.com/search?q=%E9%99%88%E8%8A%8B%E6%B1%9010%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B)
 1. [8月起这些新规开始施行](https://www.zhihu.com/search?q=8%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C)
 1. [一个演员的演技能好到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E6%BC%94%E5%91%98%E7%9A%84%E6%BC%94%E6%8A%80%E8%83%BD%E5%A5%BD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
