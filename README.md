@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-08-04 13:29:20 +0800`
+`更新时间：2025-08-04 14:21:23 +0800`
 
 ## 热门搜索
 
-1. [老外写了首关于731罪行的英文歌](https://www.zhihu.com/search?q=%E8%80%81%E5%A4%96%E5%86%99%E4%BA%86%E9%A6%96%E5%85%B3%E4%BA%8E731%E7%BD%AA%E8%A1%8C%E7%9A%84%E8%8B%B1%E6%96%87%E6%AD%8C)
-1. [美对柬商品征收19%的关税](https://www.zhihu.com/search?q=%E7%BE%8E%E5%AF%B9%E6%9F%AC%E5%95%86%E5%93%81%E5%BE%81%E6%94%B619%25%E7%9A%84%E5%85%B3%E7%A8%8E)
+1. [陈芋汐10米台冠军](https://www.zhihu.com/search?q=%E9%99%88%E8%8A%8B%E6%B1%9010%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B)
+1. [男女力量差距真的那么大么](https://www.zhihu.com/search?q=%E7%94%B7%E5%A5%B3%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D%E7%9C%9F%E7%9A%84%E9%82%A3%E4%B9%88%E5%A4%A7%E4%B9%88)
 1. [8月起这些新规开始施行](https://www.zhihu.com/search?q=8%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C)
 1. [南京照相馆票房](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86%E7%A5%A8%E6%88%BF)
 1. [索尼起诉腾讯新游抄袭](https://www.zhihu.com/search?q=%E7%B4%A2%E5%B0%BC%E8%B5%B7%E8%AF%89%E8%85%BE%E8%AE%AF%E6%96%B0%E6%B8%B8%E6%8A%84%E8%A2%AD)
