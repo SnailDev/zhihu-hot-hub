@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-08-08 10:56:11 +0800`
+`更新时间：2025-08-08 12:00:03 +0800`
 
 ## 热门搜索
 
@@ -26,7 +26,6 @@
 1. [教师招聘笔试17分考生进复审](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E6%8B%9B%E8%81%98%E7%AC%94%E8%AF%9517%E5%88%86%E8%80%83%E7%94%9F%E8%BF%9B%E5%A4%8D%E5%AE%A1)
 1. [土豆的妈妈是番茄](https://www.zhihu.com/search?q=%E5%9C%9F%E8%B1%86%E7%9A%84%E5%A6%88%E5%A6%88%E6%98%AF%E7%95%AA%E8%8C%84)
 1. [湖南一村小开设心智素养课](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E5%B0%8F%E5%BC%80%E8%AE%BE%E5%BF%83%E6%99%BA%E7%B4%A0%E5%85%BB%E8%AF%BE)
-1. [理想i8取消高低配](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3i8%E5%8F%96%E6%B6%88%E9%AB%98%E4%BD%8E%E9%85%8D)
 1. [美国驻海地大使馆发生枪击事件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E9%A9%BB%E6%B5%B7%E5%9C%B0%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6)
 1. [买47种药须实名登记](https://www.zhihu.com/search?q=%E4%B9%B047%E7%A7%8D%E8%8D%AF%E9%A1%BB%E5%AE%9E%E5%90%8D%E7%99%BB%E8%AE%B0)
 1. [佛山买47种药须实名登记](https://www.zhihu.com/search?q=%E4%BD%9B%E5%B1%B1%E4%B9%B047%E7%A7%8D%E8%8D%AF%E9%A1%BB%E5%AE%9E%E5%90%8D%E7%99%BB%E8%AE%B0)
