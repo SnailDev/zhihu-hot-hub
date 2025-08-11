@@ -11,14 +11,13 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-08-11 12:41:25 +0800`
+`更新时间：2025-08-11 13:19:22 +0800`
 
 ## 热门搜索
 
-1. [怎么煮茶叶蛋才能入味](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E7%85%AE%E8%8C%B6%E5%8F%B6%E8%9B%8B%E6%89%8D%E8%83%BD%E5%85%A5%E5%91%B3)
+1. [广西国资拟入主南方黑芝麻集团](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%9B%BD%E8%B5%84%E6%8B%9F%E5%85%A5%E4%B8%BB%E5%8D%97%E6%96%B9%E9%BB%91%E8%8A%9D%E9%BA%BB%E9%9B%86%E5%9B%A2)
 1. [华为宣布CANN全面开源开放](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%AE%A3%E5%B8%83CANN%E5%85%A8%E9%9D%A2%E5%BC%80%E6%BA%90%E5%BC%80%E6%94%BE)
 1. [深圳华强北叫停小孩哥代送外卖](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%8F%AB%E5%81%9C%E5%B0%8F%E5%AD%A9%E5%93%A5%E4%BB%A3%E9%80%81%E5%A4%96%E5%8D%96)
-1. [美对印加征25%的额外关税](https://www.zhihu.com/search?q=%E7%BE%8E%E5%AF%B9%E5%8D%B0%E5%8A%A0%E5%BE%8125%25%E7%9A%84%E9%A2%9D%E5%A4%96%E5%85%B3%E7%A8%8E)
 1. [奔驰亮证姐被行政拘留5日](https://www.zhihu.com/search?q=%E5%A5%94%E9%A9%B0%E4%BA%AE%E8%AF%81%E5%A7%90%E8%A2%AB%E8%A1%8C%E6%94%BF%E6%8B%98%E7%95%995%E6%97%A5)
 1. [陈奕迅因压力过大患上焦虑症](https://www.zhihu.com/search?q=%E9%99%88%E5%A5%95%E8%BF%85%E5%9B%A0%E5%8E%8B%E5%8A%9B%E8%BF%87%E5%A4%A7%E6%82%A3%E4%B8%8A%E7%84%A6%E8%99%91%E7%97%87)
 1. [周口坠楼医生出事前一天曾报案](https://www.zhihu.com/search?q=%E5%91%A8%E5%8F%A3%E5%9D%A0%E6%A5%BC%E5%8C%BB%E7%94%9F%E5%87%BA%E4%BA%8B%E5%89%8D%E4%B8%80%E5%A4%A9%E6%9B%BE%E6%8A%A5%E6%A1%88)
