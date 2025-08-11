@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-08-12 00:12:05 +0800`
+`更新时间：2025-08-12 01:11:53 +0800`
 
 ## 热门搜索
 
@@ -20,7 +20,6 @@
 1. [孙颖莎晋级四强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA)
 1. [王楚钦vs张本智和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
 1. [OpenAI发布GPT-5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5)
-1. [山姆回应芝士牛肉卷吃出蟑螂](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E8%8A%9D%E5%A3%AB%E7%89%9B%E8%82%89%E5%8D%B7%E5%90%83%E5%87%BA%E8%9F%91%E8%9E%82)
 1. [胖东来拟招1000人](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9F%E6%8B%9B1000%E4%BA%BA)
 1. [胖东来招聘20个岗位给曾服刑人员](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%9820%E4%B8%AA%E5%B2%97%E4%BD%8D%E7%BB%99%E6%9B%BE%E6%9C%8D%E5%88%91%E4%BA%BA%E5%91%98)
 1. [「苏超」现场观赛总人数已突破 100 万](https://www.zhihu.com/search?q=%E3%80%8C%E8%8B%8F%E8%B6%85%E3%80%8D%E7%8E%B0%E5%9C%BA%E8%A7%82%E8%B5%9B%E6%80%BB%E4%BA%BA%E6%95%B0%E5%B7%B2%E7%AA%81%E7%A0%B4%20100%20%E4%B8%87)
@@ -30,6 +29,7 @@
 1. [北京首套房公积金最高可贷160万](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%A6%96%E5%A5%97%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E6%9C%80%E9%AB%98%E5%8F%AF%E8%B4%B7160%E4%B8%87)
 1. [远嫁妻子因鸡蛋崩溃掀桌](https://www.zhihu.com/search?q=%E8%BF%9C%E5%AB%81%E5%A6%BB%E5%AD%90%E5%9B%A0%E9%B8%A1%E8%9B%8B%E5%B4%A9%E6%BA%83%E6%8E%80%E6%A1%8C)
 1. [24小时退房制为啥不能成统一标准](https://www.zhihu.com/search?q=24%E5%B0%8F%E6%97%B6%E9%80%80%E6%88%BF%E5%88%B6%E4%B8%BA%E5%95%A5%E4%B8%8D%E8%83%BD%E6%88%90%E7%BB%9F%E4%B8%80%E6%A0%87%E5%87%86)
+1. [一医院禁止规培生进职工餐厅吃饭](https://www.zhihu.com/search?q=%E4%B8%80%E5%8C%BB%E9%99%A2%E7%A6%81%E6%AD%A2%E8%A7%84%E5%9F%B9%E7%94%9F%E8%BF%9B%E8%81%8C%E5%B7%A5%E9%A4%90%E5%8E%85%E5%90%83%E9%A5%AD)
 1. [中公教育17000元退款需17年退完](https://www.zhihu.com/search?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B217000%E5%85%83%E9%80%80%E6%AC%BE%E9%9C%8017%E5%B9%B4%E9%80%80%E5%AE%8C)
 1. [生煎店3200元返聘退休工被指降成本](https://www.zhihu.com/search?q=%E7%94%9F%E7%85%8E%E5%BA%973200%E5%85%83%E8%BF%94%E8%81%98%E9%80%80%E4%BC%91%E5%B7%A5%E8%A2%AB%E6%8C%87%E9%99%8D%E6%88%90%E6%9C%AC)
 1. [消费者在汉服馆遭殴打，西安警方通报](https://www.zhihu.com/search?q=%E6%B6%88%E8%B4%B9%E8%80%85%E5%9C%A8%E6%B1%89%E6%9C%8D%E9%A6%86%E9%81%AD%E6%AE%B4%E6%89%93%EF%BC%8C%E8%A5%BF%E5%AE%89%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5)
