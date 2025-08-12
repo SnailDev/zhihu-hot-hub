@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-08-12 13:10:33 +0800`
+`更新时间：2025-08-12 14:15:09 +0800`
 
 ## 热门搜索
 
@@ -20,12 +20,11 @@
 1. [孙颖莎晋级四强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA)
 1. [王楚钦vs张本智和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
 1. [OpenAI发布GPT-5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5)
-1. [胖东来拟招1000人](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9F%E6%8B%9B1000%E4%BA%BA)
-1. [胖东来招聘20个岗位给曾服刑人员](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%9820%E4%B8%AA%E5%B2%97%E4%BD%8D%E7%BB%99%E6%9B%BE%E6%9C%8D%E5%88%91%E4%BA%BA%E5%91%98)
 1. [红牛王一博](https://www.zhihu.com/search?q=%E7%BA%A2%E7%89%9B%E7%8E%8B%E4%B8%80%E5%8D%9A)
 1. [Alin彭佳慧合唱《伤痕》](https://www.zhihu.com/search?q=Alin%E5%BD%AD%E4%BD%B3%E6%85%A7%E5%90%88%E5%94%B1%E3%80%8A%E4%BC%A4%E7%97%95%E3%80%8B)
 1. [远嫁妻子因鸡蛋崩溃掀桌](https://www.zhihu.com/search?q=%E8%BF%9C%E5%AB%81%E5%A6%BB%E5%AD%90%E5%9B%A0%E9%B8%A1%E8%9B%8B%E5%B4%A9%E6%BA%83%E6%8E%80%E6%A1%8C)
 1. [24小时退房制为啥不能成统一标准](https://www.zhihu.com/search?q=24%E5%B0%8F%E6%97%B6%E9%80%80%E6%88%BF%E5%88%B6%E4%B8%BA%E5%95%A5%E4%B8%8D%E8%83%BD%E6%88%90%E7%BB%9F%E4%B8%80%E6%A0%87%E5%87%86)
+1. [杭州余杭自来水发黄](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E4%BD%99%E6%9D%AD%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%8F%91%E9%BB%84)
 1. [一医院禁止规培生进职工餐厅吃饭](https://www.zhihu.com/search?q=%E4%B8%80%E5%8C%BB%E9%99%A2%E7%A6%81%E6%AD%A2%E8%A7%84%E5%9F%B9%E7%94%9F%E8%BF%9B%E8%81%8C%E5%B7%A5%E9%A4%90%E5%8E%85%E5%90%83%E9%A5%AD)
 1. [中公教育17000元退款需17年退完](https://www.zhihu.com/search?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B217000%E5%85%83%E9%80%80%E6%AC%BE%E9%9C%8017%E5%B9%B4%E9%80%80%E5%AE%8C)
 1. [生煎店3200元返聘退休工被指降成本](https://www.zhihu.com/search?q=%E7%94%9F%E7%85%8E%E5%BA%973200%E5%85%83%E8%BF%94%E8%81%98%E9%80%80%E4%BC%91%E5%B7%A5%E8%A2%AB%E6%8C%87%E9%99%8D%E6%88%90%E6%9C%AC)
@@ -40,6 +39,7 @@
 1. [当代窝囊旅游三件套](https://www.zhihu.com/search?q=%E5%BD%93%E4%BB%A3%E7%AA%9D%E5%9B%8A%E6%97%85%E6%B8%B8%E4%B8%89%E4%BB%B6%E5%A5%97)
 1. [美国加州发现「阿凡达色」野猪肉](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%8F%91%E7%8E%B0%E3%80%8C%E9%98%BF%E5%87%A1%E8%BE%BE%E8%89%B2%E3%80%8D%E9%87%8E%E7%8C%AA%E8%82%89)
 1. [6岁女童在酒店戏水池死亡](https://www.zhihu.com/search?q=6%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E9%85%92%E5%BA%97%E6%88%8F%E6%B0%B4%E6%B1%A0%E6%AD%BB%E4%BA%A1)
+1. [陈奕迅演唱会疑出现焦虑症躯体化](https://www.zhihu.com/search?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A%E7%96%91%E5%87%BA%E7%8E%B0%E7%84%A6%E8%99%91%E7%97%87%E8%BA%AF%E4%BD%93%E5%8C%96)
 
 ## 热门话题
 
