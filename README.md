@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-08-17 16:12:13 +0800`
+`更新时间：2025-08-17 17:08:59 +0800`
 
 ## 热门搜索
 
+1. [B站崩了](https://www.zhihu.com/search?q=B%E7%AB%99%E5%B4%A9%E4%BA%86)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [中年夫妻的婚姻状态是什么样的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E7%9A%84%E5%A9%9A%E5%A7%BB%E7%8A%B6%E6%80%81%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84)
 1. [人类是否无法想象出没见过的东西](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E6%98%AF%E5%90%A6%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1%E5%87%BA%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E4%B8%9C%E8%A5%BF)
@@ -32,10 +33,10 @@
 1. [7 月一线城市新房价格环比降 0.2%](https://www.zhihu.com/search?q=7%20%E6%9C%88%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%96%B0%E6%88%BF%E4%BB%B7%E6%A0%BC%E7%8E%AF%E6%AF%94%E9%99%8D%200.2%25)
 1. [日本战败投降 80 周年](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%88%98%E8%B4%A5%E6%8A%95%E9%99%8D%2080%20%E5%91%A8%E5%B9%B4)
 1. [一场以家庭为单位的史料抢救](https://www.zhihu.com/search?q=%E4%B8%80%E5%9C%BA%E4%BB%A5%E5%AE%B6%E5%BA%AD%E4%B8%BA%E5%8D%95%E4%BD%8D%E7%9A%84%E5%8F%B2%E6%96%99%E6%8A%A2%E6%95%91)
-1. [男童被人带去冒名顶替打疫苗](https://www.zhihu.com/search?q=%E7%94%B7%E7%AB%A5%E8%A2%AB%E4%BA%BA%E5%B8%A6%E5%8E%BB%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E6%89%93%E7%96%AB%E8%8B%97)
 1. [软科 2025 世界大学学术排名](https://www.zhihu.com/search?q=%E8%BD%AF%E7%A7%91%202025%20%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%9C%AF%E6%8E%92%E5%90%8D)
 1. [人形机器人运动会首金诞生](https://www.zhihu.com/search?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E9%A6%96%E9%87%91%E8%AF%9E%E7%94%9F)
 1. [巴菲特二季度重启抛售苹果](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E4%BA%8C%E5%AD%A3%E5%BA%A6%E9%87%8D%E5%90%AF%E6%8A%9B%E5%94%AE%E8%8B%B9%E6%9E%9C)
+1. [兔子头上长「黑色触角」是什么病毒](https://www.zhihu.com/search?q=%E5%85%94%E5%AD%90%E5%A4%B4%E4%B8%8A%E9%95%BF%E3%80%8C%E9%BB%91%E8%89%B2%E8%A7%A6%E8%A7%92%E3%80%8D%E6%98%AF%E4%BB%80%E4%B9%88%E7%97%85%E6%AF%92)
 
 ## 热门话题
 
