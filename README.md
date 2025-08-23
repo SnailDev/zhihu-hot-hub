@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-08-23 20:14:45 +0800`
+`更新时间：2025-08-23 21:17:12 +0800`
 
 ## 热门搜索
 
@@ -41,6 +41,8 @@
 1. [金价跌至近半月最低水平](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3%E8%BF%91%E5%8D%8A%E6%9C%88%E6%9C%80%E4%BD%8E%E6%B0%B4%E5%B9%B3)
 1. [黑神话：钟馗预告片有哪些信息值得关注](https://www.zhihu.com/search?q=%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E9%A2%84%E5%91%8A%E7%89%87%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8)
 1. [静山仅 0.6 米高为全国最矮的山](https://www.zhihu.com/search?q=%E9%9D%99%E5%B1%B1%E4%BB%85%200.6%20%E7%B1%B3%E9%AB%98%E4%B8%BA%E5%85%A8%E5%9B%BD%E6%9C%80%E7%9F%AE%E7%9A%84%E5%B1%B1)
+1. [京东已为全职骑手缴纳五险一金](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E5%B7%B2%E4%B8%BA%E5%85%A8%E8%81%8C%E9%AA%91%E6%89%8B%E7%BC%B4%E7%BA%B3%E4%BA%94%E9%99%A9%E4%B8%80%E9%87%91)
+1. [戚薇眉毛因打肉毒过量动不了](https://www.zhihu.com/search?q=%E6%88%9A%E8%96%87%E7%9C%89%E6%AF%9B%E5%9B%A0%E6%89%93%E8%82%89%E6%AF%92%E8%BF%87%E9%87%8F%E5%8A%A8%E4%B8%8D%E4%BA%86)
 
 ## 热门话题
 
