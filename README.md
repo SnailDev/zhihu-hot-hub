@@ -11,18 +11,16 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-09-11 15:09:30 +0800`
+`更新时间：2025-09-11 16:12:50 +0800`
 
 ## 热门搜索
 
-1. [教师节祝福语](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82%E7%A5%9D%E7%A6%8F%E8%AF%AD)
-1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
+1. [如何看待廖爸爸质疑学校家委会操作违规事件](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BB%96%E7%88%B8%E7%88%B8%E8%B4%A8%E7%96%91%E5%AD%A6%E6%A0%A1%E5%AE%B6%E5%A7%94%E4%BC%9A%E6%93%8D%E4%BD%9C%E8%BF%9D%E8%A7%84%E4%BA%8B%E4%BB%B6)
 1. [为什么要实行薪酬保密](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%AE%9E%E8%A1%8C%E8%96%AA%E9%85%AC%E4%BF%9D%E5%AF%86)
 1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=%E8%80%81%E5%B8%88%E6%80%8E%E4%B9%88%E7%9C%8B%E5%87%BA%E6%9D%A5%E4%BD%9C%E6%96%87%E6%98%AF%E6%8A%84%E7%9A%84)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
-1. [郑州暴雨](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8)
 1. [你听过最野的野史有多野](https://www.zhihu.com/search?q=%E4%BD%A0%E5%90%AC%E8%BF%87%E6%9C%80%E9%87%8E%E7%9A%84%E9%87%8E%E5%8F%B2%E6%9C%89%E5%A4%9A%E9%87%8E)
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%8A%A8%E5%A3%B0%E8%89%B2%E7%9A%84%E5%96%84%E8%89%AF)
 1. [面相长的凶是什么体验](https://www.zhihu.com/search?q=%E9%9D%A2%E7%9B%B8%E9%95%BF%E7%9A%84%E5%87%B6%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C)
