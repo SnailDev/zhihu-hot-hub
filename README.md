@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-09-23 07:08:06 +0800`
+`更新时间：2025-09-23 08:40:49 +0800`
 
 ## 热门搜索
 
-1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
-1. [曼联2比1切尔西](https://www.zhihu.com/search?q=%E6%9B%BC%E8%81%942%E6%AF%941%E5%88%87%E5%B0%94%E8%A5%BF)
+1. [蔡国强一句道歉修复不了喜马拉雅](https://www.zhihu.com/search?q=%E8%94%A1%E5%9B%BD%E5%BC%BA%E4%B8%80%E5%8F%A5%E9%81%93%E6%AD%89%E4%BF%AE%E5%A4%8D%E4%B8%8D%E4%BA%86%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85)
+1. [歼6无人机首次现身长春航展](https://www.zhihu.com/search?q=%E6%AD%BC6%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A6%96%E6%AC%A1%E7%8E%B0%E8%BA%AB%E9%95%BF%E6%98%A5%E8%88%AA%E5%B1%95)
 1. [gen对战t1](https://www.zhihu.com/search?q=gen%E5%AF%B9%E6%88%98t1)
 1. [刘邦凭什么这么听萧何的话](https://www.zhihu.com/search?q=%E5%88%98%E9%82%A6%E5%87%AD%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E5%90%AC%E8%90%A7%E4%BD%95%E7%9A%84%E8%AF%9D)
 1. [孩子为什么越大越不愿意跟我们说话](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%A4%A7%E8%B6%8A%E4%B8%8D%E6%84%BF%E6%84%8F%E8%B7%9F%E6%88%91%E4%BB%AC%E8%AF%B4%E8%AF%9D)
