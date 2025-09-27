@@ -11,11 +11,33 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-09-28 00:09:18 +0800`
+`更新时间：2025-09-28 01:05:13 +0800`
 
 ## 热门搜索
 
-暂无数据
+1. [雷军年度演讲](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%B9%B4%E5%BA%A6%E6%BC%94%E8%AE%B2)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
+1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
+1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%8A%A8%E5%A3%B0%E8%89%B2%E7%9A%84%E5%96%84%E8%89%AF)
+1. [孩子为什么越大越不愿意跟我们说话](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%A4%A7%E8%B6%8A%E4%B8%8D%E6%84%BF%E6%84%8F%E8%B7%9F%E6%88%91%E4%BB%AC%E8%AF%B4%E8%AF%9D)
+1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E4%B8%9C%E8%A5%BF%E5%B7%B2%E7%BB%8F%E8%B4%B5%E5%88%B0%E4%B8%8D%E5%80%BC%E5%BE%97%E4%B9%B0%E4%BA%86)
+1. [一个人可以蠢到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%A0%A2%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
+1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E5%88%B0%E5%BA%95%E8%83%BD%E6%B6%A8%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5)
+1. [中国稀土供应链到底强成什么样了](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E4%BE%9B%E5%BA%94%E9%93%BE%E5%88%B0%E5%BA%95%E5%BC%BA%E6%88%90%E4%BB%80%E4%B9%88%E6%A0%B7%E4%BA%86)
+1. [iG战胜JDG ](https://www.zhihu.com/search?q=iG%E6%88%98%E8%83%9CJDG%20)
+1. [为什么很多大公司重视第一学历](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E5%A4%A7%E5%85%AC%E5%8F%B8%E9%87%8D%E8%A7%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86)
+1. [家务平权为什么这么难](https://www.zhihu.com/search?q=%E5%AE%B6%E5%8A%A1%E5%B9%B3%E6%9D%83%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%9A%BE)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E8%AE%A9%E4%BD%A0%E6%98%8E%E7%99%BD%E4%BA%86%E4%BB%80%E4%B9%88%E7%9C%9F%E7%90%86)
+1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=%E7%94%A8DeepSeek%E9%80%89%E8%82%A1%E7%82%92%E8%82%A1%E5%8F%AF%E8%A1%8C%E5%90%97)
+1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
+1. [如何评价歼10CE战斗机](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%AD%BC10CE%E6%88%98%E6%96%97%E6%9C%BA)
+1. [有哪些令人震惊的冷知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BB%A4%E4%BA%BA%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
+1. [游客在日本旅游不说敬语可以吗](https://www.zhihu.com/search?q=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%8D%E8%AF%B4%E6%95%AC%E8%AF%AD%E5%8F%AF%E4%BB%A5%E5%90%97)
+1. [狗有财产意识吗](https://www.zhihu.com/search?q=%E7%8B%97%E6%9C%89%E8%B4%A2%E4%BA%A7%E6%84%8F%E8%AF%86%E5%90%97)
+1. [贵阳一小区六十多户玻璃集体自爆](https://www.zhihu.com/search?q=%E8%B4%B5%E9%98%B3%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%85%AD%E5%8D%81%E5%A4%9A%E6%88%B7%E7%8E%BB%E7%92%83%E9%9B%86%E4%BD%93%E8%87%AA%E7%88%86)
+1. [地松鼠泛滥威胁美军基地](https://www.zhihu.com/search?q=%E5%9C%B0%E6%9D%BE%E9%BC%A0%E6%B3%9B%E6%BB%A5%E5%A8%81%E8%83%81%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0)
+1. [宗馥莉或另立门户](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E6%88%96%E5%8F%A6%E7%AB%8B%E9%97%A8%E6%88%B7)
 
 ## 热门话题
 
