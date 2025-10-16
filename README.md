@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-10-16 08:42:03 +0800`
+`更新时间：2025-10-16 10:18:16 +0800`
 
 ## 热门搜索
 
-1. [浙大拟用2360万租房当学生宿舍](https://www.zhihu.com/search?q=%E6%B5%99%E5%A4%A7%E6%8B%9F%E7%94%A82360%E4%B8%87%E7%A7%9F%E6%88%BF%E5%BD%93%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D)
+1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
 1. [如何看待美国识字率只有 79％](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E8%AF%86%E5%AD%97%E7%8E%87%E5%8F%AA%E6%9C%89%2079%EF%BC%85)
 1. [王楚钦vs张本智和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
 1. [哪些演员演什么像什么](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%BC%94%E5%91%98%E6%BC%94%E4%BB%80%E4%B9%88%E5%83%8F%E4%BB%80%E4%B9%88)
