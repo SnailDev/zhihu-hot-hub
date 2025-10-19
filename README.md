@@ -11,12 +11,10 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-10-19 08:48:05 +0800`
+`更新时间：2025-10-19 10:29:44 +0800`
 
 ## 热门搜索
 
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
-1. [世界粮食日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%B2%AE%E9%A3%9F%E6%97%A5)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [为什么优秀员工往往最先离职](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5%E5%BE%80%E5%BE%80%E6%9C%80%E5%85%88%E7%A6%BB%E8%81%8C)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
