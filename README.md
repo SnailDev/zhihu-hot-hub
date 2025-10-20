@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-10-20 15:10:37 +0800`
+`更新时间：2025-10-20 16:13:36 +0800`
 
 ## 热门搜索
 
@@ -32,7 +32,6 @@
 1. [南航宣布本科生不写论文也能毕业](https://www.zhihu.com/search?q=%E5%8D%97%E8%88%AA%E5%AE%A3%E5%B8%83%E6%9C%AC%E7%A7%91%E7%94%9F%E4%B8%8D%E5%86%99%E8%AE%BA%E6%96%87%E4%B9%9F%E8%83%BD%E6%AF%95%E4%B8%9A)
 1. [何炅自曝：现在特别痛苦又近视又老花](https://www.zhihu.com/search?q=%E4%BD%95%E7%82%85%E8%87%AA%E6%9B%9D%EF%BC%9A%E7%8E%B0%E5%9C%A8%E7%89%B9%E5%88%AB%E7%97%9B%E8%8B%A6%E5%8F%88%E8%BF%91%E8%A7%86%E5%8F%88%E8%80%81%E8%8A%B1)
 1. [银行长期不动账户将被清理](https://www.zhihu.com/search?q=%E9%93%B6%E8%A1%8C%E9%95%BF%E6%9C%9F%E4%B8%8D%E5%8A%A8%E8%B4%A6%E6%88%B7%E5%B0%86%E8%A2%AB%E6%B8%85%E7%90%86)
-1. [李飞飞发布全新世界模型](https://www.zhihu.com/search?q=%E6%9D%8E%E9%A3%9E%E9%A3%9E%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B)
 1. [《喜人奇妙夜》第二季第四期](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E5%9B%9B%E6%9C%9F)
 1. [日本前首相村山富市去世](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E6%9D%91%E5%B1%B1%E5%AF%8C%E5%B8%82%E5%8E%BB%E4%B8%96)
 1. [云南这家幼儿园的「泥土味」自然课火](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E8%BF%99%E5%AE%B6%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%9A%84%E3%80%8C%E6%B3%A5%E5%9C%9F%E5%91%B3%E3%80%8D%E8%87%AA%E7%84%B6%E8%AF%BE%E7%81%AB)
@@ -44,6 +43,7 @@
 1. [蒙牛包装撞脸伊利被判赔500万](https://www.zhihu.com/search?q=%E8%92%99%E7%89%9B%E5%8C%85%E8%A3%85%E6%92%9E%E8%84%B8%E4%BC%8A%E5%88%A9%E8%A2%AB%E5%88%A4%E8%B5%94500%E4%B8%87)
 1. [汽车破窗锤悄然走俏](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E7%A0%B4%E7%AA%97%E9%94%A4%E6%82%84%E7%84%B6%E8%B5%B0%E4%BF%8F)
 1. [人造肌肉举起四千倍自重物体](https://www.zhihu.com/search?q=%E4%BA%BA%E9%80%A0%E8%82%8C%E8%82%89%E4%B8%BE%E8%B5%B7%E5%9B%9B%E5%8D%83%E5%80%8D%E8%87%AA%E9%87%8D%E7%89%A9%E4%BD%93)
+1. [刘奕畅被曝酒后围殴他人](https://www.zhihu.com/search?q=%E5%88%98%E5%A5%95%E7%95%85%E8%A2%AB%E6%9B%9D%E9%85%92%E5%90%8E%E5%9B%B4%E6%AE%B4%E4%BB%96%E4%BA%BA)
 
 ## 热门话题
 
