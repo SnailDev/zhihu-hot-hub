@@ -11,18 +11,19 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-10-25 11:28:09 +0800`
+`更新时间：2025-10-25 12:10:36 +0800`
 
 ## 热门搜索
 
-1. [lv大衣被指撞衫一中学校服](https://www.zhihu.com/search?q=lv%E5%A4%A7%E8%A1%A3%E8%A2%AB%E6%8C%87%E6%92%9E%E8%A1%AB%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%A0%A1%E6%9C%8D)
-1. [阿里通义千问拿下爱彼迎](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E6%8B%BF%E4%B8%8B%E7%88%B1%E5%BD%BC%E8%BF%8E)
+1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E4%BB%80%E4%B9%88%E9%A3%9F%E7%89%A9%E6%98%AF%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%9A%84)
+1. [被查房时怎么证明是情侣关系](https://www.zhihu.com/search?q=%E8%A2%AB%E6%9F%A5%E6%88%BF%E6%97%B6%E6%80%8E%E4%B9%88%E8%AF%81%E6%98%8E%E6%98%AF%E6%83%85%E4%BE%A3%E5%85%B3%E7%B3%BB)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E4%BB%80%E4%B9%88%E8%A7%A3%E5%8E%8B%E7%9A%84%E5%B0%8F%E4%BC%97%E7%88%B1%E5%A5%BD)
 1. [现在的大学生到底是什么状态](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81)
 1. [你心目中排名第一的饮料是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E9%A5%AE%E6%96%99%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AE%B6%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [德国的工业已经退到什么地步了](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%9A%84%E5%B7%A5%E4%B8%9A%E5%B7%B2%E7%BB%8F%E9%80%80%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5%E4%BA%86)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E8%AE%A9%E4%BD%A0%E6%98%8E%E7%99%BD%E4%BA%86%E4%BB%80%E4%B9%88%E7%9C%9F%E7%90%86)
@@ -40,7 +41,6 @@
 1. [看完南昌的海昏侯你有什么感觉](https://www.zhihu.com/search?q=%E7%9C%8B%E5%AE%8C%E5%8D%97%E6%98%8C%E7%9A%84%E6%B5%B7%E6%98%8F%E4%BE%AF%E4%BD%A0%E6%9C%89%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89)
 1. [最支持我们中国的国家是哪国](https://www.zhihu.com/search?q=%E6%9C%80%E6%94%AF%E6%8C%81%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%98%AF%E5%93%AA%E5%9B%BD)
 1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%AD%BC50%E6%88%98%E6%96%97%E6%9C%BA)
-1. [比亚迪欧洲售价比国内翻倍](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%AC%A7%E6%B4%B2%E5%94%AE%E4%BB%B7%E6%AF%94%E5%9B%BD%E5%86%85%E7%BF%BB%E5%80%8D)
 
 ## 热门话题
 
