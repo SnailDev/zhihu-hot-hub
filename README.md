@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-10-29 10:28:05 +0800`
+`更新时间：2025-10-29 11:40:57 +0800`
 
 ## 热门搜索
 
-1. [杨紫玉兰花开君再来人设](https://www.zhihu.com/search?q=%E6%9D%A8%E7%B4%AB%E7%8E%89%E5%85%B0%E8%8A%B1%E5%BC%80%E5%90%9B%E5%86%8D%E6%9D%A5%E4%BA%BA%E8%AE%BE)
+1. [芒果综艺《我们来了》将回归](https://www.zhihu.com/search?q=%E8%8A%92%E6%9E%9C%E7%BB%BC%E8%89%BA%E3%80%8A%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86%E3%80%8B%E5%B0%86%E5%9B%9E%E5%BD%92)
+1. [加强资本市场中小投资者保护](https://www.zhihu.com/search?q=%E5%8A%A0%E5%BC%BA%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E4%B8%AD%E5%B0%8F%E6%8A%95%E8%B5%84%E8%80%85%E4%BF%9D%E6%8A%A4)
 1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E4%BB%80%E4%B9%88%E9%A3%9F%E7%89%A9%E6%98%AF%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%9A%84)
 1. [中年男人最大的悲哀是什么](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%82%B2%E5%93%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=%E7%85%A7%E9%AA%97%E8%83%BD%E9%AA%97%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
