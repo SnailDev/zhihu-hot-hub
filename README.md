@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-11-06 08:43:50 +0800`
+`更新时间：2025-11-06 10:26:17 +0800`
 
 ## 热门搜索
 
-1. [史上最长春节假期](https://www.zhihu.com/search?q=%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%95%BF%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F)
-1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
+1. [全球80%海域发现吃塑料细菌](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%8380%25%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%8E%B0%E5%90%83%E5%A1%91%E6%96%99%E7%BB%86%E8%8F%8C)
+1. [养猫之后你的底线降到哪一步了](https://www.zhihu.com/search?q=%E5%85%BB%E7%8C%AB%E4%B9%8B%E5%90%8E%E4%BD%A0%E7%9A%84%E5%BA%95%E7%BA%BF%E9%99%8D%E5%88%B0%E5%93%AA%E4%B8%80%E6%AD%A5%E4%BA%86)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E7%9A%84%E7%8B%A0%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%BB%9D)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=%E8%81%8C%E4%B8%9A%E8%BF%90%E5%8A%A8%E5%91%98%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3)
 1. [有哪些非常冷门且令人意外的知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E9%9D%9E%E5%B8%B8%E5%86%B7%E9%97%A8%E4%B8%94%E4%BB%A4%E4%BA%BA%E6%84%8F%E5%A4%96%E7%9A%84%E7%9F%A5%E8%AF%86)
