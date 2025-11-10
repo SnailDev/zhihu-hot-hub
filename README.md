@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-11-10 16:16:12 +0800`
+`更新时间：2025-11-10 17:12:29 +0800`
 
 ## 热门搜索
 
-1. [T1夺冠](https://www.zhihu.com/search?q=T1%E5%A4%BA%E5%86%A0)
+1. [胖东来销售额破200亿 控速宣告失败](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%94%80%E5%94%AE%E9%A2%9D%E7%A0%B4200%E4%BA%BF%20%E6%8E%A7%E9%80%9F%E5%AE%A3%E5%91%8A%E5%A4%B1%E8%B4%A5)
+1. [TVB演员海俊杰众筹150万给妻子治病](https://www.zhihu.com/search?q=TVB%E6%BC%94%E5%91%98%E6%B5%B7%E4%BF%8A%E6%9D%B0%E4%BC%97%E7%AD%B9150%E4%B8%87%E7%BB%99%E5%A6%BB%E5%AD%90%E6%B2%BB%E7%97%85)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%80%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [你见过最真实的商战是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%95%86%E6%88%98%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -27,7 +28,7 @@
 1. [预防老人跌倒 助行设备](https://www.zhihu.com/search?q=%E9%A2%84%E9%98%B2%E8%80%81%E4%BA%BA%E8%B7%8C%E5%80%92%20%E5%8A%A9%E8%A1%8C%E8%AE%BE%E5%A4%87)
 1. [老年人独立出行 辅助工具](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%87%BA%E8%A1%8C%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%B5%8B%E8%AF%84%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA)
-1. [知乎好物 100 榜单](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E7%89%A9%20100%20%E6%A6%9C%E5%8D%95)
+1. [44岁导演心梗离世仅获赔1万元 ](https://www.zhihu.com/search?q=44%E5%B2%81%E5%AF%BC%E6%BC%94%E5%BF%83%E6%A2%97%E7%A6%BB%E4%B8%96%E4%BB%85%E8%8E%B7%E8%B5%941%E4%B8%87%E5%85%83%20)
 1. [今年双十一买点啥](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E5%8F%8C%E5%8D%81%E4%B8%80%E4%B9%B0%E7%82%B9%E5%95%A5)
 1. [好物100榜单又双叒叕来了](https://www.zhihu.com/search?q=%E5%A5%BD%E7%89%A9100%E6%A6%9C%E5%8D%95%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E6%9D%A5%E4%BA%86)
 1. [无商业恰饭的好物榜单 长啥样](https://www.zhihu.com/search?q=%E6%97%A0%E5%95%86%E4%B8%9A%E6%81%B0%E9%A5%AD%E7%9A%84%E5%A5%BD%E7%89%A9%E6%A6%9C%E5%8D%95%20%E9%95%BF%E5%95%A5%E6%A0%B7)
