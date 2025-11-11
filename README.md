@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-11-11 14:15:09 +0800`
+`更新时间：2025-11-11 15:10:23 +0800`
 
 ## 热门搜索
 
-1. [大长今当初为什么那么火爆](https://www.zhihu.com/search?q=%E5%A4%A7%E9%95%BF%E4%BB%8A%E5%BD%93%E5%88%9D%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E7%81%AB%E7%88%86)
+1. [记者节](https://www.zhihu.com/search?q=%E8%AE%B0%E8%80%85%E8%8A%82)
 1. [火箭战胜雄鹿](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%AD%E6%88%98%E8%83%9C%E9%9B%84%E9%B9%BF)
 1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E8%AE%A8%E5%8E%8C%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BB%80%E4%B9%88%E8%A1%8C%E4%B8%BA)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
