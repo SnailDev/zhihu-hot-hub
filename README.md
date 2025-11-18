@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-11-18 11:38:36 +0800`
+`更新时间：2025-11-18 12:13:26 +0800`
 
 ## 热门搜索
 
-1. [如何评价电影「惊天魔盗团3」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E3%80%8C%E6%83%8A%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A23%E3%80%8D)
-1. [科学家发现世界上最大蛛网](https://www.zhihu.com/search?q=%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%9B%9B%E7%BD%91)
+1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
 1. [勇士vs鹈鹕](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E9%B9%88%E9%B9%95)
 1. [古人看到西方大教堂会不会震撼](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E7%9C%8B%E5%88%B0%E8%A5%BF%E6%96%B9%E5%A4%A7%E6%95%99%E5%A0%82%E4%BC%9A%E4%B8%8D%E4%BC%9A%E9%9C%87%E6%92%BC)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
