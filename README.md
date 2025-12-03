@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-12-03 10:28:52 +0800`
+`更新时间：2025-12-03 11:44:19 +0800`
 
 ## 热门搜索
 
-1. [高校开始流行「三分钟学术演讲」](https://www.zhihu.com/search?q=%E9%AB%98%E6%A0%A1%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E3%80%8C%E4%B8%89%E5%88%86%E9%92%9F%E5%AD%A6%E6%9C%AF%E6%BC%94%E8%AE%B2%E3%80%8D)
-1. [新能源汽车正进入下行周期](https://www.zhihu.com/search?q=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%AD%A3%E8%BF%9B%E5%85%A5%E4%B8%8B%E8%A1%8C%E5%91%A8%E6%9C%9F)
+1. [人间清醒是什么样子](https://www.zhihu.com/search?q=%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90)
 1. [行测](https://www.zhihu.com/search?q=%E8%A1%8C%E6%B5%8B)
 1. [太阳vs湖人](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3vs%E6%B9%96%E4%BA%BA)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
