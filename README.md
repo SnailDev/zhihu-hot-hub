@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-12-03 16:14:15 +0800`
+`更新时间：2025-12-03 17:14:15 +0800`
 
 ## 热门搜索
 
-1. [人间清醒是什么样子](https://www.zhihu.com/search?q=%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90)
+1. [误会孩子后是否会主动跟他道歉](https://www.zhihu.com/search?q=%E8%AF%AF%E4%BC%9A%E5%AD%A9%E5%AD%90%E5%90%8E%E6%98%AF%E5%90%A6%E4%BC%9A%E4%B8%BB%E5%8A%A8%E8%B7%9F%E4%BB%96%E9%81%93%E6%AD%89)
+1. [明年起避孕药品和用具征收增值税](https://www.zhihu.com/search?q=%E6%98%8E%E5%B9%B4%E8%B5%B7%E9%81%BF%E5%AD%95%E8%8D%AF%E5%93%81%E5%92%8C%E7%94%A8%E5%85%B7%E5%BE%81%E6%94%B6%E5%A2%9E%E5%80%BC%E7%A8%8E)
 1. [行测](https://www.zhihu.com/search?q=%E8%A1%8C%E6%B5%8B)
 1. [太阳vs湖人](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3vs%E6%B9%96%E4%BA%BA)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
