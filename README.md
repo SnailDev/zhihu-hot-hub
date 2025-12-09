@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-12-09 11:44:08 +0800`
+`更新时间：2025-12-09 12:18:38 +0800`
 
 ## 热门搜索
 
-1. [北京国安队夺得足协杯冠军](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%E9%98%9F%E5%A4%BA%E5%BE%97%E8%B6%B3%E5%8D%8F%E6%9D%AF%E5%86%A0%E5%86%9B)
-1. [动物园回应黑熊扑倒驯养员](https://www.zhihu.com/search?q=%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9B%9E%E5%BA%94%E9%BB%91%E7%86%8A%E6%89%91%E5%80%92%E9%A9%AF%E5%85%BB%E5%91%98)
+1. [F1](https://www.zhihu.com/search?q=F1)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [省考](https://www.zhihu.com/search?q=%E7%9C%81%E8%80%83)
 1. [尖叫之夜](https://www.zhihu.com/search?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C)
 1. [勇士vs骑士](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E9%AA%91%E5%A3%AB)
