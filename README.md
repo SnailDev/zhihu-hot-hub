@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-12-15 10:51:44 +0800`
+`更新时间：2025-12-15 11:58:51 +0800`
 
 ## 热门搜索
 
-1. [四级作文](https://www.zhihu.com/search?q=%E5%9B%9B%E7%BA%A7%E4%BD%9C%E6%96%87)
-1. [王楚钦 vs 莫雷加德](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20vs%20%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7)
+1. [张本智和夺冠](https://www.zhihu.com/search?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%A4%BA%E5%86%A0)
 1. [泰柬冲突](https://www.zhihu.com/search?q=%E6%B3%B0%E6%9F%AC%E5%86%B2%E7%AA%81)
 1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E9%A6%96%E6%AC%A1%E8%B6%851%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [《再见爱人 5》第九期](https://www.zhihu.com/search?q=%E3%80%8A%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%205%E3%80%8B%E7%AC%AC%E4%B9%9D%E6%9C%9F)
@@ -35,13 +34,13 @@
 1. [网文作家痞子老妖突发心梗离世](https://www.zhihu.com/search?q=%E7%BD%91%E6%96%87%E4%BD%9C%E5%AE%B6%E7%97%9E%E5%AD%90%E8%80%81%E5%A6%96%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E7%A6%BB%E4%B8%96)
 1. [四川发现 1.9 亿年前恐龙足迹](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%8F%91%E7%8E%B0%201.9%20%E4%BA%BF%E5%B9%B4%E5%89%8D%E6%81%90%E9%BE%99%E8%B6%B3%E8%BF%B9)
 1. [英语四级考试](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%80%83%E8%AF%95)
-1. [英伟达市值一夜蒸发 1400 亿美元](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%201400%20%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [花 7000 吃漂亮饭拍照不让开闪光](https://www.zhihu.com/search?q=%E8%8A%B1%207000%20%E5%90%83%E6%BC%82%E4%BA%AE%E9%A5%AD%E6%8B%8D%E7%85%A7%E4%B8%8D%E8%AE%A9%E5%BC%80%E9%97%AA%E5%85%89)
 1. [宇树首发人形机器人 App Store](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E9%A6%96%E5%8F%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%20App%20Store)
-1. [浙大博导闵超家庭背景曝光](https://www.zhihu.com/search?q=%E6%B5%99%E5%A4%A7%E5%8D%9A%E5%AF%BC%E9%97%B5%E8%B6%85%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E6%9B%9D%E5%85%89)
 1. [印度为梅西建巨大雕像](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%B8%BA%E6%A2%85%E8%A5%BF%E5%BB%BA%E5%B7%A8%E5%A4%A7%E9%9B%95%E5%83%8F)
 1. [西安牛咖走红：牛、狐狸等轮流上班](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E7%89%9B%E5%92%96%E8%B5%B0%E7%BA%A2%EF%BC%9A%E7%89%9B%E3%80%81%E7%8B%90%E7%8B%B8%E7%AD%89%E8%BD%AE%E6%B5%81%E4%B8%8A%E7%8F%AD)
 1. [何晴 唯一演遍四大名著的女演员](https://www.zhihu.com/search?q=%E4%BD%95%E6%99%B4%20%E5%94%AF%E4%B8%80%E6%BC%94%E9%81%8D%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97%E7%9A%84%E5%A5%B3%E6%BC%94%E5%91%98)
+1. [演员何晴去世](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E4%BD%95%E6%99%B4%E5%8E%BB%E4%B8%96)
+1. [28岁高中女教师新婚当天坠楼身亡](https://www.zhihu.com/search?q=28%E5%B2%81%E9%AB%98%E4%B8%AD%E5%A5%B3%E6%95%99%E5%B8%88%E6%96%B0%E5%A9%9A%E5%BD%93%E5%A4%A9%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1)
 
 ## 热门话题
 
