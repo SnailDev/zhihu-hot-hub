@@ -11,15 +11,13 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-12-16 12:25:30 +0800`
+`更新时间：2025-12-16 13:13:54 +0800`
 
 ## 热门搜索
 
-1. [如何评价「再见爱人5」第九期](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E3%80%8C%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA5%E3%80%8D%E7%AC%AC%E4%B9%9D%E6%9C%9F)
-1. [企业展示最新芯片样品不翼而飞](https://www.zhihu.com/search?q=%E4%BC%81%E4%B8%9A%E5%B1%95%E7%A4%BA%E6%9C%80%E6%96%B0%E8%8A%AF%E7%89%87%E6%A0%B7%E5%93%81%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9E)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [湖人vs太阳](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%A4%AA%E9%98%B3)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1%E5%A4%BA%E5%86%A0)
-1. [四级作文](https://www.zhihu.com/search?q=%E5%9B%9B%E7%BA%A7%E4%BD%9C%E6%96%87)
 1. [麦当劳回应涨价](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7)
 1. [麦当劳涨价](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E6%B6%A8%E4%BB%B7)
 1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=%E5%93%AA%E4%B8%80%E5%88%BB%E8%AE%A9%E4%BD%A0%E7%BB%88%E4%BA%8E%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%86%E8%BF%99%E5%B0%B1%E6%98%AF%E5%91%BD)
@@ -41,6 +39,7 @@
 1. [投资者最稀缺的是什么](https://www.zhihu.com/search?q=%E6%8A%95%E8%B5%84%E8%80%85%E6%9C%80%E7%A8%80%E7%BC%BA%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [提升自己最快的方式是什么](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [什么样的家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
+1. [什么行为改善了你的心理健康](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E8%A1%8C%E4%B8%BA%E6%94%B9%E5%96%84%E4%BA%86%E4%BD%A0%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
 
 ## 热门话题
 
