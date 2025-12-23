@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-12-23 16:15:07 +0800`
+`更新时间：2025-12-23 17:14:40 +0800`
 
 ## 热门搜索
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
-1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
+1. [如何看待演员何晴女士去世](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%BC%94%E5%91%98%E4%BD%95%E6%99%B4%E5%A5%B3%E5%A3%AB%E5%8E%BB%E4%B8%96)
+1. [一条视频说清楚网红玫瑰盐](https://www.zhihu.com/search?q=%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E8%AF%B4%E6%B8%85%E6%A5%9A%E7%BD%91%E7%BA%A2%E7%8E%AB%E7%91%B0%E7%9B%90)
 1. [今日冬至](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%86%AC%E8%87%B3)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9E%AC%E9%97%B4%E4%BD%A0%E7%A7%92%E6%87%82%E4%BA%86%E5%88%AB%E4%BA%BA%E7%9A%84%E6%9A%97%E7%A4%BA)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86%E5%86%B7%E7%9F%A5%E8%AF%86)
