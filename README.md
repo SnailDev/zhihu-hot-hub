@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2025-12-24 10:45:22 +0800`
+`更新时间：2025-12-24 11:51:48 +0800`
 
 ## 热门搜索
 
-1. [为什么现在的楼盘是厅大卧室小](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%A5%BC%E7%9B%98%E6%98%AF%E5%8E%85%E5%A4%A7%E5%8D%A7%E5%AE%A4%E5%B0%8F)
+1. [湖人vs太阳](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%A4%AA%E9%98%B3)
+1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9E%AC%E9%97%B4%E4%BD%A0%E7%A7%92%E6%87%82%E4%BA%86%E5%88%AB%E4%BA%BA%E7%9A%84%E6%9A%97%E7%A4%BA)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86%E5%86%B7%E7%9F%A5%E8%AF%86)
 1. [生活中你们见过最愚蠢的设计是啥](https://www.zhihu.com/search?q=%E7%94%9F%E6%B4%BB%E4%B8%AD%E4%BD%A0%E4%BB%AC%E8%A7%81%E8%BF%87%E6%9C%80%E6%84%9A%E8%A0%A2%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%98%AF%E5%95%A5)
 1. [黄蜂vs骑士](https://www.zhihu.com/search?q=%E9%BB%84%E8%9C%82vs%E9%AA%91%E5%A3%AB)
