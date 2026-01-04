@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-01-04 16:13:49 +0800`
+`更新时间：2026-01-04 17:09:48 +0800`
 
 ## 热门搜索
 
+1. [上海春考](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%98%A5%E8%80%83)
+1. [元旦假期最后一天](https://www.zhihu.com/search?q=%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
 1. [超级月亮](https://www.zhihu.com/search?q=%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE)
 1. [雷霆vs勇士](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E5%8B%87%E5%A3%AB)
 1. [灰熊vs湖人](https://www.zhihu.com/search?q=%E7%81%B0%E7%86%8Avs%E6%B9%96%E4%BA%BA)
