@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-01-04 08:55:12 +0800`
+`更新时间：2026-01-04 11:02:44 +0800`
 
 ## 热门搜索
 
@@ -32,7 +32,7 @@
 1. [知乎年度报告](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)
 1. [元旦跨年朋友圈发什么](https://www.zhihu.com/search?q=%E5%85%83%E6%97%A6%E8%B7%A8%E5%B9%B4%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E4%BB%80%E4%B9%88)
 1. [七旬夫妻摆摊卖淀粉肠夹蛋三块一个](https://www.zhihu.com/search?q=%E4%B8%83%E6%97%AC%E5%A4%AB%E5%A6%BB%E6%91%86%E6%91%8A%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E5%A4%B9%E8%9B%8B%E4%B8%89%E5%9D%97%E4%B8%80%E4%B8%AA)
-1. [承诺夺冠送车的女跑版疑跑路](https://www.zhihu.com/search?q=%E6%89%BF%E8%AF%BA%E5%A4%BA%E5%86%A0%E9%80%81%E8%BD%A6%E7%9A%84%E5%A5%B3%E8%B7%91%E7%89%88%E7%96%91%E8%B7%91%E8%B7%AF)
+1. [1499 元飞天茅台上线「秒空」](https://www.zhihu.com/search?q=1499%20%E5%85%83%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E4%B8%8A%E7%BA%BF%E3%80%8C%E7%A7%92%E7%A9%BA%E3%80%8D)
 
 ## 热门话题
 
