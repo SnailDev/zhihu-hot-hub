@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-01-12 17:20:35 +0800`
+`更新时间：2026-01-12 18:14:00 +0800`
 
 ## 热门搜索
 
-1. [普通家庭怎么带孩子见世面](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E6%80%8E%E4%B9%88%E5%B8%A6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%96%E9%9D%A2)
+1. [为什么优秀员工往往最先离职](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5%E5%BE%80%E5%BE%80%E6%9C%80%E5%85%88%E7%A6%BB%E8%81%8C)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [巴萨vs皇马](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A8vs%E7%9A%87%E9%A9%AC)
@@ -25,6 +25,7 @@
 1. [上汽为什么需要华为](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B1%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E5%8D%8E%E4%B8%BA)
 1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=%E6%9C%80%E9%A1%B6%E7%BA%A7%E7%9A%84%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [邓布利多为什么要让海格成为老师](https://www.zhihu.com/search?q=%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AE%A9%E6%B5%B7%E6%A0%BC%E6%88%90%E4%B8%BA%E8%80%81%E5%B8%88)
+1. [普通家庭怎么带孩子见世面](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E6%80%8E%E4%B9%88%E5%B8%A6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%96%E9%9D%A2)
 1. [如何成为逻辑清晰的人](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E9%80%BB%E8%BE%91%E6%B8%85%E6%99%B0%E7%9A%84%E4%BA%BA)
 1. [普通家庭对孩子最好的托举是什么](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E5%AF%B9%E5%AD%A9%E5%AD%90%E6%9C%80%E5%A5%BD%E7%9A%84%E6%89%98%E4%B8%BE%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [汽车设计真的在倒退吗](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E8%AE%BE%E8%AE%A1%E7%9C%9F%E7%9A%84%E5%9C%A8%E5%80%92%E9%80%80%E5%90%97)
