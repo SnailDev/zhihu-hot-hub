@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-01-14 22:14:44 +0800`
+`更新时间：2026-01-14 23:14:33 +0800`
 
 ## 热门搜索
 
-1. [国考成绩公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
+1. [张勇重新担任海底捞 CEO](https://www.zhihu.com/search?q=%E5%BC%A0%E5%8B%87%E9%87%8D%E6%96%B0%E6%8B%85%E4%BB%BB%E6%B5%B7%E5%BA%95%E6%8D%9E%20CEO)
 1. [国考成绩](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [掘金vs鹈鹕](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E9%B9%88%E9%B9%95)
