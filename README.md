@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-01-15 10:51:23 +0800`
+`更新时间：2026-01-15 11:59:24 +0800`
 
 ## 热门搜索
 
-1. [国考成绩公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
+1. [显示技术决战：印刷 OLED](https://www.zhihu.com/search?q=%E6%98%BE%E7%A4%BA%E6%8A%80%E6%9C%AF%E5%86%B3%E6%88%98%EF%BC%9A%E5%8D%B0%E5%88%B7%20OLED)
 1. [国考成绩](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9)
 1. [国考分数线公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [掘金vs鹈鹕](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E9%B9%88%E9%B9%95)
