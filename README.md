@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-01-19 08:53:40 +0800`
+`更新时间：2026-01-19 10:59:59 +0800`
 
 ## 热门搜索
 
-1. [坐高铁再也不用扛行李了](https://www.zhihu.com/search?q=%E5%9D%90%E9%AB%98%E9%93%81%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%94%A8%E6%89%9B%E8%A1%8C%E6%9D%8E%E4%BA%86)
+1. [因涨薪20元致歉公司已连续37年涨薪](https://www.zhihu.com/search?q=%E5%9B%A0%E6%B6%A8%E8%96%AA20%E5%85%83%E8%87%B4%E6%AD%89%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%BF%9E%E7%BB%AD37%E5%B9%B4%E6%B6%A8%E8%96%AA)
+1. [胖东来599元羽绒服充绒量213克](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5599%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%85%E7%BB%92%E9%87%8F213%E5%85%8B)
 1. [聂卫平](https://www.zhihu.com/search?q=%E8%81%82%E5%8D%AB%E5%B9%B3)
 1. [聂卫平战日本特意穿了国乒球衣](https://www.zhihu.com/search?q=%E8%81%82%E5%8D%AB%E5%B9%B3%E6%88%98%E6%97%A5%E6%9C%AC%E7%89%B9%E6%84%8F%E7%A9%BF%E4%BA%86%E5%9B%BD%E4%B9%92%E7%90%83%E8%A1%A3)
 1. [聂卫平去世](https://www.zhihu.com/search?q=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%8E%BB%E4%B8%96)
@@ -25,7 +26,7 @@
 1. [尹锡悦涉内乱案一审被判 5 年](https://www.zhihu.com/search?q=%E5%B0%B9%E9%94%A1%E6%82%A6%E6%B6%89%E5%86%85%E4%B9%B1%E6%A1%88%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%205%20%E5%B9%B4)
 1. [特斯拉与小米推出低息购车政策](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8E%E5%B0%8F%E7%B1%B3%E6%8E%A8%E5%87%BA%E4%BD%8E%E6%81%AF%E8%B4%AD%E8%BD%A6%E6%94%BF%E7%AD%96)
 1. [李湘名下近 7 成企业已注销](https://www.zhihu.com/search?q=%E6%9D%8E%E6%B9%98%E5%90%8D%E4%B8%8B%E8%BF%91%207%20%E6%88%90%E4%BC%81%E4%B8%9A%E5%B7%B2%E6%B3%A8%E9%94%80)
-1. [胖东来599元羽绒服充绒量213克](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5599%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%85%E7%BB%92%E9%87%8F213%E5%85%8B)
+1. [美因格陵兰岛对欧洲 8 国加税](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%AF%B9%E6%AC%A7%E6%B4%B2%208%20%E5%9B%BD%E5%8A%A0%E7%A8%8E)
 1. [胖东来599元羽绒服进价457.9元](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5599%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%BF%9B%E4%BB%B7457.9%E5%85%83)
 1. [贾国龙回应罗永浩污蔑诽谤](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E5%9B%9E%E5%BA%94%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%B1%A1%E8%94%91%E8%AF%BD%E8%B0%A4)
 1. [幼童在冬季确诊热射病被送 ICU 抢救](https://www.zhihu.com/search?q=%E5%B9%BC%E7%AB%A5%E5%9C%A8%E5%86%AC%E5%AD%A3%E7%A1%AE%E8%AF%8A%E7%83%AD%E5%B0%84%E7%97%85%E8%A2%AB%E9%80%81%20ICU%20%E6%8A%A2%E6%95%91)
