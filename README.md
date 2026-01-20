@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-01-20 15:18:51 +0800`
+`更新时间：2026-01-20 16:16:19 +0800`
 
 ## 热门搜索
 
-1. [blg战胜tes](https://www.zhihu.com/search?q=blg%E6%88%98%E8%83%9Ctes)
+1. [鬼吹灯的真实作者是天下霸唱吗](https://www.zhihu.com/search?q=%E9%AC%BC%E5%90%B9%E7%81%AF%E7%9A%84%E7%9C%9F%E5%AE%9E%E4%BD%9C%E8%80%85%E6%98%AF%E5%A4%A9%E4%B8%8B%E9%9C%B8%E5%94%B1%E5%90%97)
+1. [为什么做销售的大都能做老板](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E9%94%80%E5%94%AE%E7%9A%84%E5%A4%A7%E9%83%BD%E8%83%BD%E5%81%9A%E8%80%81%E6%9D%BF)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E8%BF%9B%E5%85%A5%E9%9B%A8%E9%9B%AA%E6%9C%80%E5%BC%BA%E6%97%B6%E6%AE%B5)
 1. [JDG战胜AL](https://www.zhihu.com/search?q=JDG%E6%88%98%E8%83%9CAL)
 1. [湖人vs开拓者](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%BC%80%E6%8B%93%E8%80%85)
