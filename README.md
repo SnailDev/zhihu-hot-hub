@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-01-20 19:14:35 +0800`
+`更新时间：2026-01-20 20:21:29 +0800`
 
 ## 热门搜索
 
-1. [blg战胜tes](https://www.zhihu.com/search?q=blg%E6%88%98%E8%83%9Ctes)
+1. [轧戏封面](https://www.zhihu.com/search?q=%E8%BD%A7%E6%88%8F%E5%B0%81%E9%9D%A2)
+1. [网红餐厅圈养鲨鱼企鹅供观赏引争议](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E9%A4%90%E5%8E%85%E5%9C%88%E5%85%BB%E9%B2%A8%E9%B1%BC%E4%BC%81%E9%B9%85%E4%BE%9B%E8%A7%82%E8%B5%8F%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E8%BF%9B%E5%85%A5%E9%9B%A8%E9%9B%AA%E6%9C%80%E5%BC%BA%E6%97%B6%E6%AE%B5)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [JDG战胜AL](https://www.zhihu.com/search?q=JDG%E6%88%98%E8%83%9CAL)
