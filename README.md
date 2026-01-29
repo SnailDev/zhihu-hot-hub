@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-01-29 08:57:55 +0800`
+`更新时间：2026-01-29 11:22:56 +0800`
 
 ## 热门搜索
 
-1. [不当催婚催生可能涉嫌违法](https://www.zhihu.com/search?q=%E4%B8%8D%E5%BD%93%E5%82%AC%E5%A9%9A%E5%82%AC%E7%94%9F%E5%8F%AF%E8%83%BD%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95)
-1. [10岁白血病男孩豪豪离世](https://www.zhihu.com/search?q=10%E5%B2%81%E7%99%BD%E8%A1%80%E7%97%85%E7%94%B7%E5%AD%A9%E8%B1%AA%E8%B1%AA%E7%A6%BB%E4%B8%96)
+1. [美联储维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
+1. [勇士vs森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [火箭vs灰熊](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E7%81%B0%E7%86%8A)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E4%B8%9C%E8%A5%BF%E5%B7%B2%E7%BB%8F%E8%B4%B5%E5%88%B0%E4%B8%8D%E5%80%BC%E5%BE%97%E4%B9%B0%E4%BA%86)
 1. [你觉得学英语最大的阻碍是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%89%E5%BE%97%E5%AD%A6%E8%8B%B1%E8%AF%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E9%98%BB%E7%A2%8D%E6%98%AF%E4%BB%80%E4%B9%88)
