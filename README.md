@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-01-30 20:26:26 +0800`
+`更新时间：2026-01-30 21:45:37 +0800`
 
 ## 热门搜索
 
-1. [中国科学家研发出柔性AI芯片](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E5%87%BA%E6%9F%94%E6%80%A7AI%E8%8A%AF%E7%89%87)
-1. [水贝黄金预定价平台杰我睿兑付困难](https://www.zhihu.com/search?q=%E6%B0%B4%E8%B4%9D%E9%BB%84%E9%87%91%E9%A2%84%E5%AE%9A%E4%BB%B7%E5%B9%B3%E5%8F%B0%E6%9D%B0%E6%88%91%E7%9D%BF%E5%85%91%E4%BB%98%E5%9B%B0%E9%9A%BE)
+1. [美联储维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [沪深两市成交额突破5000亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B45000%E4%BA%BF%E5%85%83)
 1. [美联储宣布维持基准利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%9F%BA%E5%87%86%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [奇拉比为什么能打过佐助](https://www.zhihu.com/search?q=%E5%A5%87%E6%8B%89%E6%AF%94%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E6%89%93%E8%BF%87%E4%BD%90%E5%8A%A9)
