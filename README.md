@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-02-02 21:52:57 +0800`
+`更新时间：2026-02-02 22:32:28 +0800`
 
 ## 热门搜索
 
-1. [黄金白银断崖式崩盘](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%96%AD%E5%B4%96%E5%BC%8F%E5%B4%A9%E7%9B%98)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [热刺vs曼城](https://www.zhihu.com/search?q=%E7%83%AD%E5%88%BAvs%E6%9B%BC%E5%9F%8E)
 1. [公牛vs热火](https://www.zhihu.com/search?q=%E5%85%AC%E7%89%9Bvs%E7%83%AD%E7%81%AB)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen%E6%88%98%E8%83%9Chle)
 1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=%E4%B8%AD%E9%A4%90%E5%92%8C%E8%A5%BF%E9%A4%90%E5%93%AA%E4%B8%AA%E6%B2%B9%E8%85%BB)
@@ -40,7 +41,7 @@
 1. [猝死程序员公司HR离职](https://www.zhihu.com/search?q=%E7%8C%9D%E6%AD%BB%E7%A8%8B%E5%BA%8F%E5%91%98%E5%85%AC%E5%8F%B8HR%E7%A6%BB%E8%81%8C)
 1. [缅北徐老发犯罪集团案宣判一人死缓](https://www.zhihu.com/search?q=%E7%BC%85%E5%8C%97%E5%BE%90%E8%80%81%E5%8F%91%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%A1%88%E5%AE%A3%E5%88%A4%E4%B8%80%E4%BA%BA%E6%AD%BB%E7%BC%93)
 1. [好想来回应被质疑称不准](https://www.zhihu.com/search?q=%E5%A5%BD%E6%83%B3%E6%9D%A5%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B4%A8%E7%96%91%E7%A7%B0%E4%B8%8D%E5%87%86)
-1. [成都警方通报刘某巫某某案 ](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%88%98%E6%9F%90%E5%B7%AB%E6%9F%90%E6%9F%90%E6%A1%88%20)
+1. [百度PaddleOCR-VL-1.5全球首破](https://www.zhihu.com/search?q=%E7%99%BE%E5%BA%A6PaddleOCR-VL-1.5%E5%85%A8%E7%90%83%E9%A6%96%E7%A0%B4)
 
 ## 热门话题
 
