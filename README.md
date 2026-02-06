@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-02-06 07:13:39 +0800`
+`更新时间：2026-02-06 08:57:43 +0800`
 
 ## 热门搜索
 
-1. [立春](https://www.zhihu.com/search?q=%E7%AB%8B%E6%98%A5)
+1. [人均70以下自助烤肉用啥肉](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9D%8770%E4%BB%A5%E4%B8%8B%E8%87%AA%E5%8A%A9%E7%83%A4%E8%82%89%E7%94%A8%E5%95%A5%E8%82%89)
+1. [小孩哥把衣物全绑成「炸药包」背身上](https://www.zhihu.com/search?q=%E5%B0%8F%E5%AD%A9%E5%93%A5%E6%8A%8A%E8%A1%A3%E7%89%A9%E5%85%A8%E7%BB%91%E6%88%90%E3%80%8C%E7%82%B8%E8%8D%AF%E5%8C%85%E3%80%8D%E8%83%8C%E8%BA%AB%E4%B8%8A)
 1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%88%87%E5%B0%94%E8%A5%BF)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E8%A7%89%E5%BE%97%E7%A9%B7%E6%B8%B8%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97)
 1. [骑士vs快船](https://www.zhihu.com/search?q=%E9%AA%91%E5%A3%ABvs%E5%BF%AB%E8%88%B9)
