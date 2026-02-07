@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-02-07 08:56:56 +0800`
+`更新时间：2026-02-07 11:18:41 +0800`
 
 ## 热门搜索
 
-1. [内向特质劣势明显为何仍存在](https://www.zhihu.com/search?q=%E5%86%85%E5%90%91%E7%89%B9%E8%B4%A8%E5%8A%A3%E5%8A%BF%E6%98%8E%E6%98%BE%E4%B8%BA%E4%BD%95%E4%BB%8D%E5%AD%98%E5%9C%A8)
-1. [如何戒掉完美主义](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%88%92%E6%8E%89%E5%AE%8C%E7%BE%8E%E4%B8%BB%E4%B9%89)
+1. [苏翊鸣晋级大跳台决赛](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%99%8B%E7%BA%A7%E5%A4%A7%E8%B7%B3%E5%8F%B0%E5%86%B3%E8%B5%9B)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [暴雪寒潮大风三预警齐发](https://www.zhihu.com/search?q=%E6%9A%B4%E9%9B%AA%E5%AF%92%E6%BD%AE%E5%A4%A7%E9%A3%8E%E4%B8%89%E9%A2%84%E8%AD%A6%E9%BD%90%E5%8F%91)
 1. [爱泼斯坦](https://www.zhihu.com/search?q=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6)
@@ -31,7 +30,7 @@
 1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%B0%E4%B8%89%E5%9B%BD)
 1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
 1. [勇士逆转太阳](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%AB%E9%80%86%E8%BD%AC%E5%A4%AA%E9%98%B3)
-1. [油车预计多久会被完全淘汰](https://www.zhihu.com/search?q=%E6%B2%B9%E8%BD%A6%E9%A2%84%E8%AE%A1%E5%A4%9A%E4%B9%85%E4%BC%9A%E8%A2%AB%E5%AE%8C%E5%85%A8%E6%B7%98%E6%B1%B0)
+1. [如何戒掉完美主义](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%88%92%E6%8E%89%E5%AE%8C%E7%BE%8E%E4%B8%BB%E4%B9%89)
 1. [为什么世界三大饮料都是苦的](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%96%E7%95%8C%E4%B8%89%E5%A4%A7%E9%A5%AE%E6%96%99%E9%83%BD%E6%98%AF%E8%8B%A6%E7%9A%84)
 1. [如何正确使用知乎](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8%E7%9F%A5%E4%B9%8E)
 1. [中国网络视听盛典](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8)
