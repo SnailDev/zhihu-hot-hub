@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-02-16 14:59:13 +0800`
+`更新时间：2026-02-16 15:51:45 +0800`
 
 ## 热门搜索
 
-1. [黄冈通报产检正常娃出生却先天畸形](https://www.zhihu.com/search?q=%E9%BB%84%E5%86%88%E9%80%9A%E6%8A%A5%E4%BA%A7%E6%A3%80%E6%AD%A3%E5%B8%B8%E5%A8%83%E5%87%BA%E7%94%9F%E5%8D%B4%E5%85%88%E5%A4%A9%E7%95%B8%E5%BD%A2)
-1. [黄金白银突遭抛售](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%AA%81%E9%81%AD%E6%8A%9B%E5%94%AE)
+1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E8%BF%87%E6%98%A5%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%9B%85%E7%9A%84%E4%B9%A0%E4%BF%97)
 1. [你心目中的年味是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%B9%B4%E5%91%B3%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [林孝埈摔倒](https://www.zhihu.com/search?q=%E6%9E%97%E5%AD%9D%E5%9F%88%E6%91%94%E5%80%92)
@@ -39,6 +38,7 @@
 1. [马斯克到底懂多少技术](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%88%B0%E5%BA%95%E6%87%82%E5%A4%9A%E5%B0%91%E6%8A%80%E6%9C%AF)
 1. [为什么社会反感独处的人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A4%BE%E4%BC%9A%E5%8F%8D%E6%84%9F%E7%8B%AC%E5%A4%84%E7%9A%84%E4%BA%BA)
 1. [战锤里面的机魂到底是个啥](https://www.zhihu.com/search?q=%E6%88%98%E9%94%A4%E9%87%8C%E9%9D%A2%E7%9A%84%E6%9C%BA%E9%AD%82%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%AA%E5%95%A5)
+1. [能分享一张你珍藏已久的照片吗](https://www.zhihu.com/search?q=%E8%83%BD%E5%88%86%E4%BA%AB%E4%B8%80%E5%BC%A0%E4%BD%A0%E7%8F%8D%E8%97%8F%E5%B7%B2%E4%B9%85%E7%9A%84%E7%85%A7%E7%89%87%E5%90%97)
 
 ## 热门话题
 
