@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-02-21 11:18:37 +0800`
+`更新时间：2026-02-21 12:59:17 +0800`
 
 ## 热门搜索
 
+1. [宁忠岩争金](https://www.zhihu.com/search?q=%E5%AE%81%E5%BF%A0%E5%B2%A9%E4%BA%89%E9%87%91)
 1. [过年文案](https://www.zhihu.com/search?q=%E8%BF%87%E5%B9%B4%E6%96%87%E6%A1%88)
 1. [初五迎财神](https://www.zhihu.com/search?q=%E5%88%9D%E4%BA%94%E8%BF%8E%E8%B4%A2%E7%A5%9E)
 1. [快船战胜掘金](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9%E6%88%98%E8%83%9C%E6%8E%98%E9%87%91)
@@ -26,7 +27,7 @@
 1. [ai 马年祝福](https://www.zhihu.com/search?q=ai%20%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F)
 1. [AI 搜索马年祝福集卡](https://www.zhihu.com/search?q=AI%20%E6%90%9C%E7%B4%A2%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F%E9%9B%86%E5%8D%A1)
 1. [ai 搜索集卡享大礼](https://www.zhihu.com/search?q=ai%20%E6%90%9C%E7%B4%A2%E9%9B%86%E5%8D%A1%E4%BA%AB%E5%A4%A7%E7%A4%BC)
-1. [当外国人扎堆来蹭中国年](https://www.zhihu.com/search?q=%E5%BD%93%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%89%8E%E5%A0%86%E6%9D%A5%E8%B9%AD%E4%B8%AD%E5%9B%BD%E5%B9%B4)
+1. [外国访日游客4年来首次同比减少](https://www.zhihu.com/search?q=%E5%A4%96%E5%9B%BD%E8%AE%BF%E6%97%A5%E6%B8%B8%E5%AE%A24%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%90%8C%E6%AF%94%E5%87%8F%E5%B0%91)
 1. [马上集卡分大礼](https://www.zhihu.com/search?q=%E9%A9%AC%E4%B8%8A%E9%9B%86%E5%8D%A1%E5%88%86%E5%A4%A7%E7%A4%BC)
 1. [ai 集卡赢大礼](https://www.zhihu.com/search?q=ai%20%E9%9B%86%E5%8D%A1%E8%B5%A2%E5%A4%A7%E7%A4%BC)
 1. [ai集卡赢大礼](https://www.zhihu.com/search?q=ai%E9%9B%86%E5%8D%A1%E8%B5%A2%E5%A4%A7%E7%A4%BC)
