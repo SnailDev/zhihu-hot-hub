@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-02-24 11:34:23 +0800`
+`更新时间：2026-02-24 13:15:46 +0800`
 
 ## 热门搜索
 
@@ -38,7 +38,6 @@
 1. [微软游戏ceo宣布退休](https://www.zhihu.com/search?q=%E5%BE%AE%E8%BD%AF%E6%B8%B8%E6%88%8Fceo%E5%AE%A3%E5%B8%83%E9%80%80%E4%BC%91)
 1. [烤肠商战](https://www.zhihu.com/search?q=%E7%83%A4%E8%82%A0%E5%95%86%E6%88%98)
 1. [2月28日六星连珠上演](https://www.zhihu.com/search?q=2%E6%9C%8828%E6%97%A5%E5%85%AD%E6%98%9F%E8%BF%9E%E7%8F%A0%E4%B8%8A%E6%BC%94)
-1. [天下第一财神庙被游客挤爆](https://www.zhihu.com/search?q=%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%A5%9E%E5%BA%99%E8%A2%AB%E6%B8%B8%E5%AE%A2%E6%8C%A4%E7%88%86)
 
 ## 热门话题
 
