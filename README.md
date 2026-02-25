@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-02-25 07:19:29 +0800`
+`更新时间：2026-02-25 09:05:47 +0800`
 
 ## 热门搜索
 
@@ -24,6 +24,7 @@
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=%E6%98%8E%E7%99%BD%E4%BB%80%E4%B9%88%E9%81%93%E7%90%86%E5%90%8E%E4%BD%A0%E5%B0%B1%E4%B8%8D%E5%86%8D%E7%84%A6%E8%99%91%E4%BA%86)
 1. [汇报工作时如何做到清晰有条理](https://www.zhihu.com/search?q=%E6%B1%87%E6%8A%A5%E5%B7%A5%E4%BD%9C%E6%97%B6%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E6%B8%85%E6%99%B0%E6%9C%89%E6%9D%A1%E7%90%86)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
+1. [王楚钦鹰眼挑战失败](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%B9%B0%E7%9C%BC%E6%8C%91%E6%88%98%E5%A4%B1%E8%B4%A5)
 1. [什么家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [什么生活常识必须知道](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93)
 1. [真的有先父遗传吗](https://www.zhihu.com/search?q=%E7%9C%9F%E7%9A%84%E6%9C%89%E5%85%88%E7%88%B6%E9%81%97%E4%BC%A0%E5%90%97)
@@ -38,7 +39,6 @@
 1. [为什么葡萄酒在中国火不起来](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%91%A1%E8%90%84%E9%85%92%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%81%AB%E4%B8%8D%E8%B5%B7%E6%9D%A5)
 1. [如何变得会说话](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%8F%98%E5%BE%97%E4%BC%9A%E8%AF%B4%E8%AF%9D)
 1. [战锤里面的机魂是什么](https://www.zhihu.com/search?q=%E6%88%98%E9%94%A4%E9%87%8C%E9%9D%A2%E7%9A%84%E6%9C%BA%E9%AD%82%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [为什么会有人中美人计](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E4%BA%BA%E4%B8%AD%E7%BE%8E%E4%BA%BA%E8%AE%A1)
 
 ## 热门话题
 
