@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-02-27 15:37:39 +0800`
+`更新时间：2026-02-27 16:27:32 +0800`
 
 ## 热门搜索
 
-1. [四六级成绩公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
-1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
+1. [古巴与美籍快艇交火 4 死 6 伤](https://www.zhihu.com/search?q=%E5%8F%A4%E5%B7%B4%E4%B8%8E%E7%BE%8E%E7%B1%8D%E5%BF%AB%E8%89%87%E4%BA%A4%E7%81%AB%204%20%E6%AD%BB%206%20%E4%BC%A4)
+1. [嘴角小水泡别乱处理严重可致命](https://www.zhihu.com/search?q=%E5%98%B4%E8%A7%92%E5%B0%8F%E6%B0%B4%E6%B3%A1%E5%88%AB%E4%B9%B1%E5%A4%84%E7%90%86%E4%B8%A5%E9%87%8D%E5%8F%AF%E8%87%B4%E5%91%BD)
 1. [新品驾到](https://www.zhihu.com/search?q=%E6%96%B0%E5%93%81%E9%A9%BE%E5%88%B0)
 1. [WBG战胜IG](https://www.zhihu.com/search?q=WBG%E6%88%98%E8%83%9CIG)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85)
@@ -40,7 +40,6 @@
 1. [你每天坚持的事情是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E5%9D%9A%E6%8C%81%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [你喝过最好喝的酒](https://www.zhihu.com/search?q=%E4%BD%A0%E5%96%9D%E8%BF%87%E6%9C%80%E5%A5%BD%E5%96%9D%E7%9A%84%E9%85%92)
 1. [你觉得人最重要的能力是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%89%E5%BE%97%E4%BA%BA%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E8%83%BD%E5%8A%9B%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
 
 ## 热门话题
 
