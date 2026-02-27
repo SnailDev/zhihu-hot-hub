@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-02-27 16:27:32 +0800`
+`更新时间：2026-02-27 17:28:50 +0800`
 
 ## 热门搜索
 
-1. [古巴与美籍快艇交火 4 死 6 伤](https://www.zhihu.com/search?q=%E5%8F%A4%E5%B7%B4%E4%B8%8E%E7%BE%8E%E7%B1%8D%E5%BF%AB%E8%89%87%E4%BA%A4%E7%81%AB%204%20%E6%AD%BB%206%20%E4%BC%A4)
-1. [嘴角小水泡别乱处理严重可致命](https://www.zhihu.com/search?q=%E5%98%B4%E8%A7%92%E5%B0%8F%E6%B0%B4%E6%B3%A1%E5%88%AB%E4%B9%B1%E5%A4%84%E7%90%86%E4%B8%A5%E9%87%8D%E5%8F%AF%E8%87%B4%E5%91%BD)
+1. [在职教师被开除已进入劳动仲裁](https://www.zhihu.com/search?q=%E5%9C%A8%E8%81%8C%E6%95%99%E5%B8%88%E8%A2%AB%E5%BC%80%E9%99%A4%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%8A%B3%E5%8A%A8%E4%BB%B2%E8%A3%81)
 1. [新品驾到](https://www.zhihu.com/search?q=%E6%96%B0%E5%93%81%E9%A9%BE%E5%88%B0)
 1. [WBG战胜IG](https://www.zhihu.com/search?q=WBG%E6%88%98%E8%83%9CIG)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85)
