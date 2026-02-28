@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-02-28 20:19:52 +0800`
+`更新时间：2026-02-28 21:29:40 +0800`
 
 ## 热门搜索
 
+1. [魅族回应暂停新手机项目](https://www.zhihu.com/search?q=%E9%AD%85%E6%97%8F%E5%9B%9E%E5%BA%94%E6%9A%82%E5%81%9C%E6%96%B0%E6%89%8B%E6%9C%BA%E9%A1%B9%E7%9B%AE)
+1. [刘晓庆75岁正是演少女的年纪](https://www.zhihu.com/search?q=%E5%88%98%E6%99%93%E5%BA%8675%E5%B2%81%E6%AD%A3%E6%98%AF%E6%BC%94%E5%B0%91%E5%A5%B3%E7%9A%84%E5%B9%B4%E7%BA%AA)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
 1. [酒驾](https://www.zhihu.com/search?q=%E9%85%92%E9%A9%BE)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg%E6%88%98%E8%83%9Cig)
