@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-01 19:10:53 +0800`
+`更新时间：2026-03-01 20:21:34 +0800`
 
 ## 热门搜索
 
-1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
+1. [千问将发布AI眼镜](https://www.zhihu.com/search?q=%E5%8D%83%E9%97%AE%E5%B0%86%E5%8F%91%E5%B8%83AI%E7%9C%BC%E9%95%9C)
+1. [美团、淘宝、京东齐发声](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E3%80%81%E6%B7%98%E5%AE%9D%E3%80%81%E4%BA%AC%E4%B8%9C%E9%BD%90%E5%8F%91%E5%A3%B0)
 1. [退税](https://www.zhihu.com/search?q=%E9%80%80%E7%A8%8E)
 1. [考研查分](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%9F%A5%E5%88%86)
 1. [掘金vs雷霆](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E9%9B%B7%E9%9C%86)
