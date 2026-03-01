@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-01 16:16:29 +0800`
+`更新时间：2026-03-01 17:17:52 +0800`
 
 ## 热门搜索
 
@@ -39,6 +39,7 @@
 1. [相机价格暴涨有的价格翻10倍](https://www.zhihu.com/search?q=%E7%9B%B8%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8%E6%9C%89%E7%9A%84%E4%BB%B7%E6%A0%BC%E7%BF%BB10%E5%80%8D)
 1. [沈腾成为中国首个400亿票房演员](https://www.zhihu.com/search?q=%E6%B2%88%E8%85%BE%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA400%E4%BA%BF%E7%A5%A8%E6%88%BF%E6%BC%94%E5%91%98)
 1. [春节档遇冷能怪短剧吗](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%A1%A3%E9%81%87%E5%86%B7%E8%83%BD%E6%80%AA%E7%9F%AD%E5%89%A7%E5%90%97)
+1. [国投白银lof自掏腰包补偿](https://www.zhihu.com/search?q=%E5%9B%BD%E6%8A%95%E7%99%BD%E9%93%B6lof%E8%87%AA%E6%8E%8F%E8%85%B0%E5%8C%85%E8%A1%A5%E5%81%BF)
 
 ## 热门话题
 
