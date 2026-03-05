@@ -11,13 +11,14 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-05 12:00:32 +0800`
+`更新时间：2026-03-05 13:13:05 +0800`
 
 ## 热门搜索
 
-1. [元宵逢血月易招灾祸系谣言](https://www.zhihu.com/search?q=%E5%85%83%E5%AE%B5%E9%80%A2%E8%A1%80%E6%9C%88%E6%98%93%E6%8B%9B%E7%81%BE%E7%A5%B8%E7%B3%BB%E8%B0%A3%E8%A8%80)
+1. [皇马0比1赫塔费](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%AC0%E6%AF%941%E8%B5%AB%E5%A1%94%E8%B4%B9)
+1. [原油价格会涨到哪](https://www.zhihu.com/search?q=%E5%8E%9F%E6%B2%B9%E4%BB%B7%E6%A0%BC%E4%BC%9A%E6%B6%A8%E5%88%B0%E5%93%AA)
 1. [凤凰传奇演唱会](https://www.zhihu.com/search?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A)
-1. [苹果推出iphone17e](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BAiphone17e)
+1. [森林狼vs掘金](https://www.zhihu.com/search?q=%E6%A3%AE%E6%9E%97%E7%8B%BCvs%E6%8E%98%E9%87%91)
 1. [灰熊vs森林狼](https://www.zhihu.com/search?q=%E7%81%B0%E7%86%8Avs%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [央视元宵晚会节目单](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95)
 1. [央视元宵晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A)
