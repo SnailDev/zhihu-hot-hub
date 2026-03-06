@@ -11,12 +11,10 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-06 16:22:51 +0800`
+`更新时间：2026-03-06 17:26:20 +0800`
 
 ## 热门搜索
 
-1. [「重案六组」宣布翻拍](https://www.zhihu.com/search?q=%E3%80%8C%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%E3%80%8D%E5%AE%A3%E5%B8%83%E7%BF%BB%E6%8B%8D)
-1. [岁月有情时大结局](https://www.zhihu.com/search?q=%E5%B2%81%E6%9C%88%E6%9C%89%E6%83%85%E6%97%B6%E5%A4%A7%E7%BB%93%E5%B1%80)
 1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E8%BF%B9%E8%B1%A1%E8%A1%A8%E6%98%8E%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%A1%8C%E4%BA%86)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [湖人险胜鹈鹕](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E9%99%A9%E8%83%9C%E9%B9%88%E9%B9%95)
