@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-06 22:27:34 +0800`
+`更新时间：2026-03-06 23:25:06 +0800`
 
 ## 热门搜索
 
-1. [美以伊三方发布最新战报](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E4%BC%8A%E4%B8%89%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%88%98%E6%8A%A5)
 1. [湖人vs掘金](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%8E%98%E9%87%91)
 1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E8%BF%B9%E8%B1%A1%E8%A1%A8%E6%98%8E%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%A1%8C%E4%BA%86)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
@@ -33,8 +32,6 @@
 1. [什么家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [什么生活常识必须知道](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93)
 1. [为什么王阳明的思想在中国不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%8B%E9%98%B3%E6%98%8E%E7%9A%84%E6%80%9D%E6%83%B3%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%B5%81%E8%A1%8C)
-1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
-1. [如何判断一个人是不是潜力股](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BD%9C%E5%8A%9B%E8%82%A1)
 
 ## 热门话题
 
