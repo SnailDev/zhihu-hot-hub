@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-10 08:56:24 +0800`
+`更新时间：2026-03-10 11:20:08 +0800`
 
 ## 热门搜索
 
+1. [Bin放狠话我是世界第一上单](https://www.zhihu.com/search?q=Bin%E6%94%BE%E7%8B%A0%E8%AF%9D%E6%88%91%E6%98%AF%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E4%B8%8A%E5%8D%95)
+1. [泡泡玛特起诉拓竹模型侵权](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E8%B5%B7%E8%AF%89%E6%8B%93%E7%AB%B9%E6%A8%A1%E5%9E%8B%E4%BE%B5%E6%9D%83)
 1. [湖人vs掘金](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%8E%98%E9%87%91)
 1. [快船vs灰熊](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E7%81%B0%E7%86%8A)
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=%E4%B9%90%E9%98%9F%E6%89%93%E6%9E%B6%E4%BB%80%E4%B9%88%E4%B9%90%E5%99%A8%E4%BC%A4%E5%AE%B3%E6%9C%80%E9%AB%98)
