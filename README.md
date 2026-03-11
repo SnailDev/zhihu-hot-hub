@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-11 19:23:46 +0800`
+`更新时间：2026-03-11 20:30:25 +0800`
 
 ## 热门搜索
 
-1. [白日提灯](https://www.zhihu.com/search?q=%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF)
+1. [养虾的隐患在于权限失控](https://www.zhihu.com/search?q=%E5%85%BB%E8%99%BE%E7%9A%84%E9%9A%90%E6%82%A3%E5%9C%A8%E4%BA%8E%E6%9D%83%E9%99%90%E5%A4%B1%E6%8E%A7)
+1. [QQ也能养小龙虾了](https://www.zhihu.com/search?q=QQ%E4%B9%9F%E8%83%BD%E5%85%BB%E5%B0%8F%E9%BE%99%E8%99%BE%E4%BA%86)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8%E8%8A%B1%20624%20%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E4%B8%8B%E4%B8%80%E6%A0%B9%E9%A6%99%E8%95%89)
 1. [猛龙vs火箭](https://www.zhihu.com/search?q=%E7%8C%9B%E9%BE%99vs%E7%81%AB%E7%AE%AD)
