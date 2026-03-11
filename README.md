@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-11 20:30:25 +0800`
+`更新时间：2026-03-11 21:56:27 +0800`
 
 ## 热门搜索
 
-1. [养虾的隐患在于权限失控](https://www.zhihu.com/search?q=%E5%85%BB%E8%99%BE%E7%9A%84%E9%9A%90%E6%82%A3%E5%9C%A8%E4%BA%8E%E6%9D%83%E9%99%90%E5%A4%B1%E6%8E%A7)
-1. [QQ也能养小龙虾了](https://www.zhihu.com/search?q=QQ%E4%B9%9F%E8%83%BD%E5%85%BB%E5%B0%8F%E9%BE%99%E8%99%BE%E4%BA%86)
+1. [白日提灯](https://www.zhihu.com/search?q=%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8%E8%8A%B1%20624%20%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E4%B8%8B%E4%B8%80%E6%A0%B9%E9%A6%99%E8%95%89)
 1. [猛龙vs火箭](https://www.zhihu.com/search?q=%E7%8C%9B%E9%BE%99vs%E7%81%AB%E7%AE%AD)
@@ -40,7 +39,6 @@
 1. [普通人如何进行原始的资本积累](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E5%8E%9F%E5%A7%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E7%A7%AF%E7%B4%AF)
 1. [你觉得人最重要的能力是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%89%E5%BE%97%E4%BA%BA%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E8%83%BD%E5%8A%9B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
-1. [如何低成本照顾自己的心理健康](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%BD%8E%E6%88%90%E6%9C%AC%E7%85%A7%E9%A1%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
 
 ## 热门话题
 
