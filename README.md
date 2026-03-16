@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-16 16:00:04 +0800`
+`更新时间：2026-03-16 16:55:54 +0800`
 
 ## 热门搜索
 
-1. [奥斯卡红毯](https://www.zhihu.com/search?q=%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%BA%A2%E6%AF%AF)
-1. [现在干什么能挣钱](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%E8%83%BD%E6%8C%A3%E9%92%B1)
+1. [西汉姆联vs曼城](https://www.zhihu.com/search?q=%E8%A5%BF%E6%B1%89%E5%A7%86%E8%81%94vs%E6%9B%BC%E5%9F%8E)
+1. [315 曝光私域营销 5 倍暴利围猎老人](https://www.zhihu.com/search?q=315%20%E6%9B%9D%E5%85%89%E7%A7%81%E5%9F%9F%E8%90%A5%E9%94%80%205%20%E5%80%8D%E6%9A%B4%E5%88%A9%E5%9B%B4%E7%8C%8E%E8%80%81%E4%BA%BA)
 1. [315晚会曝光名单](https://www.zhihu.com/search?q=315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89%E5%90%8D%E5%8D%95)
 1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=%E9%92%93%E9%B1%BC%E4%BD%AC%E6%9C%80%E6%8E%A5%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [现货黄金跌破5000美元](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B45000%E7%BE%8E%E5%85%83)
