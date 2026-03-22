@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-22 13:43:54 +0800`
+`更新时间：2026-03-22 14:35:38 +0800`
 
 ## 热门搜索
 
-1. [中国又发现四个新矿](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%8F%88%E5%8F%91%E7%8E%B0%E5%9B%9B%E4%B8%AA%E6%96%B0%E7%9F%BF)
-1. [奔跑吧14常驻嘉宾阵容](https://www.zhihu.com/search?q=%E5%A5%94%E8%B7%91%E5%90%A714%E5%B8%B8%E9%A9%BB%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9)
+1. [今日春分](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E6%98%A5%E5%88%86)
+1. [二月二龙抬头](https://www.zhihu.com/search?q=%E4%BA%8C%E6%9C%88%E4%BA%8C%E9%BE%99%E6%8A%AC%E5%A4%B4)
 1. [肖战宝诗龙](https://www.zhihu.com/search?q=%E8%82%96%E6%88%98%E5%AE%9D%E8%AF%97%E9%BE%99)
 1. [湖人vs热火](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%83%AD%E7%81%AB)
 1. [湖人vs火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%81%AB%E7%AE%AD)
