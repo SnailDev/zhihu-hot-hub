@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-24 13:17:58 +0800`
+`更新时间：2026-03-24 14:48:45 +0800`
 
 ## 热门搜索
 
-1. [篮球不会说谎](https://www.zhihu.com/search?q=%E7%AF%AE%E7%90%83%E4%B8%8D%E4%BC%9A%E8%AF%B4%E8%B0%8E)
-1. [雷军：新一代SU7发布即交付](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%EF%BC%9A%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E5%8F%91%E5%B8%83%E5%8D%B3%E4%BA%A4%E4%BB%98)
+1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [为什么地球上不存在巨兽](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%B0%E7%90%83%E4%B8%8A%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%B7%A8%E5%85%BD)
 1. [bin](https://www.zhihu.com/search?q=bin)
