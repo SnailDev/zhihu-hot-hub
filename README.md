@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-25 16:35:08 +0800`
+`更新时间：2026-03-25 17:40:22 +0800`
 
 ## 热门搜索
 
-1. [心源性猝死](https://www.zhihu.com/search?q=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
-1. [周杰伦新歌](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C)
+1. [水贝掀起购金潮](https://www.zhihu.com/search?q=%E6%B0%B4%E8%B4%9D%E6%8E%80%E8%B5%B7%E8%B4%AD%E9%87%91%E6%BD%AE)
+1. [AWE 2026](https://www.zhihu.com/search?q=AWE%202026)
 1. [周杰伦新专辑](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
@@ -26,6 +26,7 @@
 1. [什么是心源性猝死](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
 1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%8D%E6%95%8C%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
+1. [心源性猝死](https://www.zhihu.com/search?q=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
 1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%BD%A0%E7%AA%81%E7%84%B6%E9%A2%86%E6%82%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [为什么这几年的奥特曼没意思了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E5%87%A0%E5%B9%B4%E7%9A%84%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%B2%A1%E6%84%8F%E6%80%9D%E4%BA%86)
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=%E6%98%8E%E7%99%BD%E4%BB%80%E4%B9%88%E9%81%93%E7%90%86%E5%90%8E%E4%BD%A0%E5%B0%B1%E4%B8%8D%E5%86%8D%E7%84%A6%E8%99%91%E4%BA%86)
