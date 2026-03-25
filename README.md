@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-03-25 14:47:24 +0800`
+`更新时间：2026-03-25 15:43:51 +0800`
 
 ## 热门搜索
 
+1. [心源性猝死](https://www.zhihu.com/search?q=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
 1. [周杰伦新歌](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C)
 1. [周杰伦新专辑](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
@@ -22,6 +23,7 @@
 1. [BLG夺冠](https://www.zhihu.com/search?q=BLG%E5%A4%BA%E5%86%A0)
 1. [勇士vs独行侠](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E7%8B%AC%E8%A1%8C%E4%BE%A0)
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=%E4%B9%90%E9%98%9F%E6%89%93%E6%9E%B6%E4%BB%80%E4%B9%88%E4%B9%90%E5%99%A8%E4%BC%A4%E5%AE%B3%E6%9C%80%E9%AB%98)
+1. [什么是心源性猝死](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
 1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%8D%E6%95%8C%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
 1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%BD%A0%E7%AA%81%E7%84%B6%E9%A2%86%E6%82%9F%E4%BA%86%E4%BB%80%E4%B9%88)
@@ -40,9 +42,6 @@
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
 1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
 1. [住家保姆为什么总干不长](https://www.zhihu.com/search?q=%E4%BD%8F%E5%AE%B6%E4%BF%9D%E5%A7%86%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E5%B9%B2%E4%B8%8D%E9%95%BF)
-1. [如何理解允许自己糟糕地进步](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%85%81%E8%AE%B8%E8%87%AA%E5%B7%B1%E7%B3%9F%E7%B3%95%E5%9C%B0%E8%BF%9B%E6%AD%A5)
-1. [你对广东省的印象](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E5%B9%BF%E4%B8%9C%E7%9C%81%E7%9A%84%E5%8D%B0%E8%B1%A1)
-1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B42%E4%B8%87%E4%BA%BF%E5%85%83)
 
 ## 热门话题
 
