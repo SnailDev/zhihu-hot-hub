@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-04-02 16:44:03 +0800`
+`更新时间：2026-04-02 17:48:54 +0800`
 
 ## 热门搜索
 
-1. [洛克王国世界能火多久](https://www.zhihu.com/search?q=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C%E8%83%BD%E7%81%AB%E5%A4%9A%E4%B9%85)
-1. [粉底液将军被嘲冤不冤](https://www.zhihu.com/search?q=%E7%B2%89%E5%BA%95%E6%B6%B2%E5%B0%86%E5%86%9B%E8%A2%AB%E5%98%B2%E5%86%A4%E4%B8%8D%E5%86%A4)
+1. [双休和单休区别大吗](https://www.zhihu.com/search?q=%E5%8F%8C%E4%BC%91%E5%92%8C%E5%8D%95%E4%BC%91%E5%8C%BA%E5%88%AB%E5%A4%A7%E5%90%97)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E9%9B%B7%E9%9C%86)
 1. [广州暴雨](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8)
 1. [什么样的家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%89%8D%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
