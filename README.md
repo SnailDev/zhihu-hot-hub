@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-04-12 07:21:21 +0800`
+`更新时间：2026-04-12 09:16:38 +0800`
 
 ## 热门搜索
 
-1. [刘强东章泽天成立新公司](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E7%AB%A0%E6%B3%BD%E5%A4%A9%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8)
-1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
+1. [杭州西湖将连续一周撒7吨漂白粉](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E5%B0%86%E8%BF%9E%E7%BB%AD%E4%B8%80%E5%91%A8%E6%92%927%E5%90%A8%E6%BC%82%E7%99%BD%E7%B2%89)
 1. [湖人vs勇士](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%8B%87%E5%A3%AB)
 1. [你的电话号码的前主人是什么样的人](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%89%8D%E4%B8%BB%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA)
 1. [戛纳](https://www.zhihu.com/search?q=%E6%88%9B%E7%BA%B3)
@@ -39,7 +38,7 @@
 1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%B0%E4%B8%89%E5%9B%BD)
 1. [Faker的实力真的有传说中那么强吗](https://www.zhihu.com/search?q=Faker%E7%9A%84%E5%AE%9E%E5%8A%9B%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BC%A0%E8%AF%B4%E4%B8%AD%E9%82%A3%E4%B9%88%E5%BC%BA%E5%90%97)
 1. [教父的人情可以不还吗](https://www.zhihu.com/search?q=%E6%95%99%E7%88%B6%E7%9A%84%E4%BA%BA%E6%83%85%E5%8F%AF%E4%BB%A5%E4%B8%8D%E8%BF%98%E5%90%97)
-1. [如何低成本地照顾自己的心理健康](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%BD%8E%E6%88%90%E6%9C%AC%E5%9C%B0%E7%85%A7%E9%A1%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
+1. [刘强东章泽天成立新公司](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E7%AB%A0%E6%B3%BD%E5%A4%A9%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8)
 1. [为什么相声圈那么在乎师承门第](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9B%B8%E5%A3%B0%E5%9C%88%E9%82%A3%E4%B9%88%E5%9C%A8%E4%B9%8E%E5%B8%88%E6%89%BF%E9%97%A8%E7%AC%AC)
 
 ## 热门话题
