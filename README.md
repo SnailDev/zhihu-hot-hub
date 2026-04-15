@@ -11,12 +11,10 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-04-15 20:54:12 +0800`
+`更新时间：2026-04-15 22:24:24 +0800`
 
 ## 热门搜索
 
-1. [美国海关4月20日启动关税退款](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%85%B34%E6%9C%8820%E6%97%A5%E5%90%AF%E5%8A%A8%E5%85%B3%E7%A8%8E%E9%80%80%E6%AC%BE)
-1. [CBA北京vs青岛排位战](https://www.zhihu.com/search?q=CBA%E5%8C%97%E4%BA%ACvs%E9%9D%92%E5%B2%9B%E6%8E%92%E4%BD%8D%E6%88%98)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%AE%97%E6%98%AF%E4%B8%AD%E4%BA%86%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
