@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-04-20 19:09:01 +0800`
+`更新时间：2026-04-20 20:59:22 +0800`
 
 ## 热门搜索
 
-1. [北京晚霞](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%99%9A%E9%9C%9E)
+1. [为什么电动汽车比燃油车更费轮胎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E6%AF%94%E7%87%83%E6%B2%B9%E8%BD%A6%E6%9B%B4%E8%B4%B9%E8%BD%AE%E8%83%8E)
+1. [WSBK荷兰站因车祸提前结束](https://www.zhihu.com/search?q=WSBK%E8%8D%B7%E5%85%B0%E7%AB%99%E5%9B%A0%E8%BD%A6%E7%A5%B8%E6%8F%90%E5%89%8D%E7%BB%93%E6%9D%9F)
 1. [勇士vs太阳](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E5%A4%AA%E9%98%B3)
 1. [火箭vs湖人](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E6%B9%96%E4%BA%BA)
 1. [哈兰德破门](https://www.zhihu.com/search?q=%E5%93%88%E5%85%B0%E5%BE%B7%E7%A0%B4%E9%97%A8)
@@ -38,6 +39,7 @@
 1. [为什么安陵容这类人难相处](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%89%E9%99%B5%E5%AE%B9%E8%BF%99%E7%B1%BB%E4%BA%BA%E9%9A%BE%E7%9B%B8%E5%A4%84)
 1. [为什么要无条件爱孩子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%97%A0%E6%9D%A1%E4%BB%B6%E7%88%B1%E5%AD%A9%E5%AD%90)
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
+1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%B0%E4%B8%89%E5%9B%BD)
 
 ## 热门话题
 
