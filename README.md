@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-04-23 20:54:08 +0800`
+`更新时间：2026-04-23 23:05:02 +0800`
 
 ## 热门搜索
 
-1. [柯镇恶为什么被称为大侠](https://www.zhihu.com/search?q=%E6%9F%AF%E9%95%87%E6%81%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A2%AB%E7%A7%B0%E4%B8%BA%E5%A4%A7%E4%BE%A0)
+1. [火箭vs湖人](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E6%B9%96%E4%BA%BA)
+1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B1%B1%E5%A7%86%E8%BF%99%E4%B9%88%E5%8F%97%E6%AC%A2%E8%BF%8E)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BC%9A%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
 1. [你曾经错过大牛股吗](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9B%BE%E7%BB%8F%E9%94%99%E8%BF%87%E5%A4%A7%E7%89%9B%E8%82%A1%E5%90%97)
@@ -30,7 +31,7 @@
 1. [教父的人情可以不还吗](https://www.zhihu.com/search?q=%E6%95%99%E7%88%B6%E7%9A%84%E4%BA%BA%E6%83%85%E5%8F%AF%E4%BB%A5%E4%B8%8D%E8%BF%98%E5%90%97)
 1. [如何低成本照顾自己的心理健康](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%BD%8E%E6%88%90%E6%9C%AC%E7%85%A7%E9%A1%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
 1. [人的基因到底有多强大](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%9F%BA%E5%9B%A0%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%BC%BA%E5%A4%A7)
-1. [火箭vs湖人](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E6%B9%96%E4%BA%BA)
+1. [住家保姆为什么总干不长](https://www.zhihu.com/search?q=%E4%BD%8F%E5%AE%B6%E4%BF%9D%E5%A7%86%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E5%B9%B2%E4%B8%8D%E9%95%BF)
 1. [沪指重返4100点](https://www.zhihu.com/search?q=%E6%B2%AA%E6%8C%87%E9%87%8D%E8%BF%944100%E7%82%B9)
 1. [油车预计多长时间会被完全淘汰](https://www.zhihu.com/search?q=%E6%B2%B9%E8%BD%A6%E9%A2%84%E8%AE%A1%E5%A4%9A%E9%95%BF%E6%97%B6%E9%97%B4%E4%BC%9A%E8%A2%AB%E5%AE%8C%E5%85%A8%E6%B7%98%E6%B1%B0)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
