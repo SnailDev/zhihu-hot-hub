@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-04-28 07:40:27 +0800`
+`更新时间：2026-04-28 09:29:34 +0800`
 
 ## 热门搜索
 
-1. [湖人vs火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%81%AB%E7%AE%AD)
-1. [什么叫假努力](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E5%81%87%E5%8A%AA%E5%8A%9B)
+1. [多地禁止公共场所吸烟](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E7%A6%81%E6%AD%A2%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E5%90%B8%E7%83%9F)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
 1. [DNF西装节](https://www.zhihu.com/search?q=DNF%E8%A5%BF%E8%A3%85%E8%8A%82)
 1. [沪深两市成交额突破1万亿](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF)
@@ -40,10 +39,11 @@
 1. [歌手2026](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B2026)
 1. [油车预计多长时间会被完全淘汰](https://www.zhihu.com/search?q=%E6%B2%B9%E8%BD%A6%E9%A2%84%E8%AE%A1%E5%A4%9A%E9%95%BF%E6%97%B6%E9%97%B4%E4%BC%9A%E8%A2%AB%E5%AE%8C%E5%85%A8%E6%B7%98%E6%B1%B0)
 1. [切尔西vs利兹联](https://www.zhihu.com/search?q=%E5%88%87%E5%B0%94%E8%A5%BFvs%E5%88%A9%E5%85%B9%E8%81%94)
-1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
-1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
-1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
-1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
+1. [主体性很强的人有什么特点](https://www.zhihu.com/search?q=%E4%B8%BB%E4%BD%93%E6%80%A7%E5%BE%88%E5%BC%BA%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E7%82%B9)
+1. [推荐几本交易类的书籍](https://www.zhihu.com/search?q=%E6%8E%A8%E8%8D%90%E5%87%A0%E6%9C%AC%E4%BA%A4%E6%98%93%E7%B1%BB%E7%9A%84%E4%B9%A6%E7%B1%8D)
+1. [人类基因是一套屎山代码吗](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E6%98%AF%E4%B8%80%E5%A5%97%E5%B1%8E%E5%B1%B1%E4%BB%A3%E7%A0%81%E5%90%97)
+1. [张雪峰为什么英年早逝](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%8B%B1%E5%B9%B4%E6%97%A9%E9%80%9D)
+1. [张雪机车爆火是偶然还是必然](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%88%86%E7%81%AB%E6%98%AF%E5%81%B6%E7%84%B6%E8%BF%98%E6%98%AF%E5%BF%85%E7%84%B6)
 
 ## 热门话题
 
