@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-04-29 07:42:37 +0800`
+`更新时间：2026-04-29 09:45:09 +0800`
 
 ## 热门搜索
 
-1. [体坛周报CBA奖项公布](https://www.zhihu.com/search?q=%E4%BD%93%E5%9D%9B%E5%91%A8%E6%8A%A5CBA%E5%A5%96%E9%A1%B9%E5%85%AC%E5%B8%83)
-1. [胖东来18元瓶装矿泉水遭哄抢](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A518%E5%85%83%E7%93%B6%E8%A3%85%E7%9F%BF%E6%B3%89%E6%B0%B4%E9%81%AD%E5%93%84%E6%8A%A2)
+1. [5月起这些新规即将施行](https://www.zhihu.com/search?q=5%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%8D%B3%E5%B0%86%E6%96%BD%E8%A1%8C)
+1. [欧冠半决赛大巴黎vs拜仁](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%A4%A7%E5%B7%B4%E9%BB%8Evs%E6%8B%9C%E4%BB%81)
 1. [tes战胜nip](https://www.zhihu.com/search?q=tes%E6%88%98%E8%83%9Cnip)
 1. [雷霆vs太阳](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E5%A4%AA%E9%98%B3)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
@@ -41,7 +41,6 @@
 1. [追觅CEO炮轰小红书](https://www.zhihu.com/search?q=%E8%BF%BD%E8%A7%85CEO%E7%82%AE%E8%BD%B0%E5%B0%8F%E7%BA%A2%E4%B9%A6)
 1. [羽衣甘蓝价格大涨 30 倍](https://www.zhihu.com/search?q=%E7%BE%BD%E8%A1%A3%E7%94%98%E8%93%9D%E4%BB%B7%E6%A0%BC%E5%A4%A7%E6%B6%A8%2030%20%E5%80%8D)
 1. [东方甄选拒绝第二个董宇辉](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%8B%92%E7%BB%9D%E7%AC%AC%E4%BA%8C%E4%B8%AA%E8%91%A3%E5%AE%87%E8%BE%89)
-1. [颜宁：我至少两篇 CNS 论文被审稿人抢发](https://www.zhihu.com/search?q=%E9%A2%9C%E5%AE%81%EF%BC%9A%E6%88%91%E8%87%B3%E5%B0%91%E4%B8%A4%E7%AF%87%20CNS%20%E8%AE%BA%E6%96%87%E8%A2%AB%E5%AE%A1%E7%A8%BF%E4%BA%BA%E6%8A%A2%E5%8F%91)
 
 ## 热门话题
 
