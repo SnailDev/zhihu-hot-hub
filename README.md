@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-04-30 07:41:22 +0800`
+`更新时间：2026-04-30 09:44:04 +0800`
 
 ## 热门搜索
 
-1. [掘金vs森林狼](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E6%A3%AE%E6%9E%97%E7%8B%BC)
+1. [曼联2比1布伦特福德](https://www.zhihu.com/search?q=%E6%9B%BC%E8%81%942%E6%AF%941%E5%B8%83%E4%BC%A6%E7%89%B9%E7%A6%8F%E5%BE%B7)
 1. [老鹰vs尼克斯](https://www.zhihu.com/search?q=%E8%80%81%E9%B9%B0vs%E5%B0%BC%E5%85%8B%E6%96%AF)
 1. [AL战胜iG](https://www.zhihu.com/search?q=AL%E6%88%98%E8%83%9CiG)
 1. [开拓者vs马刺](https://www.zhihu.com/search?q=%E5%BC%80%E6%8B%93%E8%80%85vs%E9%A9%AC%E5%88%BA)
@@ -35,8 +35,9 @@
 1. [胖东来18 元 15 瓶矿泉水遭排队抢购](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A518%20%E5%85%83%2015%20%E7%93%B6%E7%9F%BF%E6%B3%89%E6%B0%B4%E9%81%AD%E6%8E%92%E9%98%9F%E6%8A%A2%E8%B4%AD)
 1. [鲁超济南队夏雨荷啦啦队被嘲](https://www.zhihu.com/search?q=%E9%B2%81%E8%B6%85%E6%B5%8E%E5%8D%97%E9%98%9F%E5%A4%8F%E9%9B%A8%E8%8D%B7%E5%95%A6%E5%95%A6%E9%98%9F%E8%A2%AB%E5%98%B2)
 1. [南方人为什么执着于通风](https://www.zhihu.com/search?q=%E5%8D%97%E6%96%B9%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%A7%E7%9D%80%E4%BA%8E%E9%80%9A%E9%A3%8E)
-1. [大头瓶盖瓶装水设计缺陷](https://www.zhihu.com/search?q=%E5%A4%A7%E5%A4%B4%E7%93%B6%E7%9B%96%E7%93%B6%E8%A3%85%E6%B0%B4%E8%AE%BE%E8%AE%A1%E7%BC%BA%E9%99%B7)
 1. [全球黄金主力买家抛售超22吨黄金](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E9%BB%84%E9%87%91%E4%B8%BB%E5%8A%9B%E4%B9%B0%E5%AE%B6%E6%8A%9B%E5%94%AE%E8%B6%8522%E5%90%A8%E9%BB%84%E9%87%91)
+1. [南方多省电价为何突然飙升](https://www.zhihu.com/search?q=%E5%8D%97%E6%96%B9%E5%A4%9A%E7%9C%81%E7%94%B5%E4%BB%B7%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E9%A3%99%E5%8D%87)
+1. [黑夜告白开播](https://www.zhihu.com/search?q=%E9%BB%91%E5%A4%9C%E5%91%8A%E7%99%BD%E5%BC%80%E6%92%AD)
 
 ## 热门话题
 
