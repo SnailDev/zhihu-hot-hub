@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-01 15:57:21 +0800`
+`更新时间：2026-05-01 17:25:04 +0800`
 
 ## 热门搜索
 
@@ -23,7 +23,6 @@
 1. [蜜蜂为什么要把身上的花粉刮下来](https://www.zhihu.com/search?q=%E8%9C%9C%E8%9C%82%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%8A%E8%BA%AB%E4%B8%8A%E7%9A%84%E8%8A%B1%E7%B2%89%E5%88%AE%E4%B8%8B%E6%9D%A5)
 1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E9%A2%84%E8%A7%88%E7%89%88%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%BC%80%E6%BA%90)
 1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek%20v4%20%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87)
-1. [追觅CEO炮轰小红书](https://www.zhihu.com/search?q=%E8%BF%BD%E8%A7%85CEO%E7%82%AE%E8%BD%B0%E5%B0%8F%E7%BA%A2%E4%B9%A6)
 1. [网友做完光子嫩肤后眼睛不适](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%81%9A%E5%AE%8C%E5%85%89%E5%AD%90%E5%AB%A9%E8%82%A4%E5%90%8E%E7%9C%BC%E7%9D%9B%E4%B8%8D%E9%80%82)
 1. [2026五一假期](https://www.zhihu.com/search?q=2026%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F)
 1. [2026五一档](https://www.zhihu.com/search?q=2026%E4%BA%94%E4%B8%80%E6%A1%A3)
@@ -40,6 +39,8 @@
 1. [储户 1800 万存款被银行员工转走](https://www.zhihu.com/search?q=%E5%82%A8%E6%88%B7%201800%20%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E9%93%B6%E8%A1%8C%E5%91%98%E5%B7%A5%E8%BD%AC%E8%B5%B0)
 1. [苹果将 AirPods+Siri 深度绑定](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E5%B0%86%20AirPods%2BSiri%20%E6%B7%B1%E5%BA%A6%E7%BB%91%E5%AE%9A)
 1. [部分本科生「回炉」读技校](https://www.zhihu.com/search?q=%E9%83%A8%E5%88%86%E6%9C%AC%E7%A7%91%E7%94%9F%E3%80%8C%E5%9B%9E%E7%82%89%E3%80%8D%E8%AF%BB%E6%8A%80%E6%A0%A1)
+1. [迈克尔·杰克逊传记片票房破4千万](https://www.zhihu.com/search?q=%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%9D%B0%E5%85%8B%E9%80%8A%E4%BC%A0%E8%AE%B0%E7%89%87%E7%A5%A8%E6%88%BF%E7%A0%B44%E5%8D%83%E4%B8%87)
+1. [孙杨方否认妈妈和节目组联系](https://www.zhihu.com/search?q=%E5%AD%99%E6%9D%A8%E6%96%B9%E5%90%A6%E8%AE%A4%E5%A6%88%E5%A6%88%E5%92%8C%E8%8A%82%E7%9B%AE%E7%BB%84%E8%81%94%E7%B3%BB)
 
 ## 热门话题
 
