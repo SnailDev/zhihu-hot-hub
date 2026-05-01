@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-01 13:31:20 +0800`
+`更新时间：2026-05-01 15:57:21 +0800`
 
 ## 热门搜索
 
@@ -29,6 +29,7 @@
 1. [2026五一档](https://www.zhihu.com/search?q=2026%E4%BA%94%E4%B8%80%E6%A1%A3)
 1. [追觅发布火箭汽车](https://www.zhihu.com/search?q=%E8%BF%BD%E8%A7%85%E5%8F%91%E5%B8%83%E7%81%AB%E7%AE%AD%E6%B1%BD%E8%BD%A6)
 1. [阿 Sa 蔡卓妍官宣结婚](https://www.zhihu.com/search?q=%E9%98%BF%20Sa%20%E8%94%A1%E5%8D%93%E5%A6%8D%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A)
+1. [教授呼吁大学向社会开放](https://www.zhihu.com/search?q=%E6%95%99%E6%8E%88%E5%91%BC%E5%90%81%E5%A4%A7%E5%AD%A6%E5%90%91%E7%A4%BE%E4%BC%9A%E5%BC%80%E6%94%BE)
 1. [巴黎主场5比4战胜拜仁](https://www.zhihu.com/search?q=%E5%B7%B4%E9%BB%8E%E4%B8%BB%E5%9C%BA5%E6%AF%944%E6%88%98%E8%83%9C%E6%8B%9C%E4%BB%81)
 1. [李想与大众高管隔空互怼](https://www.zhihu.com/search?q=%E6%9D%8E%E6%83%B3%E4%B8%8E%E5%A4%A7%E4%BC%97%E9%AB%98%E7%AE%A1%E9%9A%94%E7%A9%BA%E4%BA%92%E6%80%BC)
 1. [曝吴宣仪提出解约遭乐华拒绝](https://www.zhihu.com/search?q=%E6%9B%9D%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%8F%90%E5%87%BA%E8%A7%A3%E7%BA%A6%E9%81%AD%E4%B9%90%E5%8D%8E%E6%8B%92%E7%BB%9D)
@@ -39,7 +40,6 @@
 1. [储户 1800 万存款被银行员工转走](https://www.zhihu.com/search?q=%E5%82%A8%E6%88%B7%201800%20%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E9%93%B6%E8%A1%8C%E5%91%98%E5%B7%A5%E8%BD%AC%E8%B5%B0)
 1. [苹果将 AirPods+Siri 深度绑定](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E5%B0%86%20AirPods%2BSiri%20%E6%B7%B1%E5%BA%A6%E7%BB%91%E5%AE%9A)
 1. [部分本科生「回炉」读技校](https://www.zhihu.com/search?q=%E9%83%A8%E5%88%86%E6%9C%AC%E7%A7%91%E7%94%9F%E3%80%8C%E5%9B%9E%E7%82%89%E3%80%8D%E8%AF%BB%E6%8A%80%E6%A0%A1)
-1. [迈克尔·杰克逊传记片票房破4千万](https://www.zhihu.com/search?q=%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%9D%B0%E5%85%8B%E9%80%8A%E4%BC%A0%E8%AE%B0%E7%89%87%E7%A5%A8%E6%88%BF%E7%A0%B44%E5%8D%83%E4%B8%87)
 
 ## 热门话题
 
