@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-01 18:59:08 +0800`
+`更新时间：2026-05-01 19:56:51 +0800`
 
 ## 热门搜索
 
@@ -23,7 +23,6 @@
 1. [蜜蜂为什么要把身上的花粉刮下来](https://www.zhihu.com/search?q=%E8%9C%9C%E8%9C%82%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%8A%E8%BA%AB%E4%B8%8A%E7%9A%84%E8%8A%B1%E7%B2%89%E5%88%AE%E4%B8%8B%E6%9D%A5)
 1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E9%A2%84%E8%A7%88%E7%89%88%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%BC%80%E6%BA%90)
 1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek%20v4%20%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87)
-1. [网友做完光子嫩肤后眼睛不适](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%81%9A%E5%AE%8C%E5%85%89%E5%AD%90%E5%AB%A9%E8%82%A4%E5%90%8E%E7%9C%BC%E7%9D%9B%E4%B8%8D%E9%80%82)
 1. [2026五一档](https://www.zhihu.com/search?q=2026%E4%BA%94%E4%B8%80%E6%A1%A3)
 1. [追觅发布火箭汽车](https://www.zhihu.com/search?q=%E8%BF%BD%E8%A7%85%E5%8F%91%E5%B8%83%E7%81%AB%E7%AE%AD%E6%B1%BD%E8%BD%A6)
 1. [阿 Sa 蔡卓妍官宣结婚](https://www.zhihu.com/search?q=%E9%98%BF%20Sa%20%E8%94%A1%E5%8D%93%E5%A6%8D%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A)
@@ -41,6 +40,7 @@
 1. [孙杨方否认妈妈和节目组联系](https://www.zhihu.com/search?q=%E5%AD%99%E6%9D%A8%E6%96%B9%E5%90%A6%E8%AE%A4%E5%A6%88%E5%A6%88%E5%92%8C%E8%8A%82%E7%9B%AE%E7%BB%84%E8%81%94%E7%B3%BB)
 1. [DeepSeek 刚刚上线的多模态识图模式](https://www.zhihu.com/search?q=DeepSeek%20%E5%88%9A%E5%88%9A%E4%B8%8A%E7%BA%BF%E7%9A%84%E5%A4%9A%E6%A8%A1%E6%80%81%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F)
 1. [一加和真我合并手机业务回归 OPPO](https://www.zhihu.com/search?q=%E4%B8%80%E5%8A%A0%E5%92%8C%E7%9C%9F%E6%88%91%E5%90%88%E5%B9%B6%E6%89%8B%E6%9C%BA%E4%B8%9A%E5%8A%A1%E5%9B%9E%E5%BD%92%20OPPO)
+1. [欧盟USB-C法规覆盖笔记本领域](https://www.zhihu.com/search?q=%E6%AC%A7%E7%9B%9FUSB-C%E6%B3%95%E8%A7%84%E8%A6%86%E7%9B%96%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%A2%86%E5%9F%9F)
 
 ## 热门话题
 
