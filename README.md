@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-03 20:39:13 +0800`
+`更新时间：2026-05-03 22:03:45 +0800`
 
 ## 热门搜索
 
-1. [中方3个不得回应美方制裁](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B93%E4%B8%AA%E4%B8%8D%E5%BE%97%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E5%88%B6%E8%A3%81)
+1. [湖人淘汰火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E6%B7%98%E6%B1%B0%E7%81%AB%E7%AE%AD)
+1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
@@ -26,7 +27,6 @@
 1. [景帝吃不吃老鼠](https://www.zhihu.com/search?q=%E6%99%AF%E5%B8%9D%E5%90%83%E4%B8%8D%E5%90%83%E8%80%81%E9%BC%A0)
 1. [年轻人不再「真情实感」地交流观点](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E5%86%8D%E3%80%8C%E7%9C%9F%E6%83%85%E5%AE%9E%E6%84%9F%E3%80%8D%E5%9C%B0%E4%BA%A4%E6%B5%81%E8%A7%82%E7%82%B9)
 1. [国铁集团公布官方候补攻略](https://www.zhihu.com/search?q=%E5%9B%BD%E9%93%81%E9%9B%86%E5%9B%A2%E5%85%AC%E5%B8%83%E5%AE%98%E6%96%B9%E5%80%99%E8%A1%A5%E6%94%BB%E7%95%A5)
-1. [湖北地震](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E5%9C%B0%E9%9C%87)
 1. [福大毕业生毕业作品被盗用参赛获奖](https://www.zhihu.com/search?q=%E7%A6%8F%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%94%9F%E6%AF%95%E4%B8%9A%E4%BD%9C%E5%93%81%E8%A2%AB%E7%9B%97%E7%94%A8%E5%8F%82%E8%B5%9B%E8%8E%B7%E5%A5%96)
 1. [现货黄金冲破4600美元](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%86%B2%E7%A0%B44600%E7%BE%8E%E5%85%83)
 1. [印尼将成亚洲第5个有航母的国家](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B0%BC%E5%B0%86%E6%88%90%E4%BA%9A%E6%B4%B2%E7%AC%AC5%E4%B8%AA%E6%9C%89%E8%88%AA%E6%AF%8D%E7%9A%84%E5%9B%BD%E5%AE%B6)
