@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-07 20:23:52 +0800`
+`更新时间：2026-05-07 23:22:44 +0800`
 
 ## 热门搜索
 
-1. [陪伴你最久的事物是什么](https://www.zhihu.com/search?q=%E9%99%AA%E4%BC%B4%E4%BD%A0%E6%9C%80%E4%B9%85%E7%9A%84%E4%BA%8B%E7%89%A9%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [沪深两市成交额突破1万亿](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF)
+1. [瑞士发现 1 例汉坦病毒感染病例](https://www.zhihu.com/search?q=%E7%91%9E%E5%A3%AB%E5%8F%91%E7%8E%B0%201%20%E4%BE%8B%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B)
 1. [新电脑应该装一些什么软件](https://www.zhihu.com/search?q=%E6%96%B0%E7%94%B5%E8%84%91%E5%BA%94%E8%AF%A5%E8%A3%85%E4%B8%80%E4%BA%9B%E4%BB%80%E4%B9%88%E8%BD%AF%E4%BB%B6)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
@@ -34,6 +33,7 @@
 1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=%E6%B5%8F%E9%98%B3%E4%B8%80%E7%83%9F%E8%8A%B1%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
 1. [著名法学家王连昌逝世](https://www.zhihu.com/search?q=%E8%91%97%E5%90%8D%E6%B3%95%E5%AD%A6%E5%AE%B6%E7%8E%8B%E8%BF%9E%E6%98%8C%E9%80%9D%E4%B8%96)
 1. [余额宝收益率破1是什么情况](https://www.zhihu.com/search?q=%E4%BD%99%E9%A2%9D%E5%AE%9D%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B41%E6%98%AF%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5)
+1. [拜仁1:1巴黎](https://www.zhihu.com/search?q=%E6%8B%9C%E4%BB%811%3A1%E5%B7%B4%E9%BB%8E)
 1. [林依晨自曝曾被前男友要求退圈](https://www.zhihu.com/search?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E8%87%AA%E6%9B%9D%E6%9B%BE%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E8%A6%81%E6%B1%82%E9%80%80%E5%9C%88)
 1. [「像糖尿病人一样吃饭」走红](https://www.zhihu.com/search?q=%E3%80%8C%E5%83%8F%E7%B3%96%E5%B0%BF%E7%97%85%E4%BA%BA%E4%B8%80%E6%A0%B7%E5%90%83%E9%A5%AD%E3%80%8D%E8%B5%B0%E7%BA%A2)
 1. [《给阿嬷的情书》成五一档黑马](https://www.zhihu.com/search?q=%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E6%88%90%E4%BA%94%E4%B8%80%E6%A1%A3%E9%BB%91%E9%A9%AC)
