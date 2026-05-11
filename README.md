@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-11 19:53:40 +0800`
+`更新时间：2026-05-11 22:17:56 +0800`
 
 ## 热门搜索
 
@@ -26,15 +26,13 @@
 1. [王曼昱vs张本美和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C)
 1. [詹姆斯尽力局](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B0%BD%E5%8A%9B%E5%B1%80)
 1. [两市成交额重回3万亿](https://www.zhihu.com/search?q=%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E9%87%8D%E5%9B%9E3%E4%B8%87%E4%BA%BF)
-1. [新物种广西两头蛇被发现](https://www.zhihu.com/search?q=%E6%96%B0%E7%89%A9%E7%A7%8D%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%A4%B4%E8%9B%87%E8%A2%AB%E5%8F%91%E7%8E%B0)
-1. [取消快慢班老师称难教](https://www.zhihu.com/search?q=%E5%8F%96%E6%B6%88%E5%BF%AB%E6%85%A2%E7%8F%AD%E8%80%81%E5%B8%88%E7%A7%B0%E9%9A%BE%E6%95%99)
 1. [开播24年的星空卫视将停播](https://www.zhihu.com/search?q=%E5%BC%80%E6%92%AD24%E5%B9%B4%E7%9A%84%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86%E5%B0%86%E5%81%9C%E6%92%AD)
-1. [中国航天员中心招募卧床实验志愿者](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E4%B8%AD%E5%BF%83%E6%8B%9B%E5%8B%9F%E5%8D%A7%E5%BA%8A%E5%AE%9E%E9%AA%8C%E5%BF%97%E6%84%BF%E8%80%85)
-1. [曝苹果高价买芯](https://www.zhihu.com/search?q=%E6%9B%9D%E8%8B%B9%E6%9E%9C%E9%AB%98%E4%BB%B7%E4%B9%B0%E8%8A%AF)
-1. [榴莲遭仅退款商家驱车千里找买家](https://www.zhihu.com/search?q=%E6%A6%B4%E8%8E%B2%E9%81%AD%E4%BB%85%E9%80%80%E6%AC%BE%E5%95%86%E5%AE%B6%E9%A9%B1%E8%BD%A6%E5%8D%83%E9%87%8C%E6%89%BE%E4%B9%B0%E5%AE%B6)
 1. [智能门锁被照片刷脸打开](https://www.zhihu.com/search?q=%E6%99%BA%E8%83%BD%E9%97%A8%E9%94%81%E8%A2%AB%E7%85%A7%E7%89%87%E5%88%B7%E8%84%B8%E6%89%93%E5%BC%80)
 1. [「反向接话」视频爆火](https://www.zhihu.com/search?q=%E3%80%8C%E5%8F%8D%E5%90%91%E6%8E%A5%E8%AF%9D%E3%80%8D%E8%A7%86%E9%A2%91%E7%88%86%E7%81%AB)
 1. [天舟十号择机发射](https://www.zhihu.com/search?q=%E5%A4%A9%E8%88%9F%E5%8D%81%E5%8F%B7%E6%8B%A9%E6%9C%BA%E5%8F%91%E5%B0%84)
+1. [猛推猴子男子3年内禁入峨眉山](https://www.zhihu.com/search?q=%E7%8C%9B%E6%8E%A8%E7%8C%B4%E5%AD%90%E7%94%B7%E5%AD%903%E5%B9%B4%E5%86%85%E7%A6%81%E5%85%A5%E5%B3%A8%E7%9C%89%E5%B1%B1)
+1. [台湾出现汉坦病毒致死病例](https://www.zhihu.com/search?q=%E5%8F%B0%E6%B9%BE%E5%87%BA%E7%8E%B0%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E8%87%B4%E6%AD%BB%E7%97%85%E4%BE%8B)
+1. [买190元榴莲仅退款买家已被拘](https://www.zhihu.com/search?q=%E4%B9%B0190%E5%85%83%E6%A6%B4%E8%8E%B2%E4%BB%85%E9%80%80%E6%AC%BE%E4%B9%B0%E5%AE%B6%E5%B7%B2%E8%A2%AB%E6%8B%98)
 
 ## 热门话题
 
