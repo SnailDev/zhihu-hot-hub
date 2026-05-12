@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-12 07:44:14 +0800`
+`更新时间：2026-05-12 09:45:56 +0800`
 
 ## 热门搜索
 
@@ -20,7 +20,6 @@
 1. [T1战胜DK](https://www.zhihu.com/search?q=T1%E6%88%98%E8%83%9CDK)
 1. [梁靖崑3:2张本智和](https://www.zhihu.com/search?q=%E6%A2%81%E9%9D%96%E5%B4%913%3A2%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
 1. [汪苏泷演唱会](https://www.zhihu.com/search?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A)
-1. [国乒男团进决赛](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E8%BF%9B%E5%86%B3%E8%B5%9B)
 1. [WBG战胜NIP](https://www.zhihu.com/search?q=WBG%E6%88%98%E8%83%9CNIP)
 1. [尼克斯vs76人](https://www.zhihu.com/search?q=%E5%B0%BC%E5%85%8B%E6%96%AFvs76%E4%BA%BA)
 1. [王曼昱vs张本美和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C)
