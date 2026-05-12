@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-12 19:08:34 +0800`
+`更新时间：2026-05-12 21:30:22 +0800`
 
 ## 热门搜索
 
-1. [国际护士节](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E6%8A%A4%E5%A3%AB%E8%8A%82)
+1. [学校回应中学男厕装摄像头](https://www.zhihu.com/search?q=%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E7%94%B7%E5%8E%95%E8%A3%85%E6%91%84%E5%83%8F%E5%A4%B4)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E9%9B%B7%E9%9C%86)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
