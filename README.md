@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-23 06:46:15 +0800`
+`更新时间：2026-05-23 07:54:57 +0800`
 
 ## 热门搜索
 
@@ -37,7 +37,6 @@
 1. [龙岩国企招聘25人报名19人缺考](https://www.zhihu.com/search?q=%E9%BE%99%E5%B2%A9%E5%9B%BD%E4%BC%81%E6%8B%9B%E8%81%9825%E4%BA%BA%E6%8A%A5%E5%90%8D19%E4%BA%BA%E7%BC%BA%E8%80%83)
 1. [长江存储启动ipo辅导](https://www.zhihu.com/search?q=%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E5%90%AF%E5%8A%A8ipo%E8%BE%85%E5%AF%BC)
 1. [易立竞采访孙杨](https://www.zhihu.com/search?q=%E6%98%93%E7%AB%8B%E7%AB%9E%E9%87%87%E8%AE%BF%E5%AD%99%E6%9D%A8)
-1. [微信读书上线AI Skill](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E4%B8%8A%E7%BA%BFAI%20Skill)
 1. [中国 U17 男足胜澳大利亚进亚洲杯决赛](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%20U17%20%E7%94%B7%E8%B6%B3%E8%83%9C%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B)
 1. [国足 U17 晋级亚洲杯决赛](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%20U17%20%E6%99%8B%E7%BA%A7%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B)
 1. [特斯拉放弃印度建厂](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82)
