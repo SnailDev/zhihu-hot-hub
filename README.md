@@ -11,13 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-25 10:02:06 +0800`
+`更新时间：2026-05-25 14:58:29 +0800`
 
 ## 热门搜索
 
-1. [油价](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7)
-1. [油价今晚上调](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E4%BB%8A%E6%99%9A%E4%B8%8A%E8%B0%83)
-1. [武汉发布暴雨红色预警](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6)
+1. [阿联酋拦截6架无人机](https://www.zhihu.com/search?q=%E9%98%BF%E8%81%94%E9%85%8B%E6%8B%A6%E6%88%AA6%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA)
 1. [今年首个红色山洪灾害气象预警发布](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E7%BA%A2%E8%89%B2%E5%B1%B1%E6%B4%AA%E7%81%BE%E5%AE%B3%E6%B0%94%E8%B1%A1%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83)
 1. [金价](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
@@ -40,6 +38,8 @@
 1. [iphone绝版配件回归](https://www.zhihu.com/search?q=iphone%E7%BB%9D%E7%89%88%E9%85%8D%E4%BB%B6%E5%9B%9E%E5%BD%92)
 1. [openai创始人跳槽anthropic](https://www.zhihu.com/search?q=openai%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B7%B3%E6%A7%BDanthropic)
 1. [华谊兄弟因60万案款成老赖](https://www.zhihu.com/search?q=%E5%8D%8E%E8%B0%8A%E5%85%84%E5%BC%9F%E5%9B%A060%E4%B8%87%E6%A1%88%E6%AC%BE%E6%88%90%E8%80%81%E8%B5%96)
+1. [阿森纳时隔22年再夺英超冠军](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3%E6%97%B6%E9%9A%9422%E5%B9%B4%E5%86%8D%E5%A4%BA%E8%8B%B1%E8%B6%85%E5%86%A0%E5%86%9B)
+1. [黑袍纠察队大结局](https://www.zhihu.com/search?q=%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E5%A4%A7%E7%BB%93%E5%B1%80)
 
 ## 热门话题
 
