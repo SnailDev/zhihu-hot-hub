@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-05-27 06:58:17 +0800`
+`更新时间：2026-05-27 07:59:28 +0800`
 
 ## 热门搜索
 
-1. [T1战胜DK](https://www.zhihu.com/search?q=T1%E6%88%98%E8%83%9CDK)
-1. [今年首个红色山洪灾害气象预警发布](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E7%BA%A2%E8%89%B2%E5%B1%B1%E6%B4%AA%E7%81%BE%E5%AE%B3%E6%B0%94%E8%B1%A1%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83)
+1. [油价大跌，白银飙涨](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E5%A4%A7%E8%B7%8C%EF%BC%8C%E7%99%BD%E9%93%B6%E9%A3%99%E6%B6%A8)
+1. [欧盟计划对谷歌处以数亿欧元罚款](https://www.zhihu.com/search?q=%E6%AC%A7%E7%9B%9F%E8%AE%A1%E5%88%92%E5%AF%B9%E8%B0%B7%E6%AD%8C%E5%A4%84%E4%BB%A5%E6%95%B0%E4%BA%BF%E6%AC%A7%E5%85%83%E7%BD%9A%E6%AC%BE)
 1. [雨霖铃](https://www.zhihu.com/search?q=%E9%9B%A8%E9%9C%96%E9%93%83)
 1. [雷军强烈建议大家现在就换手机](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E7%8E%B0%E5%9C%A8%E5%B0%B1%E6%8D%A2%E6%89%8B%E6%9C%BA)
 1. [《错嫁有喜》原著](https://www.zhihu.com/search?q=%E3%80%8A%E9%94%99%E5%AB%81%E6%9C%89%E5%96%9C%E3%80%8B%E5%8E%9F%E8%91%97)
