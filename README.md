@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-06-07 14:55:15 +0800`
+`更新时间：2026-06-07 17:54:11 +0800`
 
 ## 热门搜索
 
-1. [尼克斯1比0马刺](https://www.zhihu.com/search?q=%E5%B0%BC%E5%85%8B%E6%96%AF1%E6%AF%940%E9%A9%AC%E5%88%BA)
+1. [多地要求高考期间ktv暂停营业](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E8%A6%81%E6%B1%82%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4ktv%E6%9A%82%E5%81%9C%E8%90%A5%E4%B8%9A)
+1. [全社会都在为高考生加油](https://www.zhihu.com/search?q=%E5%85%A8%E7%A4%BE%E4%BC%9A%E9%83%BD%E5%9C%A8%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9)
 1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8D%E8%83%BD%E9%9D%A0%E6%84%8F%E5%BF%97%E5%8A%9B%E6%88%92%E6%AF%92)
