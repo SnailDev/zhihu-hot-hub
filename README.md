@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-06-09 17:25:39 +0800`
+`更新时间：2026-06-09 20:28:24 +0800`
 
 ## 热门搜索
 
-1. [传销头子出狱后再骗10个亿](https://www.zhihu.com/search?q=%E4%BC%A0%E9%94%80%E5%A4%B4%E5%AD%90%E5%87%BA%E7%8B%B1%E5%90%8E%E5%86%8D%E9%AA%9710%E4%B8%AA%E4%BA%BF)
+1. [高考作文](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87)
+1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [浪姐四公](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC)
 1. [NBA总决赛](https://www.zhihu.com/search?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9B)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
@@ -28,10 +29,11 @@
 1. [监考时怎么打发时间](https://www.zhihu.com/search?q=%E7%9B%91%E8%80%83%E6%97%B6%E6%80%8E%E4%B9%88%E6%89%93%E5%8F%91%E6%97%B6%E9%97%B4)
 1. [高考押题](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%8A%BC%E9%A2%98)
 1. [地理答题模板](https://www.zhihu.com/search?q=%E5%9C%B0%E7%90%86%E7%AD%94%E9%A2%98%E6%A8%A1%E6%9D%BF)
-1. [SpaceX被曝IPO定价135美元](https://www.zhihu.com/search?q=SpaceX%E8%A2%AB%E6%9B%9DIPO%E5%AE%9A%E4%BB%B7135%E7%BE%8E%E5%85%83)
+1. [2026 高考](https://www.zhihu.com/search?q=2026%20%E9%AB%98%E8%80%83)
 1. [2026高考数学](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6)
 1. [2026高考作文](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87)
 1. [2026高考英语](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD)
+1. [2026高考化学](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6)
 1. [高考花束祝福语](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%8A%B1%E6%9D%9F%E7%A5%9D%E7%A6%8F%E8%AF%AD)
 1. [《开个玩笑》定档](https://www.zhihu.com/search?q=%E3%80%8A%E5%BC%80%E4%B8%AA%E7%8E%A9%E7%AC%91%E3%80%8B%E5%AE%9A%E6%A1%A3)
 1. [泡泡玛特告奈雪的茶获赔32万](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%91%8A%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E8%8E%B7%E8%B5%9432%E4%B8%87)
