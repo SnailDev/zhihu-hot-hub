@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-06-09 20:28:24 +0800`
+`更新时间：2026-06-09 23:47:36 +0800`
 
 ## 热门搜索
 
@@ -35,12 +35,12 @@
 1. [2026高考英语](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD)
 1. [2026高考化学](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6)
 1. [高考花束祝福语](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%8A%B1%E6%9D%9F%E7%A5%9D%E7%A6%8F%E8%AF%AD)
-1. [《开个玩笑》定档](https://www.zhihu.com/search?q=%E3%80%8A%E5%BC%80%E4%B8%AA%E7%8E%A9%E7%AC%91%E3%80%8B%E5%AE%9A%E6%A1%A3)
 1. [泡泡玛特告奈雪的茶获赔32万](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%91%8A%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E8%8E%B7%E8%B5%9432%E4%B8%87)
 1. [上海男篮夺cba总冠军](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%94%B7%E7%AF%AE%E5%A4%BAcba%E6%80%BB%E5%86%A0%E5%86%9B)
 1. [邮政押运高考试卷车队核弹级保密](https://www.zhihu.com/search?q=%E9%82%AE%E6%94%BF%E6%8A%BC%E8%BF%90%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E8%BD%A6%E9%98%9F%E6%A0%B8%E5%BC%B9%E7%BA%A7%E4%BF%9D%E5%AF%86)
-1. [奔跑吧嘉宾疑似内含观众](https://www.zhihu.com/search?q=%E5%A5%94%E8%B7%91%E5%90%A7%E5%98%89%E5%AE%BE%E7%96%91%E4%BC%BC%E5%86%85%E5%90%AB%E8%A7%82%E4%BC%97)
 1. [全国首例盲人脑机接口复明成功](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8B%E7%9B%B2%E4%BA%BA%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A4%8D%E6%98%8E%E6%88%90%E5%8A%9F)
+1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=%E9%87%8D%E5%9B%9E%E9%AB%98%E8%80%83%E9%82%A3%E5%B9%B4%E8%BF%98%E8%83%BD%E5%81%9A%E5%AF%B9%E5%87%A0%E9%81%93)
+1. [高考前没说出口的告白](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%89%8D%E6%B2%A1%E8%AF%B4%E5%87%BA%E5%8F%A3%E7%9A%84%E5%91%8A%E7%99%BD)
 
 ## 热门话题
 
