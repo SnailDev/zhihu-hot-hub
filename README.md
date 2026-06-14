@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-06-14 15:12:21 +0800`
+`更新时间：2026-06-14 18:41:25 +0800`
 
 ## 热门搜索
 
@@ -21,7 +21,6 @@
 1. [六级](https://www.zhihu.com/search?q=%E5%85%AD%E7%BA%A7)
 1. [英语六级考试](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95)
 1. [马刺VS尼克斯](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BAVS%E5%B0%BC%E5%85%8B%E6%96%AF)
-1. [SpaceX被曝IPO定价135美元](https://www.zhihu.com/search?q=SpaceX%E8%A2%AB%E6%9B%9DIPO%E5%AE%9A%E4%BB%B7135%E7%BE%8E%E5%85%83)
 1. [2026高考地理](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E5%9C%B0%E7%90%86)
 1. [2026高考生物](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E7%94%9F%E7%89%A9)
 1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=%E9%87%8D%E5%9B%9E%E9%AB%98%E8%80%83%E9%82%A3%E5%B9%B4%E8%BF%98%E8%83%BD%E5%81%9A%E5%AF%B9%E5%87%A0%E9%81%93)
@@ -36,8 +35,10 @@
 1. [伊朗袭击美军第五舰队](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F)
 1. [爱情有烟火定档](https://www.zhihu.com/search?q=%E7%88%B1%E6%83%85%E6%9C%89%E7%83%9F%E7%81%AB%E5%AE%9A%E6%A1%A3)
 1. [微信朋友圈能精准搜索了](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%83%BD%E7%B2%BE%E5%87%86%E6%90%9C%E7%B4%A2%E4%BA%86)
-1. [江门中微子实验成果发表](https://www.zhihu.com/search?q=%E6%B1%9F%E9%97%A8%E4%B8%AD%E5%BE%AE%E5%AD%90%E5%AE%9E%E9%AA%8C%E6%88%90%E6%9E%9C%E5%8F%91%E8%A1%A8)
 1. [NBA总决赛G4尼克斯3-1马刺](https://www.zhihu.com/search?q=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG4%E5%B0%BC%E5%85%8B%E6%96%AF3-1%E9%A9%AC%E5%88%BA)
+1. [尼克斯绝杀马刺](https://www.zhihu.com/search?q=%E5%B0%BC%E5%85%8B%E6%96%AF%E7%BB%9D%E6%9D%80%E9%A9%AC%E5%88%BA)
+1. [王楚钦回应担任国乒男队队长](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%9E%E5%BA%94%E6%8B%85%E4%BB%BB%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E9%98%9F%E9%95%BF)
+1. [明星扎堆开跨界演唱会](https://www.zhihu.com/search?q=%E6%98%8E%E6%98%9F%E6%89%8E%E5%A0%86%E5%BC%80%E8%B7%A8%E7%95%8C%E6%BC%94%E5%94%B1%E4%BC%9A)
 
 ## 热门话题
 
