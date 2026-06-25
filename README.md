@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-06-25 09:58:58 +0800`
+`更新时间：2026-06-25 14:03:14 +0800`
 
 ## 热门搜索
 
@@ -36,9 +36,9 @@
 1. [梅西帽子戏法](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95)
 1. [日韩股市全线反弹](https://www.zhihu.com/search?q=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E5%85%A8%E7%BA%BF%E5%8F%8D%E5%BC%B9)
 1. [阿根廷3-0阿尔及利亚](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B73-0%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A)
+1. [易立竞采访向佐](https://www.zhihu.com/search?q=%E6%98%93%E7%AB%8B%E7%AB%9E%E9%87%87%E8%AE%BF%E5%90%91%E4%BD%90)
 1. [C罗首秀状态不佳全场0射正](https://www.zhihu.com/search?q=C%E7%BD%97%E9%A6%96%E7%A7%80%E7%8A%B6%E6%80%81%E4%B8%8D%E4%BD%B3%E5%85%A8%E5%9C%BA0%E5%B0%84%E6%AD%A3)
 1. [伊朗美国卡塔尔三方会议](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%9B%BD%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%89%E6%96%B9%E4%BC%9A%E8%AE%AE)
-1. [刘强东说将来根本不需要快递员](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%AF%B4%E5%B0%86%E6%9D%A5%E6%A0%B9%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E5%BF%AB%E9%80%92%E5%91%98)
 
 ## 热门话题
 
