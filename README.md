@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-06-28 19:29:37 +0800`
+`更新时间：2026-06-28 21:08:04 +0800`
 
 ## 热门搜索
 
-1. [广西公布2026年高考分数线](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%85%AC%E5%B8%832026%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
-1. [宋祖儿本名有重新练号的感觉](https://www.zhihu.com/search?q=%E5%AE%8B%E7%A5%96%E5%84%BF%E6%9C%AC%E5%90%8D%E6%9C%89%E9%87%8D%E6%96%B0%E7%BB%83%E5%8F%B7%E7%9A%84%E6%84%9F%E8%A7%89)
+1. [广东高考分数线公布](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
+1. [四川高考分数线公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [山西高考分数线公布](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [北京高考分数线公布](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [浙江高考分数线公布](https://www.zhihu.com/search?q=%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
