@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-06 06:45:45 +0800`
+`更新时间：2026-07-06 07:52:51 +0800`
 
 ## 热门搜索
 
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [兆易创新封跌停](https://www.zhihu.com/search?q=%E5%85%86%E6%98%93%E5%88%9B%E6%96%B0%E5%B0%81%E8%B7%8C%E5%81%9C)
+1. [高温致埃菲尔铁塔长高10厘米](https://www.zhihu.com/search?q=%E9%AB%98%E6%B8%A9%E8%87%B4%E5%9F%83%E8%8F%B2%E5%B0%94%E9%93%81%E5%A1%94%E9%95%BF%E9%AB%9810%E5%8E%98%E7%B1%B3)
 1. [高铁上的商务座都被谁买了](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E5%95%86%E5%8A%A1%E5%BA%A7%E9%83%BD%E8%A2%AB%E8%B0%81%E4%B9%B0%E4%BA%86)
 1. [G2对战TES](https://www.zhihu.com/search?q=G2%E5%AF%B9%E6%88%98TES)
 1. [克罗地亚出局](https://www.zhihu.com/search?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%87%BA%E5%B1%80)
