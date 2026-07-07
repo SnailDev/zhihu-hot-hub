@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-07 09:48:13 +0800`
+`更新时间：2026-07-07 13:55:45 +0800`
 
 ## 热门搜索
 
-1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
+1. [宋亚轩伤不起](https://www.zhihu.com/search?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%BC%A4%E4%B8%8D%E8%B5%B7)
+1. [广西内涝](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%86%85%E6%B6%9D)
 1. [深圳暴雨](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E6%9A%B4%E9%9B%A8)
 1. [有线耳机](https://www.zhihu.com/search?q=%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA)
 1. [崩坏星穹铁道](https://www.zhihu.com/search?q=%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93)
@@ -25,12 +26,10 @@
 1. [北京国安vs山东泰山](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89vs%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1)
 1. [blg对战t1](https://www.zhihu.com/search?q=blg%E5%AF%B9%E6%88%98t1)
 1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E8%89%BA%E8%BF%AA)
-1. [葡萄牙vs西班牙](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99)
 1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA%E5%A4%8F%E5%AD%A3%E8%81%94%E8%B5%9B)
 1. [蒯曼vs张本美和](https://www.zhihu.com/search?q=%E8%92%AF%E6%9B%BCvs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C)
 1. [樊振东上海活动](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%8A%E6%B5%B7%E6%B4%BB%E5%8A%A8)
 1. [功夫女足](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
-1. [《南部档案》大结局](https://www.zhihu.com/search?q=%E3%80%8A%E5%8D%97%E9%83%A8%E6%A1%A3%E6%A1%88%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 1. [WPS 背刺用户](https://www.zhihu.com/search?q=WPS%20%E8%83%8C%E5%88%BA%E7%94%A8%E6%88%B7)
@@ -40,6 +39,8 @@
 1. [今年第9号台风巴威已生成](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E7%AC%AC9%E5%8F%B7%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%B7%B2%E7%94%9F%E6%88%90)
 1. [当meta开始卖算力](https://www.zhihu.com/search?q=%E5%BD%93meta%E5%BC%80%E5%A7%8B%E5%8D%96%E7%AE%97%E5%8A%9B)
 1. [索尼宣布取消实体版游戏](https://www.zhihu.com/search?q=%E7%B4%A2%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88%E5%AE%9E%E4%BD%93%E7%89%88%E6%B8%B8%E6%88%8F)
+1. [火焰山地表温度飙至 84℃](https://www.zhihu.com/search?q=%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E9%A3%99%E8%87%B3%2084%E2%84%83)
+1. [泰山景区回应隔离铁丝网质疑](https://www.zhihu.com/search?q=%E6%B3%B0%E5%B1%B1%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E9%9A%94%E7%A6%BB%E9%93%81%E4%B8%9D%E7%BD%91%E8%B4%A8%E7%96%91)
 
 ## 热门话题
 
