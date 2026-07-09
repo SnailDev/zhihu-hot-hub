@@ -11,14 +11,13 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-09 18:20:58 +0800`
+`更新时间：2026-07-09 21:40:22 +0800`
 
 ## 热门搜索
 
 1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
 1. [为什么要实行薪酬保密](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%AE%9E%E8%A1%8C%E8%96%AA%E9%85%AC%E4%BF%9D%E5%AF%86)
 1. [百花奖](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E5%A5%96)
-1. [G2对战T1](https://www.zhihu.com/search?q=G2%E5%AF%B9%E6%88%98T1)
 1. [美股](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1)
 1. [g2战胜t1](https://www.zhihu.com/search?q=g2%E6%88%98%E8%83%9Ct1)
 1. [功夫女足](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
@@ -38,6 +37,7 @@
 1. [苏宁清仓家乐福中国](https://www.zhihu.com/search?q=%E8%8B%8F%E5%AE%81%E6%B8%85%E4%BB%93%E5%AE%B6%E4%B9%90%E7%A6%8F%E4%B8%AD%E5%9B%BD)
 1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
 1. [广西内涝](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%86%85%E6%B6%9D)
+1. [吃饭会用很多纸巾是「感官过载」](https://www.zhihu.com/search?q=%E5%90%83%E9%A5%AD%E4%BC%9A%E7%94%A8%E5%BE%88%E5%A4%9A%E7%BA%B8%E5%B7%BE%E6%98%AF%E3%80%8C%E6%84%9F%E5%AE%98%E8%BF%87%E8%BD%BD%E3%80%8D)
 1. [为什么很多人用创伤来定义感受](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E7%94%A8%E5%88%9B%E4%BC%A4%E6%9D%A5%E5%AE%9A%E4%B9%89%E6%84%9F%E5%8F%97)
 
 ## 热门话题
