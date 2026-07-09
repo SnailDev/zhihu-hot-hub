@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-09 10:08:31 +0800`
+`更新时间：2026-07-09 14:30:50 +0800`
 
 ## 热门搜索
 
-1. [美国主帅怒踢水瓶](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%BB%E5%B8%85%E6%80%92%E8%B8%A2%E6%B0%B4%E7%93%B6)
-1. [为什么很多人用创伤来定义感受](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E7%94%A8%E5%88%9B%E4%BC%A4%E6%9D%A5%E5%AE%9A%E4%B9%89%E6%84%9F%E5%8F%97)
+1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
+1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
 1. [裁判](https://www.zhihu.com/search?q=%E8%A3%81%E5%88%A4)
 1. [苏醒](https://www.zhihu.com/search?q=%E8%8B%8F%E9%86%92)
 1. [G2对战T1](https://www.zhihu.com/search?q=G2%E5%AF%B9%E6%88%98T1)
@@ -26,7 +26,6 @@
 1. [功夫女足](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
-1. [WPS 背刺用户](https://www.zhihu.com/search?q=WPS%20%E8%83%8C%E5%88%BA%E7%94%A8%E6%88%B7)
 1. [恋与深空取消上线敖尹](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%8F%96%E6%B6%88%E4%B8%8A%E7%BA%BF%E6%95%96%E5%B0%B9)
 1. [小红书遭举报存在VIE信披矛盾等问题](https://www.zhihu.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%81%AD%E4%B8%BE%E6%8A%A5%E5%AD%98%E5%9C%A8VIE%E4%BF%A1%E6%8A%AB%E7%9F%9B%E7%9B%BE%E7%AD%89%E9%97%AE%E9%A2%98)
 1. [LV在中国密集维权](https://www.zhihu.com/search?q=LV%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AF%86%E9%9B%86%E7%BB%B4%E6%9D%83)
@@ -38,6 +37,8 @@
 1. [美国前锋巴洛贡红牌禁赛被「缓刑」](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%89%8D%E9%94%8B%E5%B7%B4%E6%B4%9B%E8%B4%A1%E7%BA%A2%E7%89%8C%E7%A6%81%E8%B5%9B%E8%A2%AB%E3%80%8C%E7%BC%93%E5%88%91%E3%80%8D)
 1. [苏宁清仓家乐福中国](https://www.zhihu.com/search?q=%E8%8B%8F%E5%AE%81%E6%B8%85%E4%BB%93%E5%AE%B6%E4%B9%90%E7%A6%8F%E4%B8%AD%E5%9B%BD)
 1. [《功夫女足》定档](https://www.zhihu.com/search?q=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E5%AE%9A%E6%A1%A3)
+1. [松岛辉空美国大满贯男单冠军](https://www.zhihu.com/search?q=%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B)
+1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
 
 ## 热门话题
 
