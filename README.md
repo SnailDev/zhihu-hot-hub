@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-15 21:02:55 +0800`
+`更新时间：2026-07-15 23:15:00 +0800`
 
 ## 热门搜索
 
@@ -37,7 +37,6 @@
 1. [长鑫科技最高估值超4万亿](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%9C%80%E9%AB%98%E4%BC%B0%E5%80%BC%E8%B6%854%E4%B8%87%E4%BA%BF)
 1. [福建已成立晋江鞋厂火灾事故调查组](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E5%B7%B2%E6%88%90%E7%AB%8B%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84)
 1. [雀骨](https://www.zhihu.com/search?q=%E9%9B%80%E9%AA%A8)
-1. [功夫女足票房突破1亿](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B41%E4%BA%BF)
 1. [阿根廷vs瑞士](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E7%91%9E%E5%A3%AB)
 1. [《功夫女足》热映](https://www.zhihu.com/search?q=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [内蒙古 16 岁高中生因拍门玩闹被捅杀](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%2016%20%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9B%A0%E6%8B%8D%E9%97%A8%E7%8E%A9%E9%97%B9%E8%A2%AB%E6%8D%85%E6%9D%80)
