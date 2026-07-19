@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-19 12:57:19 +0800`
+`更新时间：2026-07-19 15:22:41 +0800`
 
 ## 热门搜索
 
-1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E5%BE%88%E5%86%B7%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
+1. [名创优品致歉](https://www.zhihu.com/search?q=%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E8%87%B4%E6%AD%89)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [王者荣耀](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80)
 1. [上证指数](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0)
@@ -24,7 +24,7 @@
 1. [BLG战胜T1](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CT1)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%AD%BC50%E6%88%98%E6%96%97%E6%9C%BA)
-1. [孕妇捂死3岁女童最高或仅判无期](https://www.zhihu.com/search?q=%E5%AD%95%E5%A6%87%E6%8D%82%E6%AD%BB3%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%9C%80%E9%AB%98%E6%88%96%E4%BB%85%E5%88%A4%E6%97%A0%E6%9C%9F)
+1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E5%BE%88%E5%86%B7%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
 1. [为什么狗对小孩子容忍度高](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8B%97%E5%AF%B9%E5%B0%8F%E5%AD%A9%E5%AD%90%E5%AE%B9%E5%BF%8D%E5%BA%A6%E9%AB%98)
 1. [如何低成本照顾自己的心理健康](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%BD%8E%E6%88%90%E6%9C%AC%E7%85%A7%E9%A1%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
 1. [目前你总结出最大的旅行经验](https://www.zhihu.com/search?q=%E7%9B%AE%E5%89%8D%E4%BD%A0%E6%80%BB%E7%BB%93%E5%87%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%85%E8%A1%8C%E7%BB%8F%E9%AA%8C)
