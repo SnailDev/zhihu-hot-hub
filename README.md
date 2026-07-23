@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-23 07:51:33 +0800`
+`更新时间：2026-07-23 09:24:42 +0800`
 
 ## 热门搜索
 
-1. [网传刘宇宁粉丝群等级分明](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%88%98%E5%AE%87%E5%AE%81%E7%B2%89%E4%B8%9D%E7%BE%A4%E7%AD%89%E7%BA%A7%E5%88%86%E6%98%8E)
-1. [14 岁少年偷偷纹满双腿](https://www.zhihu.com/search?q=14%20%E5%B2%81%E5%B0%91%E5%B9%B4%E5%81%B7%E5%81%B7%E7%BA%B9%E6%BB%A1%E5%8F%8C%E8%85%BF)
+1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
 1. [韦世豪破门](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%A0%B4%E9%97%A8)
 1. [上海申花vs青岛海牛](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1vs%E9%9D%92%E5%B2%9B%E6%B5%B7%E7%89%9B)
 1. [电影功夫女足](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
@@ -34,7 +33,6 @@
 1. [百花杀](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E6%9D%80)
 1. [Kimi-K3 灰度测试](https://www.zhihu.com/search?q=Kimi-K3%20%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95)
 1. [KIMI K3模型正式上线](https://www.zhihu.com/search?q=KIMI%20K3%E6%A8%A1%E5%9E%8B%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
-1. [DeepSeek V4 正式版即将发布](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83)
 1. [西班牙vs阿根廷](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7)
 1. [2026年菲尔兹奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [莫言之女管笑笑被爆论文涉嫌抄袭](https://www.zhihu.com/search?q=%E8%8E%AB%E8%A8%80%E4%B9%8B%E5%A5%B3%E7%AE%A1%E7%AC%91%E7%AC%91%E8%A2%AB%E7%88%86%E8%AE%BA%E6%96%87%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD)
@@ -43,6 +41,7 @@
 1. [旭旭宝宝不看周星驰新片被网暴](https://www.zhihu.com/search?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E4%B8%8D%E7%9C%8B%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%89%87%E8%A2%AB%E7%BD%91%E6%9A%B4)
 1. [西班牙 vs 阿根廷](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%20vs%20%E9%98%BF%E6%A0%B9%E5%BB%B7)
 1. [苏州杭州上海迎特大暴雨](https://www.zhihu.com/search?q=%E8%8B%8F%E5%B7%9E%E6%9D%AD%E5%B7%9E%E4%B8%8A%E6%B5%B7%E8%BF%8E%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8)
+1. [Kimi K3 力压 ClaudeFable5 登顶](https://www.zhihu.com/search?q=Kimi%20K3%20%E5%8A%9B%E5%8E%8B%20ClaudeFable5%20%E7%99%BB%E9%A1%B6)
 
 ## 热门话题
 
