@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-24 06:43:40 +0800`
+`更新时间：2026-07-24 07:45:37 +0800`
 
 ## 热门搜索
 
@@ -35,6 +35,7 @@
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [背调公司称能查离婚诉讼](https://www.zhihu.com/search?q=%E8%83%8C%E8%B0%83%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%83%BD%E6%9F%A5%E7%A6%BB%E5%A9%9A%E8%AF%89%E8%AE%BC)
 1. [演员谢贤去世](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E8%B0%A2%E8%B4%A4%E5%8E%BB%E4%B8%96)
+1. [谢贤遗产公布](https://www.zhihu.com/search?q=%E8%B0%A2%E8%B4%A4%E9%81%97%E4%BA%A7%E5%85%AC%E5%B8%83)
 
 ## 热门话题
 
