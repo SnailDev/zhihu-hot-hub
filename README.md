@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-25 12:52:35 +0800`
+`更新时间：2026-07-25 15:07:07 +0800`
 
 ## 热门搜索
 
-1. [挪威足协将正式抗议巴洛贡事件](https://www.zhihu.com/search?q=%E6%8C%AA%E5%A8%81%E8%B6%B3%E5%8D%8F%E5%B0%86%E6%AD%A3%E5%BC%8F%E6%8A%97%E8%AE%AE%E5%B7%B4%E6%B4%9B%E8%B4%A1%E4%BA%8B%E4%BB%B6)
+1. [如何防止手机被大数据监听](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E9%98%B2%E6%AD%A2%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9B%91%E5%90%AC)
+1. [邓煜获菲尔兹奖](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [AL战胜JDG](https://www.zhihu.com/search?q=AL%E6%88%98%E8%83%9CJDG)
 1. [美股](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1)
 1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E5%BE%88%E5%86%B7%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
@@ -35,13 +36,13 @@
 1. [你是怎么说服自己去健身的](https://www.zhihu.com/search?q=%E4%BD%A0%E6%98%AF%E6%80%8E%E4%B9%88%E8%AF%B4%E6%9C%8D%E8%87%AA%E5%B7%B1%E5%8E%BB%E5%81%A5%E8%BA%AB%E7%9A%84)
 1. [为什么空心人越来越多](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A9%BA%E5%BF%83%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
-1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
+1. [为什么说中餐正在悄悄退化](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E4%B8%AD%E9%A4%90%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E9%80%80%E5%8C%96)
 1. [国足什么成绩大家才会满意](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E4%BB%80%E4%B9%88%E6%88%90%E7%BB%A9%E5%A4%A7%E5%AE%B6%E6%89%8D%E4%BC%9A%E6%BB%A1%E6%84%8F)
 1. [如何评价7月新番尼古喵喵](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B77%E6%9C%88%E6%96%B0%E7%95%AA%E5%B0%BC%E5%8F%A4%E5%96%B5%E5%96%B5)
 1. [如何看待周星驰新电影功夫女足](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
 1. [百花杀](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E6%9D%80)
-1. [KIMI K3模型正式上线](https://www.zhihu.com/search?q=KIMI%20K3%E6%A8%A1%E5%9E%8B%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
 1. [如何评价三国第一部争洛阳](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%B8%89%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%83%A8%E4%BA%89%E6%B4%9B%E9%98%B3)
+1. [2026年菲尔兹奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 
 ## 热门话题
 
