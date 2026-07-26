@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-26 09:24:35 +0800`
+`更新时间：2026-07-26 13:17:25 +0800`
 
 ## 热门搜索
 
-1. [印度博主穷游中国](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%8D%9A%E4%B8%BB%E7%A9%B7%E6%B8%B8%E4%B8%AD%E5%9B%BD)
-1. [丘成桐希望王虹邓煜回国任教](https://www.zhihu.com/search?q=%E4%B8%98%E6%88%90%E6%A1%90%E5%B8%8C%E6%9C%9B%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%E5%9B%9E%E5%9B%BD%E4%BB%BB%E6%95%99)
+1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [AL战胜JDG](https://www.zhihu.com/search?q=AL%E6%88%98%E8%83%9CJDG)
 1. [美股](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1)
 1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E5%BE%88%E5%86%B7%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
@@ -44,6 +43,7 @@
 1. [2026年菲尔兹奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [这一秒过火](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB)
+1. [菲方围顶冲撞中方巡逻艇](https://www.zhihu.com/search?q=%E8%8F%B2%E6%96%B9%E5%9B%B4%E9%A1%B6%E5%86%B2%E6%92%9E%E4%B8%AD%E6%96%B9%E5%B7%A1%E9%80%BB%E8%89%87)
 
 ## 热门话题
 
