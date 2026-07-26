@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-26 07:48:03 +0800`
+`更新时间：2026-07-26 09:24:35 +0800`
 
 ## 热门搜索
 
-1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
+1. [印度博主穷游中国](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%8D%9A%E4%B8%BB%E7%A9%B7%E6%B8%B8%E4%B8%AD%E5%9B%BD)
+1. [丘成桐希望王虹邓煜回国任教](https://www.zhihu.com/search?q=%E4%B8%98%E6%88%90%E6%A1%90%E5%B8%8C%E6%9C%9B%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%E5%9B%9E%E5%9B%BD%E4%BB%BB%E6%95%99)
 1. [AL战胜JDG](https://www.zhihu.com/search?q=AL%E6%88%98%E8%83%9CJDG)
 1. [美股](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1)
 1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E5%BE%88%E5%86%B7%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
