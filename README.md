@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-30 09:11:42 +0800`
+`更新时间：2026-07-30 12:43:31 +0800`
 
 ## 热门搜索
 
@@ -37,12 +37,12 @@
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [这一秒过火](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB)
 1. [你有哪些祛魅的经历](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A5%9B%E9%AD%85%E7%9A%84%E7%BB%8F%E5%8E%86)
+1. [献血拿战锤40k模型](https://www.zhihu.com/search?q=%E7%8C%AE%E8%A1%80%E6%8B%BF%E6%88%98%E9%94%A440k%E6%A8%A1%E5%9E%8B)
 1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%206%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E5%90%8E%E6%AD%BB%E4%BA%A1)
 1. [你开车的极限是多长时间](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BC%80%E8%BD%A6%E7%9A%84%E6%9E%81%E9%99%90%E6%98%AF%E5%A4%9A%E9%95%BF%E6%97%B6%E9%97%B4)
 1. [菲尔兹奖](https://www.zhihu.com/search?q=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [王虹](https://www.zhihu.com/search?q=%E7%8E%8B%E8%99%B9)
 1. [唐山大地震 50 周年](https://www.zhihu.com/search?q=%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87%2050%20%E5%91%A8%E5%B9%B4)
-1. [张雅琪菜单被吐槽](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E8%8F%9C%E5%8D%95%E8%A2%AB%E5%90%90%E6%A7%BD)
 
 ## 热门话题
 
