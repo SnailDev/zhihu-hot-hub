@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-07-31 07:50:37 +0800`
+`更新时间：2026-07-31 09:25:08 +0800`
 
 ## 热门搜索
 
@@ -36,6 +36,7 @@
 1. [KT战胜T1](https://www.zhihu.com/search?q=KT%E6%88%98%E8%83%9CT1)
 1. [你的中年无力感来自什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%B8%AD%E5%B9%B4%E6%97%A0%E5%8A%9B%E6%84%9F%E6%9D%A5%E8%87%AA%E4%BB%80%E4%B9%88)
 1. [国足什么成绩大家才会满意](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E4%BB%80%E4%B9%88%E6%88%90%E7%BB%A9%E5%A4%A7%E5%AE%B6%E6%89%8D%E4%BC%9A%E6%BB%A1%E6%84%8F)
+1. [LOL官宣将推出怀旧模式](https://www.zhihu.com/search?q=LOL%E5%AE%98%E5%AE%A3%E5%B0%86%E6%8E%A8%E5%87%BA%E6%80%80%E6%97%A7%E6%A8%A1%E5%BC%8F)
 1. [如何准确分析一家上市公司年报](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%87%86%E7%A1%AE%E5%88%86%E6%9E%90%E4%B8%80%E5%AE%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%B9%B4%E6%8A%A5)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [这一秒过火](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB)
