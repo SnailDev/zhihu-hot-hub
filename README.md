@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-08-01 13:13:51 +0800`
+`更新时间：2026-08-01 15:57:35 +0800`
 
 ## 热门搜索
 
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
-1. [油价](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7)
+1. [文根英结婚](https://www.zhihu.com/search?q=%E6%96%87%E6%A0%B9%E8%8B%B1%E7%BB%93%E5%A9%9A)
+1. [头部商超集体下沉县城](https://www.zhihu.com/search?q=%E5%A4%B4%E9%83%A8%E5%95%86%E8%B6%85%E9%9B%86%E4%BD%93%E4%B8%8B%E6%B2%89%E5%8E%BF%E5%9F%8E)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [歌手歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95)
 1. [百花奖](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E5%A5%96)
@@ -40,9 +40,9 @@
 1. [这一秒过火](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB)
 1. [你有哪些祛魅的经历](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A5%9B%E9%AD%85%E7%9A%84%E7%BB%8F%E5%8E%86)
 1. [台风白海豚要来了](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%A6%81%E6%9D%A5%E4%BA%86)
-1. [美股芯片股全线大跌](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E5%A4%A7%E8%B7%8C)
-1. [韩国股市熔断](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E7%86%94%E6%96%AD)
 1. [王虹 推荐信](https://www.zhihu.com/search?q=%E7%8E%8B%E8%99%B9%20%E6%8E%A8%E8%8D%90%E4%BF%A1)
+1. [患癌妻子申请销毁婚外胚胎遭拒](https://www.zhihu.com/search?q=%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E7%94%B3%E8%AF%B7%E9%94%80%E6%AF%81%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E9%81%AD%E6%8B%92)
+1. [长鑫科技市值超过英特尔](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E8%B6%85%E8%BF%87%E8%8B%B1%E7%89%B9%E5%B0%94)
 
 ## 热门话题
 
