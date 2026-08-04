@@ -11,18 +11,17 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-08-04 07:56:57 +0800`
+`更新时间：2026-08-04 09:27:17 +0800`
 
 ## 热门搜索
 
-1. [集中供冷](https://www.zhihu.com/search?q=%E9%9B%86%E4%B8%AD%E4%BE%9B%E5%86%B7)
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [恋与深空](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA)
 1. [中超联赛](https://www.zhihu.com/search?q=%E4%B8%AD%E8%B6%85%E8%81%94%E8%B5%9B)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [TES战胜JDG](https://www.zhihu.com/search?q=TES%E6%88%98%E8%83%9CJDG)
 1. [宜宾地震](https://www.zhihu.com/search?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87)
 1. [利物浦vs利兹联](https://www.zhihu.com/search?q=%E5%88%A9%E7%89%A9%E6%B5%A6vs%E5%88%A9%E5%85%B9%E8%81%94)
-1. [恋与深空](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA)
+1. [曝wbg和edg打野互换](https://www.zhihu.com/search?q=%E6%9B%9Dwbg%E5%92%8Cedg%E6%89%93%E9%87%8E%E4%BA%92%E6%8D%A2)
 1. [灿如繁星](https://www.zhihu.com/search?q=%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F)
 1. [ewc](https://www.zhihu.com/search?q=ewc)
 1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026%20%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%8D%B3%E5%B0%86%E5%85%AC%E5%B8%83)
