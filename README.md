@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-08-08 13:33:21 +0800`
+`更新时间：2026-08-08 14:29:17 +0800`
 
 ## 热门搜索
 
@@ -22,11 +22,11 @@
 1. [歌手总决赛](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B)
 1. [EWC](https://www.zhihu.com/search?q=EWC)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
+1. [安徽卫视播放AI剧](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E6%92%AD%E6%94%BEAI%E5%89%A7)
 1. [spacex市值暴跌](https://www.zhihu.com/search?q=spacex%E5%B8%82%E5%80%BC%E6%9A%B4%E8%B7%8C)
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9F%A9%E6%9D%B0%E5%9B%A0%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91)
 1. [你的公积金将有新变化](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%85%AC%E7%A7%AF%E9%87%91%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96)
 1. [市监局通报牛蛙抗生素超标](https://www.zhihu.com/search?q=%E5%B8%82%E7%9B%91%E5%B1%80%E9%80%9A%E6%8A%A5%E7%89%9B%E8%9B%99%E6%8A%97%E7%94%9F%E7%B4%A0%E8%B6%85%E6%A0%87)
-1. [大厂集体押注 AI 办公](https://www.zhihu.com/search?q=%E5%A4%A7%E5%8E%82%E9%9B%86%E4%BD%93%E6%8A%BC%E6%B3%A8%20AI%20%E5%8A%9E%E5%85%AC)
 1. [让AI替自己向同事求助](https://www.zhihu.com/search?q=%E8%AE%A9AI%E6%9B%BF%E8%87%AA%E5%B7%B1%E5%90%91%E5%90%8C%E4%BA%8B%E6%B1%82%E5%8A%A9)
 1. [日本谋求对敌基地攻击能力](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E8%B0%8B%E6%B1%82%E5%AF%B9%E6%95%8C%E5%9F%BA%E5%9C%B0%E6%94%BB%E5%87%BB%E8%83%BD%E5%8A%9B)
 1. [2026 暑期档国产片频繁调档](https://www.zhihu.com/search?q=2026%20%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%9B%BD%E4%BA%A7%E7%89%87%E9%A2%91%E7%B9%81%E8%B0%83%E6%A1%A3)
