@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-08-12 15:02:39 +0800`
+`更新时间：2026-08-12 16:57:12 +0800`
 
 ## 热门搜索
 
-1. [国乒怎么了](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E6%80%8E%E4%B9%88%E4%BA%86)
+1. [BLG首发上单Flandre](https://www.zhihu.com/search?q=BLG%E9%A6%96%E5%8F%91%E4%B8%8A%E5%8D%95Flandre)
+1. [河南浙江等地暴雨](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E6%B5%99%E6%B1%9F%E7%AD%89%E5%9C%B0%E6%9A%B4%E9%9B%A8)
 1. [《蜘蛛侠：崭新之日》票房](https://www.zhihu.com/search?q=%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BE%A0%EF%BC%9A%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5%E3%80%8B%E7%A5%A8%E6%88%BF)
 1. [台风白海豚](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A)
 1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E8%81%98%E4%BB%BB)
@@ -33,12 +34,13 @@
 1. [白海豚10级风圈](https://www.zhihu.com/search?q=%E7%99%BD%E6%B5%B7%E8%B1%9A10%E7%BA%A7%E9%A3%8E%E5%9C%88)
 1. [网红雅典娜证实被害](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E9%9B%85%E5%85%B8%E5%A8%9C%E8%AF%81%E5%AE%9E%E8%A2%AB%E5%AE%B3)
 1. [白海豚提前登陆](https://www.zhihu.com/search?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%8F%90%E5%89%8D%E7%99%BB%E9%99%86)
+1. [麦积山景区看所有石窟需2000元](https://www.zhihu.com/search?q=%E9%BA%A6%E7%A7%AF%E5%B1%B1%E6%99%AF%E5%8C%BA%E7%9C%8B%E6%89%80%E6%9C%89%E7%9F%B3%E7%AA%9F%E9%9C%802000%E5%85%83)
 1. [台风白海豚在浙江玉环沿海登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%9C%A8%E6%B5%99%E6%B1%9F%E7%8E%89%E7%8E%AF%E6%B2%BF%E6%B5%B7%E7%99%BB%E9%99%86)
 1. [张本美和横滨赛冠军](https://www.zhihu.com/search?q=%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E6%A8%AA%E6%BB%A8%E8%B5%9B%E5%86%A0%E5%86%9B)
 1. [沈腾 影帝](https://www.zhihu.com/search?q=%E6%B2%88%E8%85%BE%20%E5%BD%B1%E5%B8%9D)
 1. [《欢迎来龙餐馆》奥斯卡](https://www.zhihu.com/search?q=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E5%A5%A5%E6%96%AF%E5%8D%A1)
 1. [医疗垃圾制手机壳](https://www.zhihu.com/search?q=%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE%E5%88%B6%E6%89%8B%E6%9C%BA%E5%A3%B3)
-1. [苹果被曝正测试长鑫存储芯片](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E6%AD%A3%E6%B5%8B%E8%AF%95%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87)
+1. [磕头真的能缓解焦虑吗](https://www.zhihu.com/search?q=%E7%A3%95%E5%A4%B4%E7%9C%9F%E7%9A%84%E8%83%BD%E7%BC%93%E8%A7%A3%E7%84%A6%E8%99%91%E5%90%97)
 
 ## 热门话题
 
