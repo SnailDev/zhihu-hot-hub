@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-08-17 17:27:17 +0800`
+`更新时间：2026-08-17 18:19:08 +0800`
 
 ## 热门搜索
 
@@ -23,6 +23,7 @@
 1. [《牛来》电影建模粗糙票房仅为七千元](https://www.zhihu.com/search?q=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%94%B5%E5%BD%B1%E5%BB%BA%E6%A8%A1%E7%B2%97%E7%B3%99%E7%A5%A8%E6%88%BF%E4%BB%85%E4%B8%BA%E4%B8%83%E5%8D%83%E5%85%83)
 1. [《牛来》 观众想哭](https://www.zhihu.com/search?q=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%20%E8%A7%82%E4%BC%97%E6%83%B3%E5%93%AD)
 1. [五粮液不得低于 800 元抛售](https://www.zhihu.com/search?q=%E4%BA%94%E7%B2%AE%E6%B6%B2%E4%B8%8D%E5%BE%97%E4%BD%8E%E4%BA%8E%20800%20%E5%85%83%E6%8A%9B%E5%94%AE)
+1. [比亚迪销量骤降吉利争销冠](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%94%80%E9%87%8F%E9%AA%A4%E9%99%8D%E5%90%89%E5%88%A9%E4%BA%89%E9%94%80%E5%86%A0)
 1. [周星驰经纪人质疑《龙餐馆》偷票房](https://www.zhihu.com/search?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A8%E7%96%91%E3%80%8A%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E5%81%B7%E7%A5%A8%E6%88%BF)
 1. [《欢迎来龙餐馆》否认偷票房](https://www.zhihu.com/search?q=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E5%90%A6%E8%AE%A4%E5%81%B7%E7%A5%A8%E6%88%BF)
 1. [《牛来》总票房已怒破 10 万](https://www.zhihu.com/search?q=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E5%B7%B2%E6%80%92%E7%A0%B4%2010%20%E4%B8%87)
