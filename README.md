@@ -11,11 +11,37 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-08-18 17:19:34 +0800`
+`更新时间：2026-08-18 18:15:21 +0800`
 
 ## 热门搜索
 
-暂无数据
+1. [广西一施工点山体滑坡致1人遇难](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E4%B8%80%E6%96%BD%E5%B7%A5%E7%82%B9%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%E8%87%B41%E4%BA%BA%E9%81%87%E9%9A%BE)
+1. [《欢迎来龙餐馆》热映](https://www.zhihu.com/search?q=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%83%AD%E6%98%A0)
+1. [欢迎来龙餐馆 细节](https://www.zhihu.com/search?q=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%20%E7%BB%86%E8%8A%82)
+1. [《牛来》电影建模粗糙票房仅为七千元](https://www.zhihu.com/search?q=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%94%B5%E5%BD%B1%E5%BB%BA%E6%A8%A1%E7%B2%97%E7%B3%99%E7%A5%A8%E6%88%BF%E4%BB%85%E4%B8%BA%E4%B8%83%E5%8D%83%E5%85%83)
+1. [《牛来》 观众想哭](https://www.zhihu.com/search?q=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%20%E8%A7%82%E4%BC%97%E6%83%B3%E5%93%AD)
+1. [小米Q2财报发布](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3Q2%E8%B4%A2%E6%8A%A5%E5%8F%91%E5%B8%83)
+1. [抖音推出「馋猫外卖」虚拟点餐](https://www.zhihu.com/search?q=%E6%8A%96%E9%9F%B3%E6%8E%A8%E5%87%BA%E3%80%8C%E9%A6%8B%E7%8C%AB%E5%A4%96%E5%8D%96%E3%80%8D%E8%99%9A%E6%8B%9F%E7%82%B9%E9%A4%90)
+1. [汽车实体按键正逐步回归](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E5%AE%9E%E4%BD%93%E6%8C%89%E9%94%AE%E6%AD%A3%E9%80%90%E6%AD%A5%E5%9B%9E%E5%BD%92)
+1. [公积金新政来了](https://www.zhihu.com/search?q=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E6%94%BF%E6%9D%A5%E4%BA%86)
+1. [官方修改《住房公积金管理条例》](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E4%BF%AE%E6%94%B9%E3%80%8A%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B%E3%80%8B)
+1. [比亚迪销量骤降吉利争销冠](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%94%80%E9%87%8F%E9%AA%A4%E9%99%8D%E5%90%89%E5%88%A9%E4%BA%89%E9%94%80%E5%86%A0)
+1. [DOTA2TI15 2026年回归上海](https://www.zhihu.com/search?q=DOTA2TI15%202026%E5%B9%B4%E5%9B%9E%E5%BD%92%E4%B8%8A%E6%B5%B7)
+1. [蜜雪冰城盘账数杯子不数钱](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%9B%98%E8%B4%A6%E6%95%B0%E6%9D%AF%E5%AD%90%E4%B8%8D%E6%95%B0%E9%92%B1)
+1. [九部门联手力挺县域消费](https://www.zhihu.com/search?q=%E4%B9%9D%E9%83%A8%E9%97%A8%E8%81%94%E6%89%8B%E5%8A%9B%E6%8C%BA%E5%8E%BF%E5%9F%9F%E6%B6%88%E8%B4%B9)
+1. [河南小区凭高考成绩减免物业费](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E5%B0%8F%E5%8C%BA%E5%87%AD%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%87%8F%E5%85%8D%E7%89%A9%E4%B8%9A%E8%B4%B9)
+1. [周星驰经纪人质疑《龙餐馆》偷票房](https://www.zhihu.com/search?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A8%E7%96%91%E3%80%8A%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E5%81%B7%E7%A5%A8%E6%88%BF)
+1. [《欢迎来龙餐馆》否认偷票房](https://www.zhihu.com/search?q=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E5%90%A6%E8%AE%A4%E5%81%B7%E7%A5%A8%E6%88%BF)
+1. [胖东来招军人和刑释人员](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E5%86%9B%E4%BA%BA%E5%92%8C%E5%88%91%E9%87%8A%E4%BA%BA%E5%91%98)
+1. [医院因猪猪侠表情包走红](https://www.zhihu.com/search?q=%E5%8C%BB%E9%99%A2%E5%9B%A0%E7%8C%AA%E7%8C%AA%E4%BE%A0%E8%A1%A8%E6%83%85%E5%8C%85%E8%B5%B0%E7%BA%A2)
+1. [Qwen-3.8 27B 开源权重发布](https://www.zhihu.com/search?q=Qwen-3.8%2027B%20%E5%BC%80%E6%BA%90%E6%9D%83%E9%87%8D%E5%8F%91%E5%B8%83)
+1. [Anthropic营收同比暴涨14倍](https://www.zhihu.com/search?q=Anthropic%E8%90%A5%E6%94%B6%E5%90%8C%E6%AF%94%E6%9A%B4%E6%B6%A814%E5%80%8D)
+1. [童年动画集体致信00后](https://www.zhihu.com/search?q=%E7%AB%A5%E5%B9%B4%E5%8A%A8%E7%94%BB%E9%9B%86%E4%BD%93%E8%87%B4%E4%BF%A100%E5%90%8E)
+1. [电影《牛来》反向出圈](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E5%8F%8D%E5%90%91%E5%87%BA%E5%9C%88)
+1. [微信朋友圈不会有二次编辑功能](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%8D%E4%BC%9A%E6%9C%89%E4%BA%8C%E6%AC%A1%E7%BC%96%E8%BE%91%E5%8A%9F%E8%83%BD)
+1. [DeepSeek Harness 发布](https://www.zhihu.com/search?q=DeepSeek%20Harness%20%E5%8F%91%E5%B8%83)
+1. [XG 0:2 不敌 TR 淘汰回家](https://www.zhihu.com/search?q=XG%200%3A2%20%E4%B8%8D%E6%95%8C%20TR%20%E6%B7%98%E6%B1%B0%E5%9B%9E%E5%AE%B6)
+1. [《披荆斩棘 2026》第一期](https://www.zhihu.com/search?q=%E3%80%8A%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%202026%E3%80%8B%E7%AC%AC%E4%B8%80%E6%9C%9F)
 
 ## 热门话题
 
