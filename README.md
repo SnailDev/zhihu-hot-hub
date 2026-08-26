@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-08-26 11:42:08 +0800`
+`更新时间：2026-08-26 12:27:41 +0800`
 
 ## 热门搜索
 
@@ -27,8 +27,6 @@
 1. [2026世界人形机器人运动会](https://www.zhihu.com/search?q=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A)
 1. [《黑神话：钟馗》发布实机演示视频](https://www.zhihu.com/search?q=%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E3%80%8B%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91)
 1. [《黑神话：钟馗》钟馗亮相](https://www.zhihu.com/search?q=%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E3%80%8B%E9%92%9F%E9%A6%97%E4%BA%AE%E7%9B%B8)
-1. [恒大集团被罚88.2亿元](https://www.zhihu.com/search?q=%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E8%A2%AB%E7%BD%9A88.2%E4%BA%BF%E5%85%83)
-1. [恒大两公司合计被罚158亿](https://www.zhihu.com/search?q=%E6%81%92%E5%A4%A7%E4%B8%A4%E5%85%AC%E5%8F%B8%E5%90%88%E8%AE%A1%E8%A2%AB%E7%BD%9A158%E4%BA%BF)
 1. [宇树科技上市王兴兴不高兴](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E7%8E%8B%E5%85%B4%E5%85%B4%E4%B8%8D%E9%AB%98%E5%85%B4)
 1. [机器人要去央企面试上岗了](https://www.zhihu.com/search?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A6%81%E5%8E%BB%E5%A4%AE%E4%BC%81%E9%9D%A2%E8%AF%95%E4%B8%8A%E5%B2%97%E4%BA%86)
 1. [医院能办结婚证了](https://www.zhihu.com/search?q=%E5%8C%BB%E9%99%A2%E8%83%BD%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86)
@@ -38,6 +36,11 @@
 1. [宇树科技回撤近 40%](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%9B%9E%E6%92%A4%E8%BF%91%2040%25)
 1. [一斤鸭脖能买一斤牛肉一斤排骨](https://www.zhihu.com/search?q=%E4%B8%80%E6%96%A4%E9%B8%AD%E8%84%96%E8%83%BD%E4%B9%B0%E4%B8%80%E6%96%A4%E7%89%9B%E8%82%89%E4%B8%80%E6%96%A4%E6%8E%92%E9%AA%A8)
 1. [河北一地被曝甲醛泡白菜](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%9C%B0%E8%A2%AB%E6%9B%9D%E7%94%B2%E9%86%9B%E6%B3%A1%E7%99%BD%E8%8F%9C)
+1. [白血病不再是不治之症](https://www.zhihu.com/search?q=%E7%99%BD%E8%A1%80%E7%97%85%E4%B8%8D%E5%86%8D%E6%98%AF%E4%B8%8D%E6%B2%BB%E4%B9%8B%E7%97%87)
+1. [工人徒手用甲醛泡白菜](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BA%BA%E5%BE%92%E6%89%8B%E7%94%A8%E7%94%B2%E9%86%9B%E6%B3%A1%E7%99%BD%E8%8F%9C)
+1. [甲醛白菜被运往江苏安徽多地](https://www.zhihu.com/search?q=%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E8%A2%AB%E8%BF%90%E5%BE%80%E6%B1%9F%E8%8B%8F%E5%AE%89%E5%BE%BD%E5%A4%9A%E5%9C%B0)
+1. [疑景区工作人员踩死松鼠](https://www.zhihu.com/search?q=%E7%96%91%E6%99%AF%E5%8C%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%B8%A9%E6%AD%BB%E6%9D%BE%E9%BC%A0)
+1. [宇树机器人 100 米预赛小组垫底](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%20100%20%E7%B1%B3%E9%A2%84%E8%B5%9B%E5%B0%8F%E7%BB%84%E5%9E%AB%E5%BA%95)
 
 ## 热门话题
 
