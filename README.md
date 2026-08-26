@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-08-26 15:35:06 +0800`
+`更新时间：2026-08-26 16:27:02 +0800`
 
 ## 热门搜索
 
-1. [金鹰奖](https://www.zhihu.com/search?q=%E9%87%91%E9%B9%B0%E5%A5%96)
+1. [日本学校午餐](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%AD%A6%E6%A0%A1%E5%8D%88%E9%A4%90)
 1. [曼城vs伯恩茅斯](https://www.zhihu.com/search?q=%E6%9B%BC%E5%9F%8Evs%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF)
 1. [花开锦绣](https://www.zhihu.com/search?q=%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A3)
 1. [电影《牛来》反向出圈](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E5%8F%8D%E5%90%91%E5%87%BA%E5%9C%88)
