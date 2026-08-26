@@ -11,14 +11,14 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-08-26 16:27:02 +0800`
+`更新时间：2026-08-26 17:27:57 +0800`
 
 ## 热门搜索
 
-1. [日本学校午餐](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%AD%A6%E6%A0%A1%E5%8D%88%E9%A4%90)
+1. [郭二娃死刑](https://www.zhihu.com/search?q=%E9%83%AD%E4%BA%8C%E5%A8%83%E6%AD%BB%E5%88%91)
+1. [哈兰德回应剪寸头](https://www.zhihu.com/search?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%9B%9E%E5%BA%94%E5%89%AA%E5%AF%B8%E5%A4%B4)
 1. [曼城vs伯恩茅斯](https://www.zhihu.com/search?q=%E6%9B%BC%E5%9F%8Evs%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF)
 1. [花开锦绣](https://www.zhihu.com/search?q=%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A3)
-1. [电影《牛来》反向出圈](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E5%8F%8D%E5%90%91%E5%87%BA%E5%9C%88)
 1. [新规禁厨余垃圾直接喂猪](https://www.zhihu.com/search?q=%E6%96%B0%E8%A7%84%E7%A6%81%E5%8E%A8%E4%BD%99%E5%9E%83%E5%9C%BE%E7%9B%B4%E6%8E%A5%E5%96%82%E7%8C%AA)
 1. [仲树疑似洗稿](https://www.zhihu.com/search?q=%E4%BB%B2%E6%A0%91%E7%96%91%E4%BC%BC%E6%B4%97%E7%A8%BF)
 1. [嫦娥七号近日择机发射](https://www.zhihu.com/search?q=%E5%AB%A6%E5%A8%A5%E4%B8%83%E5%8F%B7%E8%BF%91%E6%97%A5%E6%8B%A9%E6%9C%BA%E5%8F%91%E5%B0%84)
@@ -40,6 +40,7 @@
 1. [疑景区工作人员踩死松鼠](https://www.zhihu.com/search?q=%E7%96%91%E6%99%AF%E5%8C%BA%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%B8%A9%E6%AD%BB%E6%9D%BE%E9%BC%A0)
 1. [宇树机器人 100 米预赛小组垫底](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%20100%20%E7%B1%B3%E9%A2%84%E8%B5%9B%E5%B0%8F%E7%BB%84%E5%9E%AB%E5%BA%95)
 1. [最近是全体教师最脆弱的时候](https://www.zhihu.com/search?q=%E6%9C%80%E8%BF%91%E6%98%AF%E5%85%A8%E4%BD%93%E6%95%99%E5%B8%88%E6%9C%80%E8%84%86%E5%BC%B1%E7%9A%84%E6%97%B6%E5%80%99)
+1. [老人进店休息离世店家帮扶遭索赔](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%BF%9B%E5%BA%97%E4%BC%91%E6%81%AF%E7%A6%BB%E4%B8%96%E5%BA%97%E5%AE%B6%E5%B8%AE%E6%89%B6%E9%81%AD%E7%B4%A2%E8%B5%94)
 
 ## 热门话题
 
