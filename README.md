@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-08-30 19:17:35 +0800`
+`更新时间：2026-08-30 23:34:44 +0800`
 
 ## 热门搜索
 
@@ -24,7 +24,6 @@
 1. [中国男篮加油](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%8A%A0%E6%B2%B9)
 1. [前华为天才少年李博杰吐槽 DeepSeek 面试](https://www.zhihu.com/search?q=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E6%9D%8E%E5%8D%9A%E6%9D%B0%E5%90%90%E6%A7%BD%20DeepSeek%20%E9%9D%A2%E8%AF%95)
 1. [台风沙德尔](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94)
-1. [甲醛白菜被运往江苏安徽多地](https://www.zhihu.com/search?q=%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E8%A2%AB%E8%BF%90%E5%BE%80%E6%B1%9F%E8%8B%8F%E5%AE%89%E5%BE%BD%E5%A4%9A%E5%9C%B0)
 1. [出发吧！看山](https://www.zhihu.com/search?q=%E5%87%BA%E5%8F%91%E5%90%A7%EF%BC%81%E7%9C%8B%E5%B1%B1)
 1. [deepseek再度调价](https://www.zhihu.com/search?q=deepseek%E5%86%8D%E5%BA%A6%E8%B0%83%E4%BB%B7)
 1. [多款app被通报](https://www.zhihu.com/search?q=%E5%A4%9A%E6%AC%BEapp%E8%A2%AB%E9%80%9A%E6%8A%A5)
@@ -40,6 +39,8 @@
 1. [欢子起诉湖南卫视](https://www.zhihu.com/search?q=%E6%AC%A2%E5%AD%90%E8%B5%B7%E8%AF%89%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86)
 1. [2026 科隆游戏展](https://www.zhihu.com/search?q=2026%20%E7%A7%91%E9%9A%86%E6%B8%B8%E6%88%8F%E5%B1%95)
 1. [刘翔向网友求助职场选择](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E5%90%91%E7%BD%91%E5%8F%8B%E6%B1%82%E5%8A%A9%E8%81%8C%E5%9C%BA%E9%80%89%E6%8B%A9)
+1. [恩佐表态愿意加盟曼城](https://www.zhihu.com/search?q=%E6%81%A9%E4%BD%90%E8%A1%A8%E6%80%81%E6%84%BF%E6%84%8F%E5%8A%A0%E7%9B%9F%E6%9B%BC%E5%9F%8E)
+1. [欢子工作室质问披哥](https://www.zhihu.com/search?q=%E6%AC%A2%E5%AD%90%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%B4%A8%E9%97%AE%E6%8A%AB%E5%93%A5)
 
 ## 热门话题
 
