@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-08-31 07:59:10 +0800`
+`更新时间：2026-08-31 11:20:04 +0800`
 
 ## 热门搜索
 
-1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
-1. [欧冠联赛](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E8%81%94%E8%B5%9B)
+1. [一汽与零跑深化战略合作](https://www.zhihu.com/search?q=%E4%B8%80%E6%B1%BD%E4%B8%8E%E9%9B%B6%E8%B7%91%E6%B7%B1%E5%8C%96%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C)
 1. [GTA6](https://www.zhihu.com/search?q=GTA6)
 1. [油价](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7)
 1. [欧冠抽签](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E6%8A%BD%E7%AD%BE)
