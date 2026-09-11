@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-09-11 07:29:20 +0800`
+`更新时间：2026-09-11 09:41:34 +0800`
 
 ## 热门搜索
 
-1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
-1. [欧冠](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0)
+1. [栾念尚之桃是he](https://www.zhihu.com/search?q=%E6%A0%BE%E5%BF%B5%E5%B0%9A%E4%B9%8B%E6%A1%83%E6%98%AFhe)
 1. [心动的信号](https://www.zhihu.com/search?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [装警察打17岁少年霸凌者涉寻衅滋事](https://www.zhihu.com/search?q=%E8%A3%85%E8%AD%A6%E5%AF%9F%E6%89%9317%E5%B2%81%E5%B0%91%E5%B9%B4%E9%9C%B8%E5%87%8C%E8%80%85%E6%B6%89%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B)
@@ -32,10 +31,10 @@
 1. [《早春晴朗》口碑褒贬不一](https://www.zhihu.com/search?q=%E3%80%8A%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E3%80%8B%E5%8F%A3%E7%A2%91%E8%A4%92%E8%B4%AC%E4%B8%8D%E4%B8%80)
 1. [世界首例猪肾助患者摆脱透析 9 个月](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E9%A6%96%E4%BE%8B%E7%8C%AA%E8%82%BE%E5%8A%A9%E6%82%A3%E8%80%85%E6%91%86%E8%84%B1%E9%80%8F%E6%9E%90%209%20%E4%B8%AA%E6%9C%88)
 1. [贫困生追星错在哪](https://www.zhihu.com/search?q=%E8%B4%AB%E5%9B%B0%E7%94%9F%E8%BF%BD%E6%98%9F%E9%94%99%E5%9C%A8%E5%93%AA)
-1. [小米发布首款中折叠手机18 Fold](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E4%B8%AD%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA18%20Fold)
-1. [宇树科技首次实现机器人全自主搏击](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%A8%E8%87%AA%E4%B8%BB%E6%90%8F%E5%87%BB)
 1. [小米澎程N70售价20.99万起](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70%E5%94%AE%E4%BB%B720.99%E4%B8%87%E8%B5%B7)
 1. [小米澎程N70发布](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70%E5%8F%91%E5%B8%83)
+1. [我国前8月外贸总值 34.78 万亿](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%89%8D8%E6%9C%88%E5%A4%96%E8%B4%B8%E6%80%BB%E5%80%BC%2034.78%20%E4%B8%87%E4%BA%BF)
+1. [高盛预计人民币未来将持续有序升值](https://www.zhihu.com/search?q=%E9%AB%98%E7%9B%9B%E9%A2%84%E8%AE%A1%E4%BA%BA%E6%B0%91%E5%B8%81%E6%9C%AA%E6%9D%A5%E5%B0%86%E6%8C%81%E7%BB%AD%E6%9C%89%E5%BA%8F%E5%8D%87%E5%80%BC)
 
 ## 热门话题
 
