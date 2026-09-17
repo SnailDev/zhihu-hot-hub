@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-09-18 01:20:25 +0800`
+`更新时间：2026-09-18 04:38:37 +0800`
 
 ## 热门搜索
 
@@ -33,8 +33,8 @@
 1. [曝姆巴佩与登贝莱彻底决裂](https://www.zhihu.com/search?q=%E6%9B%9D%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%8E%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%BD%BB%E5%BA%95%E5%86%B3%E8%A3%82)
 1. [DeepSeek 工程师刘胜与长文](https://www.zhihu.com/search?q=DeepSeek%20%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%88%98%E8%83%9C%E4%B8%8E%E9%95%BF%E6%96%87)
 1. [《我不得不把才华埋葬在昨天》](https://www.zhihu.com/search?q=%E3%80%8A%E6%88%91%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%8A%8A%E6%89%8D%E5%8D%8E%E5%9F%8B%E8%91%AC%E5%9C%A8%E6%98%A8%E5%A4%A9%E3%80%8B)
-1. [中国男子涉嫌在印尼渔猎玳瑁](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%B6%89%E5%AB%8C%E5%9C%A8%E5%8D%B0%E5%B0%BC%E6%B8%94%E7%8C%8E%E7%8E%B3%E7%91%81)
 1. [如果英国解体福尔摩斯归谁](https://www.zhihu.com/search?q=%E5%A6%82%E6%9E%9C%E8%8B%B1%E5%9B%BD%E8%A7%A3%E4%BD%93%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF%E5%BD%92%E8%B0%81)
+1. [微信「小微」AI 助手被指侵犯隐私](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E3%80%8C%E5%B0%8F%E5%BE%AE%E3%80%8DAI%20%E5%8A%A9%E6%89%8B%E8%A2%AB%E6%8C%87%E4%BE%B5%E7%8A%AF%E9%9A%90%E7%A7%81)
 
 ## 热门话题
 
