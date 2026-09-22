@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-09-22 06:53:53 +0800`
+`更新时间：2026-09-22 09:19:22 +0800`
 
 ## 热门搜索
 
@@ -34,7 +34,6 @@
 1. [王鹤棣方称已取证报警](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%96%B9%E7%A7%B0%E5%B7%B2%E5%8F%96%E8%AF%81%E6%8A%A5%E8%AD%A6)
 1. [静和医疗否认王鹤棣曾就诊](https://www.zhihu.com/search?q=%E9%9D%99%E5%92%8C%E5%8C%BB%E7%96%97%E5%90%A6%E8%AE%A4%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9B%BE%E5%B0%B1%E8%AF%8A)
 1. [腾讯混元 Hy4 量化版模型尺寸压缩](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E6%B7%B7%E5%85%83%20Hy4%20%E9%87%8F%E5%8C%96%E7%89%88%E6%A8%A1%E5%9E%8B%E5%B0%BA%E5%AF%B8%E5%8E%8B%E7%BC%A9)
-1. [智谱 Zcode 被曝上传 Git 操作](https://www.zhihu.com/search?q=%E6%99%BA%E8%B0%B1%20Zcode%20%E8%A2%AB%E6%9B%9D%E4%B8%8A%E4%BC%A0%20Git%20%E6%93%8D%E4%BD%9C)
 
 ## 热门话题
 
