@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-06 00:29:58 +0800`
+`更新时间：2026-10-06 06:58:08 +0800`
 
 ## 热门搜索
 
@@ -30,12 +30,12 @@
 1. [李昊扑出两个点球](https://www.zhihu.com/search?q=%E6%9D%8E%E6%98%8A%E6%89%91%E5%87%BA%E4%B8%A4%E4%B8%AA%E7%82%B9%E7%90%83)
 1. [景区文创陷入「冤种三件套」](https://www.zhihu.com/search?q=%E6%99%AF%E5%8C%BA%E6%96%87%E5%88%9B%E9%99%B7%E5%85%A5%E3%80%8C%E5%86%A4%E7%A7%8D%E4%B8%89%E4%BB%B6%E5%A5%97%E3%80%8D)
 1. [景区冤种三件套，年轻人只薅不买了](https://www.zhihu.com/search?q=%E6%99%AF%E5%8C%BA%E5%86%A4%E7%A7%8D%E4%B8%89%E4%BB%B6%E5%A5%97%EF%BC%8C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%AA%E8%96%85%E4%B8%8D%E4%B9%B0%E4%BA%86)
-1. [网友坐滴滴接触到前乘客血液](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%9D%90%E6%BB%B4%E6%BB%B4%E6%8E%A5%E8%A7%A6%E5%88%B0%E5%89%8D%E4%B9%98%E5%AE%A2%E8%A1%80%E6%B6%B2)
 1. [对手退赛郑钦文中网晋级](https://www.zhihu.com/search?q=%E5%AF%B9%E6%89%8B%E9%80%80%E8%B5%9B%E9%83%91%E9%92%A6%E6%96%87%E4%B8%AD%E7%BD%91%E6%99%8B%E7%BA%A7)
 1. [巴勒斯坦球员向国足道歉](https://www.zhihu.com/search?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89)
 1. [烟草局招聘体育特长生](https://www.zhihu.com/search?q=%E7%83%9F%E8%8D%89%E5%B1%80%E6%8B%9B%E8%81%98%E4%BD%93%E8%82%B2%E7%89%B9%E9%95%BF%E7%94%9F)
 1. [郑钦文即时排名重返前 50](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E5%8D%B3%E6%97%B6%E6%8E%92%E5%90%8D%E9%87%8D%E8%BF%94%E5%89%8D%2050)
 1. [曝腾讯 70 亿美元租用甲骨文海外算力](https://www.zhihu.com/search?q=%E6%9B%9D%E8%85%BE%E8%AE%AF%2070%20%E4%BA%BF%E7%BE%8E%E5%85%83%E7%A7%9F%E7%94%A8%E7%94%B2%E9%AA%A8%E6%96%87%E6%B5%B7%E5%A4%96%E7%AE%97%E5%8A%9B)
+1. [多位游客用 AI 做旅游攻略踩坑](https://www.zhihu.com/search?q=%E5%A4%9A%E4%BD%8D%E6%B8%B8%E5%AE%A2%E7%94%A8%20AI%20%E5%81%9A%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5%E8%B8%A9%E5%9D%91)
 
 ## 热门话题
 
