@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-06 06:58:08 +0800`
+`更新时间：2026-10-06 10:38:05 +0800`
 
 ## 热门搜索
 
 1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
+1. [诺贝尔物理学奖预测](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E9%A2%84%E6%B5%8B)
 1. [伊朗格什姆岛防空系统启动](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8)
 1. [2026 国庆](https://www.zhihu.com/search?q=2026%20%E5%9B%BD%E5%BA%86)
 1. [充电至 80% 必须离场](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E8%87%B3%2080%25%20%E5%BF%85%E9%A1%BB%E7%A6%BB%E5%9C%BA)
@@ -24,7 +25,6 @@
 1. [邵佳一 国足](https://www.zhihu.com/search?q=%E9%82%B5%E4%BD%B3%E4%B8%80%20%E5%9B%BD%E8%B6%B3)
 1. [国足0比5惨败却让小将接受采访](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5%E5%8D%B4%E8%AE%A9%E5%B0%8F%E5%B0%86%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF)
 1. [极客湾解析华为 Mate 90 韬定律芯片](https://www.zhihu.com/search?q=%E6%9E%81%E5%AE%A2%E6%B9%BE%E8%A7%A3%E6%9E%90%E5%8D%8E%E4%B8%BA%20Mate%2090%20%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%8A%AF%E7%89%87)
-1. [德国教材：很多中国人没有汽车](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E6%95%99%E6%9D%90%EF%BC%9A%E5%BE%88%E5%A4%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B2%A1%E6%9C%89%E6%B1%BD%E8%BD%A6)
 1. [张家齐 中式母女](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%20%E4%B8%AD%E5%BC%8F%E6%AF%8D%E5%A5%B3)
 1. [李昊两扑点球](https://www.zhihu.com/search?q=%E6%9D%8E%E6%98%8A%E4%B8%A4%E6%89%91%E7%82%B9%E7%90%83)
 1. [李昊扑出两个点球](https://www.zhihu.com/search?q=%E6%9D%8E%E6%98%8A%E6%89%91%E5%87%BA%E4%B8%A4%E4%B8%AA%E7%82%B9%E7%90%83)
