@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-11 03:36:05 +0800`
+`更新时间：2026-10-11 07:00:51 +0800`
 
 ## 热门搜索
 
@@ -38,7 +38,6 @@
 1. [曝新款MacBookPro将大幅减重](https://www.zhihu.com/search?q=%E6%9B%9D%E6%96%B0%E6%AC%BEMacBookPro%E5%B0%86%E5%A4%A7%E5%B9%85%E5%87%8F%E9%87%8D)
 1. [俄罗斯不明病因肺炎事件四种说法](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8D%E6%98%8E%E7%97%85%E5%9B%A0%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6%E5%9B%9B%E7%A7%8D%E8%AF%B4%E6%B3%95)
 1. [711关闭印度全部门店](https://www.zhihu.com/search?q=711%E5%85%B3%E9%97%AD%E5%8D%B0%E5%BA%A6%E5%85%A8%E9%83%A8%E9%97%A8%E5%BA%97)
-1. [保时捷回归燃油车](https://www.zhihu.com/search?q=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%9B%9E%E5%BD%92%E7%87%83%E6%B2%B9%E8%BD%A6)
 1. [「喝大水理论」走红](https://www.zhihu.com/search?q=%E3%80%8C%E5%96%9D%E5%A4%A7%E6%B0%B4%E7%90%86%E8%AE%BA%E3%80%8D%E8%B5%B0%E7%BA%A2)
 1. [江淮汽车回应尊界刹车踏板支架断裂](https://www.zhihu.com/search?q=%E6%B1%9F%E6%B7%AE%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
 
