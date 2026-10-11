@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-11 22:28:46 +0800`
+`更新时间：2026-10-12 03:15:07 +0800`
 
 ## 热门搜索
 
@@ -26,6 +26,8 @@
 1. [江淮汽车回应尊界刹车踏板支架断裂](https://www.zhihu.com/search?q=%E6%B1%9F%E6%B7%AE%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
 1. [薄肌理论](https://www.zhihu.com/search?q=%E8%96%84%E8%82%8C%E7%90%86%E8%AE%BA)
 1. [尊界回应刹车踏板支架断裂](https://www.zhihu.com/search?q=%E5%B0%8A%E7%95%8C%E5%9B%9E%E5%BA%94%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
+1. [OpenAI撤回3项数学研究成果](https://www.zhihu.com/search?q=OpenAI%E6%92%A4%E5%9B%9E3%E9%A1%B9%E6%95%B0%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C)
+1. [OpenAI撤回3篇论文手稿](https://www.zhihu.com/search?q=OpenAI%E6%92%A4%E5%9B%9E3%E7%AF%87%E8%AE%BA%E6%96%87%E6%89%8B%E7%A8%BF)
 1. [胖东来多收顾客钱补偿两百元](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%A4%9A%E6%94%B6%E9%A1%BE%E5%AE%A2%E9%92%B1%E8%A1%A5%E5%81%BF%E4%B8%A4%E7%99%BE%E5%85%83)
 1. [柏林45秒退出申办2036奥运](https://www.zhihu.com/search?q=%E6%9F%8F%E6%9E%9745%E7%A7%92%E9%80%80%E5%87%BA%E7%94%B3%E5%8A%9E2036%E5%A5%A5%E8%BF%90)
 1. [OpenAI 实际收入比预期少 200 亿](https://www.zhihu.com/search?q=OpenAI%20%E5%AE%9E%E9%99%85%E6%94%B6%E5%85%A5%E6%AF%94%E9%A2%84%E6%9C%9F%E5%B0%91%20200%20%E4%BA%BF)
