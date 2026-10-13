@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-14 00:32:02 +0800`
+`更新时间：2026-10-14 05:36:42 +0800`
 
 ## 热门搜索
 
@@ -43,7 +43,6 @@
 1. [女子3个月对盒马399件商品申请仅退款](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%903%E4%B8%AA%E6%9C%88%E5%AF%B9%E7%9B%92%E9%A9%AC399%E4%BB%B6%E5%95%86%E5%93%81%E7%94%B3%E8%AF%B7%E4%BB%85%E9%80%80%E6%AC%BE)
 1. [周鸿祎攀岩摔骨折](https://www.zhihu.com/search?q=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%94%80%E5%B2%A9%E6%91%94%E9%AA%A8%E6%8A%98)
 1. [哈药股份总裁芦传有被立案](https://www.zhihu.com/search?q=%E5%93%88%E8%8D%AF%E8%82%A1%E4%BB%BD%E6%80%BB%E8%A3%81%E8%8A%A6%E4%BC%A0%E6%9C%89%E8%A2%AB%E7%AB%8B%E6%A1%88)
-1. [丘成桐牵头成立数学AI联盟](https://www.zhihu.com/search?q=%E4%B8%98%E6%88%90%E6%A1%90%E7%89%B5%E5%A4%B4%E6%88%90%E7%AB%8B%E6%95%B0%E5%AD%A6AI%E8%81%94%E7%9B%9F)
 
 ## 热门话题
 
