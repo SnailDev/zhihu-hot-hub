@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-15 06:45:30 +0800`
+`更新时间：2026-10-15 09:01:15 +0800`
 
 ## 热门搜索
 
+1. [我不是药神原型陆勇愿望实现](https://www.zhihu.com/search?q=%E6%88%91%E4%B8%8D%E6%98%AF%E8%8D%AF%E7%A5%9E%E5%8E%9F%E5%9E%8B%E9%99%86%E5%8B%87%E6%84%BF%E6%9C%9B%E5%AE%9E%E7%8E%B0)
+1. [用ATM给自己手机号转账钱进别人账户](https://www.zhihu.com/search?q=%E7%94%A8ATM%E7%BB%99%E8%87%AA%E5%B7%B1%E6%89%8B%E6%9C%BA%E5%8F%B7%E8%BD%AC%E8%B4%A6%E9%92%B1%E8%BF%9B%E5%88%AB%E4%BA%BA%E8%B4%A6%E6%88%B7)
 1. [欧冠](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0)
 1. [国考](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83)
 1. [勇士vs湖人](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%B9%96%E4%BA%BA)
