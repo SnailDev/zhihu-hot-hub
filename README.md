@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-19 05:59:09 +0800`
+`更新时间：2026-10-19 07:53:22 +0800`
 
 ## 热门搜索
 
@@ -38,7 +38,6 @@
 1. [妈妈因大一儿子未考技能证书降生活费](https://www.zhihu.com/search?q=%E5%A6%88%E5%A6%88%E5%9B%A0%E5%A4%A7%E4%B8%80%E5%84%BF%E5%AD%90%E6%9C%AA%E8%80%83%E6%8A%80%E8%83%BD%E8%AF%81%E4%B9%A6%E9%99%8D%E7%94%9F%E6%B4%BB%E8%B4%B9)
 1. [DeepSeek V4.1 Flash 发布新版本](https://www.zhihu.com/search?q=DeepSeek%20V4.1%20Flash%20%E5%8F%91%E5%B8%83%E6%96%B0%E7%89%88%E6%9C%AC)
 1. [英伟达市值9天蒸发4万亿](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC9%E5%A4%A9%E8%92%B8%E5%8F%914%E4%B8%87%E4%BA%BF)
-1. [智界将获独立造车资质](https://www.zhihu.com/search?q=%E6%99%BA%E7%95%8C%E5%B0%86%E8%8E%B7%E7%8B%AC%E7%AB%8B%E9%80%A0%E8%BD%A6%E8%B5%84%E8%B4%A8)
 1. [95后小伙兼职做共享儿女](https://www.zhihu.com/search?q=95%E5%90%8E%E5%B0%8F%E4%BC%99%E5%85%BC%E8%81%8C%E5%81%9A%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3)
 
 ## 热门话题
