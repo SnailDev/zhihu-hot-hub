@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-25 13:25:57 +0800`
+`更新时间：2026-10-25 18:15:26 +0800`
 
 ## 热门搜索
 
@@ -26,7 +26,6 @@
 1. [《沙丘3》中国内地定档](https://www.zhihu.com/search?q=%E3%80%8A%E6%B2%99%E4%B8%983%E3%80%8B%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3)
 1. [96岁老人独自乘火车进藏](https://www.zhihu.com/search?q=96%E5%B2%81%E8%80%81%E4%BA%BA%E7%8B%AC%E8%87%AA%E4%B9%98%E7%81%AB%E8%BD%A6%E8%BF%9B%E8%97%8F)
 1. [星巴克将施行消费入座](https://www.zhihu.com/search?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%B0%86%E6%96%BD%E8%A1%8C%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7)
-1. [武志红李雪互相指控对方是NPD](https://www.zhihu.com/search?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E4%BA%92%E7%9B%B8%E6%8C%87%E6%8E%A7%E5%AF%B9%E6%96%B9%E6%98%AFNPD)
 1. [令人心动的offer8遭医学生吐槽](https://www.zhihu.com/search?q=%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer8%E9%81%AD%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD)
 1. [子祺事变](https://www.zhihu.com/search?q=%E5%AD%90%E7%A5%BA%E4%BA%8B%E5%8F%98)
 1. [宝马员工争着离职](https://www.zhihu.com/search?q=%E5%AE%9D%E9%A9%AC%E5%91%98%E5%B7%A5%E4%BA%89%E7%9D%80%E7%A6%BB%E8%81%8C)
@@ -36,10 +35,9 @@
 1. [eMudhra中间证书私钥存严重缺陷](https://www.zhihu.com/search?q=eMudhra%E4%B8%AD%E9%97%B4%E8%AF%81%E4%B9%A6%E7%A7%81%E9%92%A5%E5%AD%98%E4%B8%A5%E9%87%8D%E7%BC%BA%E9%99%B7)
 1. [中土网民爆发大规模互怼](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9C%9F%E7%BD%91%E6%B0%91%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BA%92%E6%80%BC)
 1. [《边缘行者 2》开播获外媒满分评价](https://www.zhihu.com/search?q=%E3%80%8A%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85%202%E3%80%8B%E5%BC%80%E6%92%AD%E8%8E%B7%E5%A4%96%E5%AA%92%E6%BB%A1%E5%88%86%E8%AF%84%E4%BB%B7)
-1. [太阳 VS 开拓者](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3%20VS%20%E5%BC%80%E6%8B%93%E8%80%85)
 1. [AI成为医患之间的第三人](https://www.zhihu.com/search?q=AI%E6%88%90%E4%B8%BA%E5%8C%BB%E6%82%A3%E4%B9%8B%E9%97%B4%E7%9A%84%E7%AC%AC%E4%B8%89%E4%BA%BA)
-1. [太阳 83:124 开拓者](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3%2083%3A124%20%E5%BC%80%E6%8B%93%E8%80%85)
 1. [首个乙肝治愈药在美获批](https://www.zhihu.com/search?q=%E9%A6%96%E4%B8%AA%E4%B9%99%E8%82%9D%E6%B2%BB%E6%84%88%E8%8D%AF%E5%9C%A8%E7%BE%8E%E8%8E%B7%E6%89%B9)
+1. [马斯克建议别为退休攒钱](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BB%BA%E8%AE%AE%E5%88%AB%E4%B8%BA%E9%80%80%E4%BC%91%E6%94%92%E9%92%B1)
 
 ## 热门话题
 
