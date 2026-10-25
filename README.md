@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-25 18:15:26 +0800`
+`更新时间：2026-10-25 22:37:35 +0800`
 
 ## 热门搜索
 
@@ -23,21 +23,19 @@
 1. [玉簟秋](https://www.zhihu.com/search?q=%E7%8E%89%E7%B0%9F%E7%A7%8B)
 1. [三部门调查尊界刹车踏板支架断裂问题](https://www.zhihu.com/search?q=%E4%B8%89%E9%83%A8%E9%97%A8%E8%B0%83%E6%9F%A5%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82%E9%97%AE%E9%A2%98)
 1. [灵活就业人员可贷款缴社保](https://www.zhihu.com/search?q=%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E5%8F%AF%E8%B4%B7%E6%AC%BE%E7%BC%B4%E7%A4%BE%E4%BF%9D)
-1. [《沙丘3》中国内地定档](https://www.zhihu.com/search?q=%E3%80%8A%E6%B2%99%E4%B8%983%E3%80%8B%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3)
-1. [96岁老人独自乘火车进藏](https://www.zhihu.com/search?q=96%E5%B2%81%E8%80%81%E4%BA%BA%E7%8B%AC%E8%87%AA%E4%B9%98%E7%81%AB%E8%BD%A6%E8%BF%9B%E8%97%8F)
 1. [星巴克将施行消费入座](https://www.zhihu.com/search?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%B0%86%E6%96%BD%E8%A1%8C%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7)
-1. [令人心动的offer8遭医学生吐槽](https://www.zhihu.com/search?q=%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer8%E9%81%AD%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD)
-1. [子祺事变](https://www.zhihu.com/search?q=%E5%AD%90%E7%A5%BA%E4%BA%8B%E5%8F%98)
 1. [宝马员工争着离职](https://www.zhihu.com/search?q=%E5%AE%9D%E9%A9%AC%E5%91%98%E5%B7%A5%E4%BA%89%E7%9D%80%E7%A6%BB%E8%81%8C)
 1. [美国一战斗舰冲闯中国南沙海域](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%88%98%E6%96%97%E8%88%B0%E5%86%B2%E9%97%AF%E4%B8%AD%E5%9B%BD%E5%8D%97%E6%B2%99%E6%B5%B7%E5%9F%9F)
 1. [朱新礼再出发](https://www.zhihu.com/search?q=%E6%9C%B1%E6%96%B0%E7%A4%BC%E5%86%8D%E5%87%BA%E5%8F%91)
 1. [iphone18粉色曝光](https://www.zhihu.com/search?q=iphone18%E7%B2%89%E8%89%B2%E6%9B%9D%E5%85%89)
-1. [eMudhra中间证书私钥存严重缺陷](https://www.zhihu.com/search?q=eMudhra%E4%B8%AD%E9%97%B4%E8%AF%81%E4%B9%A6%E7%A7%81%E9%92%A5%E5%AD%98%E4%B8%A5%E9%87%8D%E7%BC%BA%E9%99%B7)
 1. [中土网民爆发大规模互怼](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9C%9F%E7%BD%91%E6%B0%91%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BA%92%E6%80%BC)
-1. [《边缘行者 2》开播获外媒满分评价](https://www.zhihu.com/search?q=%E3%80%8A%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85%202%E3%80%8B%E5%BC%80%E6%92%AD%E8%8E%B7%E5%A4%96%E5%AA%92%E6%BB%A1%E5%88%86%E8%AF%84%E4%BB%B7)
-1. [AI成为医患之间的第三人](https://www.zhihu.com/search?q=AI%E6%88%90%E4%B8%BA%E5%8C%BB%E6%82%A3%E4%B9%8B%E9%97%B4%E7%9A%84%E7%AC%AC%E4%B8%89%E4%BA%BA)
 1. [首个乙肝治愈药在美获批](https://www.zhihu.com/search?q=%E9%A6%96%E4%B8%AA%E4%B9%99%E8%82%9D%E6%B2%BB%E6%84%88%E8%8D%AF%E5%9C%A8%E7%BE%8E%E8%8E%B7%E6%89%B9)
 1. [马斯克建议别为退休攒钱](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BB%BA%E8%AE%AE%E5%88%AB%E4%B8%BA%E9%80%80%E4%BC%91%E6%94%92%E9%92%B1)
+1. [汽车之家回应韩路](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E5%9B%9E%E5%BA%94%E9%9F%A9%E8%B7%AF)
+1. [人民日报评老师被家长无理举报](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%80%81%E5%B8%88%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%97%A0%E7%90%86%E4%B8%BE%E6%8A%A5)
+1. [英国拟征收看剧税](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E6%8B%9F%E5%BE%81%E6%94%B6%E7%9C%8B%E5%89%A7%E7%A8%8E)
+1. [PHP严重漏洞被AI模型发现](https://www.zhihu.com/search?q=PHP%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E%E8%A2%ABAI%E6%A8%A1%E5%9E%8B%E5%8F%91%E7%8E%B0)
+1. [芯片人才百万年薪一将难求](https://www.zhihu.com/search?q=%E8%8A%AF%E7%89%87%E4%BA%BA%E6%89%8D%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82)
 
 ## 热门话题
 
