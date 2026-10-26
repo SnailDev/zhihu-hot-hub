@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-26 06:52:31 +0800`
+`更新时间：2026-10-26 08:48:03 +0800`
 
 ## 热门搜索
 
@@ -35,6 +35,7 @@
 1. [英国拟征收看剧税](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E6%8B%9F%E5%BE%81%E6%94%B6%E7%9C%8B%E5%89%A7%E7%A8%8E)
 1. [芯片人才百万年薪一将难求](https://www.zhihu.com/search?q=%E8%8A%AF%E7%89%87%E4%BA%BA%E6%89%8D%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82)
 1. [懂车帝曾指出问界油路靠前](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E6%9B%BE%E6%8C%87%E5%87%BA%E9%97%AE%E7%95%8C%E6%B2%B9%E8%B7%AF%E9%9D%A0%E5%89%8D)
+1. [广州商学院涨租逼走快递网点](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E5%95%86%E5%AD%A6%E9%99%A2%E6%B6%A8%E7%A7%9F%E9%80%BC%E8%B5%B0%E5%BF%AB%E9%80%92%E7%BD%91%E7%82%B9)
 
 ## 热门话题
 
