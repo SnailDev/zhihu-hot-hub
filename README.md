@@ -11,21 +11,21 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-27 20:49:05 +0800`
+`更新时间：2026-10-28 02:25:46 +0800`
 
 ## 热门搜索
 
-1. [李艺彤黄婷婷纠葛](https://www.zhihu.com/search?q=%E6%9D%8E%E8%89%BA%E5%BD%A4%E9%BB%84%E5%A9%B7%E5%A9%B7%E7%BA%A0%E8%91%9B)
+1. [F1](https://www.zhihu.com/search?q=F1)
+1. [金价大跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C)
 1. [TES战胜G2](https://www.zhihu.com/search?q=TES%E6%88%98%E8%83%9CG2)
 1. [小城良方](https://www.zhihu.com/search?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9)
 1. [横店兴起普通人短剧落地签](https://www.zhihu.com/search?q=%E6%A8%AA%E5%BA%97%E5%85%B4%E8%B5%B7%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9F%AD%E5%89%A7%E8%90%BD%E5%9C%B0%E7%AD%BE)
 1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%81%AD%E4%B9%8C%E8%A2%AD%E5%87%BB%E5%81%9C%E8%BF%90)
 1. [玉簟秋](https://www.zhihu.com/search?q=%E7%8E%89%E7%B0%9F%E7%A7%8B)
-1. [F1](https://www.zhihu.com/search?q=F1)
+1. [法国怎么了](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E6%80%8E%E4%B9%88%E4%BA%86)
 1. [令人心动的offer8遭医学生吐槽](https://www.zhihu.com/search?q=%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer8%E9%81%AD%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD)
 1. [子祺事变](https://www.zhihu.com/search?q=%E5%AD%90%E7%A5%BA%E4%BA%8B%E5%8F%98)
 1. [中土网民爆发大规模互怼](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9C%9F%E7%BD%91%E6%B0%91%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BA%92%E6%80%BC)
-1. [人民日报批「一有分歧家长就举报」](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9%E3%80%8C%E4%B8%80%E6%9C%89%E5%88%86%E6%AD%A7%E5%AE%B6%E9%95%BF%E5%B0%B1%E4%B8%BE%E6%8A%A5%E3%80%8D)
 1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E8%87%B4%E8%BE%9E%E4%BA%89%E8%AE%AE)
 1. [Kimi K3.1 Pro 正式发布](https://www.zhihu.com/search?q=Kimi%20K3.1%20Pro%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
 1. [年轻人正在抛弃帆布鞋](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AD%A3%E5%9C%A8%E6%8A%9B%E5%BC%83%E5%B8%86%E5%B8%83%E9%9E%8B)
@@ -33,9 +33,11 @@
 1. [秦始皇兵马俑上发现女性指纹](https://www.zhihu.com/search?q=%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%85%B5%E9%A9%AC%E4%BF%91%E4%B8%8A%E5%8F%91%E7%8E%B0%E5%A5%B3%E6%80%A7%E6%8C%87%E7%BA%B9)
 1. [美初创公司称实现汞变稳定黄金](https://www.zhihu.com/search?q=%E7%BE%8E%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E7%A7%B0%E5%AE%9E%E7%8E%B0%E6%B1%9E%E5%8F%98%E7%A8%B3%E5%AE%9A%E9%BB%84%E9%87%91)
 1. [汞能变成黄金](https://www.zhihu.com/search?q=%E6%B1%9E%E8%83%BD%E5%8F%98%E6%88%90%E9%BB%84%E9%87%91)
-1. [曝多条手机和平板产品线将停更](https://www.zhihu.com/search?q=%E6%9B%9D%E5%A4%9A%E6%9D%A1%E6%89%8B%E6%9C%BA%E5%92%8C%E5%B9%B3%E6%9D%BF%E4%BA%A7%E5%93%81%E7%BA%BF%E5%B0%86%E5%81%9C%E6%9B%B4)
-1. [曝手机平板产品线将停更](https://www.zhihu.com/search?q=%E6%9B%9D%E6%89%8B%E6%9C%BA%E5%B9%B3%E6%9D%BF%E4%BA%A7%E5%93%81%E7%BA%BF%E5%B0%86%E5%81%9C%E6%9B%B4)
 1. [爱马仕CFO称中国市场非常困难](https://www.zhihu.com/search?q=%E7%88%B1%E9%A9%AC%E4%BB%95CFO%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E9%9D%9E%E5%B8%B8%E5%9B%B0%E9%9A%BE)
+1. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E5%8F%8B%E8%B0%8A%E7%A0%B4%E8%A3%82%E8%B0%81%E7%9A%84%E9%94%99)
+1. [日剧Vivant抹黑中国](https://www.zhihu.com/search?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD)
+1. [斯里兰卡遭遇全国性断电](https://www.zhihu.com/search?q=%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E9%81%AD%E9%81%87%E5%85%A8%E5%9B%BD%E6%80%A7%E6%96%AD%E7%94%B5)
+1. [张雪刷新吉尼斯世界纪录](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95)
 
 ## 热门话题
 
