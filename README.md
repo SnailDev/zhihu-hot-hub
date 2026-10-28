@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-28 06:42:06 +0800`
+`更新时间：2026-10-28 09:51:29 +0800`
 
 ## 热门搜索
 
@@ -38,6 +38,7 @@
 1. [日剧Vivant抹黑中国](https://www.zhihu.com/search?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD)
 1. [斯里兰卡遭遇全国性断电](https://www.zhihu.com/search?q=%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E9%81%AD%E9%81%87%E5%85%A8%E5%9B%BD%E6%80%A7%E6%96%AD%E7%94%B5)
 1. [张雪刷新吉尼斯世界纪录](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95)
+1. [深圳水贝被挤爆](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86)
 
 ## 热门话题
 
