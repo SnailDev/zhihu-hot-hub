@@ -11,35 +11,34 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-10-30 06:05:21 +0800`
+`更新时间：2026-10-30 10:12:17 +0800`
 
 ## 热门搜索
 
-1. [MacBookPro](https://www.zhihu.com/search?q=MacBookPro)
-1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
-1. [独行侠VS雷霆](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0VS%E9%9B%B7%E9%9C%86)
-1. [「绝命毒师」为什么是神剧](https://www.zhihu.com/search?q=%E3%80%8C%E7%BB%9D%E5%91%BD%E6%AF%92%E5%B8%88%E3%80%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E%E5%89%A7)
-1. [目前你总结出最大的旅行经验](https://www.zhihu.com/search?q=%E7%9B%AE%E5%89%8D%E4%BD%A0%E6%80%BB%E7%BB%93%E5%87%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%85%E8%A1%8C%E7%BB%8F%E9%AA%8C)
-1. [东契奇空砍41分](https://www.zhihu.com/search?q=%E4%B8%9C%E5%A5%91%E5%A5%87%E7%A9%BA%E7%A0%8D41%E5%88%86)
-1. [大家有什么低成本的爱好](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AE%B6%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%8E%E6%88%90%E6%9C%AC%E7%9A%84%E7%88%B1%E5%A5%BD)
-1. [有哪些超简单的家常菜](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E8%B6%85%E7%AE%80%E5%8D%95%E7%9A%84%E5%AE%B6%E5%B8%B8%E8%8F%9C)
-1. [怎样避免活在信息茧房之中](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E9%81%BF%E5%85%8D%E6%B4%BB%E5%9C%A8%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E4%B9%8B%E4%B8%AD)
-1. [能讲一个身边的无解阳谋吗](https://www.zhihu.com/search?q=%E8%83%BD%E8%AE%B2%E4%B8%80%E4%B8%AA%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%97%A0%E8%A7%A3%E9%98%B3%E8%B0%8B%E5%90%97)
-1. [为什么成功人士都精力充沛](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%90%E5%8A%9F%E4%BA%BA%E5%A3%AB%E9%83%BD%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B)
-1. [小城良方](https://www.zhihu.com/search?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9)
-1. [影之刃零](https://www.zhihu.com/search?q=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6)
-1. [高铁静音车厢是不是馊主意](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%E6%98%AF%E4%B8%8D%E6%98%AF%E9%A6%8A%E4%B8%BB%E6%84%8F)
+1. [苹果触屏 MacBook Pro 发布](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E8%A7%A6%E5%B1%8F%20MacBook%20Pro%20%E5%8F%91%E5%B8%83)
+1. [第一个「三机场」城市要来了](https://www.zhihu.com/search?q=%E7%AC%AC%E4%B8%80%E4%B8%AA%E3%80%8C%E4%B8%89%E6%9C%BA%E5%9C%BA%E3%80%8D%E5%9F%8E%E5%B8%82%E8%A6%81%E6%9D%A5%E4%BA%86)
 1. [横店兴起普通人短剧落地签](https://www.zhihu.com/search?q=%E6%A8%AA%E5%BA%97%E5%85%B4%E8%B5%B7%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9F%AD%E5%89%A7%E8%90%BD%E5%9C%B0%E7%AD%BE)
-1. [玉簟秋](https://www.zhihu.com/search?q=%E7%8E%89%E7%B0%9F%E7%A7%8B)
-1. [红果短剧为何让人着迷](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E8%AE%A9%E4%BA%BA%E7%9D%80%E8%BF%B7)
-1. [有什么震惊了你的绝妙比喻](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E9%9C%87%E6%83%8A%E4%BA%86%E4%BD%A0%E7%9A%84%E7%BB%9D%E5%A6%99%E6%AF%94%E5%96%BB)
 1. [红果短剧日活超爱优腾芒总和](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E6%97%A5%E6%B4%BB%E8%B6%85%E7%88%B1%E4%BC%98%E8%85%BE%E8%8A%92%E6%80%BB%E5%92%8C)
 1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E8%87%B4%E8%BE%9E%E4%BA%89%E8%AE%AE)
 1. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E5%8F%8B%E8%B0%8A%E7%A0%B4%E8%A3%82%E8%B0%81%E7%9A%84%E9%94%99)
 1. [《影之刃零》获海外媒体高分好评](https://www.zhihu.com/search?q=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E8%8E%B7%E6%B5%B7%E5%A4%96%E5%AA%92%E4%BD%93%E9%AB%98%E5%88%86%E5%A5%BD%E8%AF%84)
 1. [首部AI院线电影票房遇冷](https://www.zhihu.com/search?q=%E9%A6%96%E9%83%A8AI%E9%99%A2%E7%BA%BF%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E9%81%87%E5%86%B7)
-1. [东莞一公司亏损扣员工工资分担](https://www.zhihu.com/search?q=%E4%B8%9C%E8%8E%9E%E4%B8%80%E5%85%AC%E5%8F%B8%E4%BA%8F%E6%8D%9F%E6%89%A3%E5%91%98%E5%B7%A5%E5%B7%A5%E8%B5%84%E5%88%86%E6%8B%85)
 1. [2026年第70届金球奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E7%AC%AC70%E5%B1%8A%E9%87%91%E7%90%83%E5%A5%96)
+1. [Anthropic公开提交纳斯达克IPO申请](https://www.zhihu.com/search?q=Anthropic%E5%85%AC%E5%BC%80%E6%8F%90%E4%BA%A4%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8BIPO%E7%94%B3%E8%AF%B7)
+1. [苹果发布iPadmini8](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83iPadmini8)
+1. [凯恩获2026年金球奖](https://www.zhihu.com/search?q=%E5%87%AF%E6%81%A9%E8%8E%B72026%E5%B9%B4%E9%87%91%E7%90%83%E5%A5%96)
+1. [盆栽哥新歌采样王菲作品](https://www.zhihu.com/search?q=%E7%9B%86%E6%A0%BD%E5%93%A5%E6%96%B0%E6%AD%8C%E9%87%87%E6%A0%B7%E7%8E%8B%E8%8F%B2%E4%BD%9C%E5%93%81)
+1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%91%E8%A2%AB%E6%9B%9D%E9%81%87%E5%AE%B3)
+1. [东鹏饮料终止与姆巴佩合作](https://www.zhihu.com/search?q=%E4%B8%9C%E9%B9%8F%E9%A5%AE%E6%96%99%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%90%88%E4%BD%9C)
+1. [蒙牛终止与姆巴佩全部合作](https://www.zhihu.com/search?q=%E8%92%99%E7%89%9B%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%85%A8%E9%83%A8%E5%90%88%E4%BD%9C)
+1. [红果短剧引发年轻人「戒断潮」](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%BC%95%E5%8F%91%E5%B9%B4%E8%BD%BB%E4%BA%BA%E3%80%8C%E6%88%92%E6%96%AD%E6%BD%AE%E3%80%8D)
+1. [网飞韩剧单集1512万人民币](https://www.zhihu.com/search?q=%E7%BD%91%E9%A3%9E%E9%9F%A9%E5%89%A7%E5%8D%95%E9%9B%861512%E4%B8%87%E4%BA%BA%E6%B0%91%E5%B8%81)
+1. [东鹏解约姆巴佩或无需赔偿](https://www.zhihu.com/search?q=%E4%B8%9C%E9%B9%8F%E8%A7%A3%E7%BA%A6%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%96%E6%97%A0%E9%9C%80%E8%B5%94%E5%81%BF)
+1. [女性伤痛题材如何避免二次伤害](https://www.zhihu.com/search?q=%E5%A5%B3%E6%80%A7%E4%BC%A4%E7%97%9B%E9%A2%98%E6%9D%90%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E4%BA%8C%E6%AC%A1%E4%BC%A4%E5%AE%B3)
+1. [央视全面叫停涉姆巴佩赛事和广告播出](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C%E6%B6%89%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%B5%9B%E4%BA%8B%E5%92%8C%E5%B9%BF%E5%91%8A%E6%92%AD%E5%87%BA)
+1. [中国麻将在美国卖到400美元](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%BA%BB%E5%B0%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%8D%96%E5%88%B0400%E7%BE%8E%E5%85%83)
+1. [多方终止与姆巴佩合作](https://www.zhihu.com/search?q=%E5%A4%9A%E6%96%B9%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%90%88%E4%BD%9C)
+1. [泡泡玛特Q3收益下降超45%](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9Q3%E6%94%B6%E7%9B%8A%E4%B8%8B%E9%99%8D%E8%B6%8545%25)
 
 ## 热门话题
 
