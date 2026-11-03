@@ -11,13 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-11-03 02:54:52 +0800`
+`更新时间：2026-11-03 09:22:48 +0800`
 
 ## 热门搜索
 
 1. [万圣节](https://www.zhihu.com/search?q=%E4%B8%87%E5%9C%A3%E8%8A%82)
 1. [国考](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83)
-1. [丘成桐新领军数学基础测试](https://www.zhihu.com/search?q=%E4%B8%98%E6%88%90%E6%A1%90%E6%96%B0%E9%A2%86%E5%86%9B%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E6%B5%8B%E8%AF%95)
 1. [为什么只有中国发明了皮蛋](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%8F%91%E6%98%8E%E4%BA%86%E7%9A%AE%E8%9B%8B)
 1. [大家有什么低成本的爱好](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AE%B6%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%8E%E6%88%90%E6%9C%AC%E7%9A%84%E7%88%B1%E5%A5%BD)
 1. [怎样避免活在信息茧房之中](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E9%81%BF%E5%85%8D%E6%B4%BB%E5%9C%A8%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E4%B9%8B%E4%B8%AD)
@@ -37,6 +36,7 @@
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
 1. [姆巴佩道歉](https://www.zhihu.com/search?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%93%E6%AD%89)
 1. [新生将大体老师头骨当道具摆拍](https://www.zhihu.com/search?q=%E6%96%B0%E7%94%9F%E5%B0%86%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E5%A4%B4%E9%AA%A8%E5%BD%93%E9%81%93%E5%85%B7%E6%91%86%E6%8B%8D)
+1. [小城良方被指医学漏洞百出](https://www.zhihu.com/search?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E8%A2%AB%E6%8C%87%E5%8C%BB%E5%AD%A6%E6%BC%8F%E6%B4%9E%E7%99%BE%E5%87%BA)
 
 ## 热门话题
 
