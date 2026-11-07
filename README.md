@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-11-07 15:54:07 +0800`
+`更新时间：2026-11-07 22:27:22 +0800`
 
 ## 热门搜索
 
-1. [足协通报批评云南玉昆队](https://www.zhihu.com/search?q=%E8%B6%B3%E5%8D%8F%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84%E4%BA%91%E5%8D%97%E7%8E%89%E6%98%86%E9%98%9F)
-1. [茶饮江湖，腰部大换血](https://www.zhihu.com/search?q=%E8%8C%B6%E9%A5%AE%E6%B1%9F%E6%B9%96%EF%BC%8C%E8%85%B0%E9%83%A8%E5%A4%A7%E6%8D%A2%E8%A1%80)
+1. [谷雨](https://www.zhihu.com/search?q=%E8%B0%B7%E9%9B%A8)
 1. [中国空间站将迎首位外籍航天员](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%B0%86%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98)
 1. [黄渤担心遗传父母的阿尔兹海默症](https://www.zhihu.com/search?q=%E9%BB%84%E6%B8%A4%E6%8B%85%E5%BF%83%E9%81%97%E4%BC%A0%E7%88%B6%E6%AF%8D%E7%9A%84%E9%98%BF%E5%B0%94%E5%85%B9%E6%B5%B7%E9%BB%98%E7%97%87)
 1. [美股科技股遭遇抛售潮](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E9%81%AD%E9%81%87%E6%8A%9B%E5%94%AE%E6%BD%AE)
@@ -34,8 +33,9 @@
 1. [卫龙换帅90后余风接棒](https://www.zhihu.com/search?q=%E5%8D%AB%E9%BE%99%E6%8D%A2%E5%B8%8590%E5%90%8E%E4%BD%99%E9%A3%8E%E6%8E%A5%E6%A3%92)
 1. [duanju成专属英文单词](https://www.zhihu.com/search?q=duanju%E6%88%90%E4%B8%93%E5%B1%9E%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D)
 1. [英国男子徒步28年回家](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E7%94%B7%E5%AD%90%E5%BE%92%E6%AD%A528%E5%B9%B4%E5%9B%9E%E5%AE%B6)
-1. [疑似姚润昊ins小号曝光](https://www.zhihu.com/search?q=%E7%96%91%E4%BC%BC%E5%A7%9A%E6%B6%A6%E6%98%8Ains%E5%B0%8F%E5%8F%B7%E6%9B%9D%E5%85%89)
 1. [女孩失联半月藏在同学家玩手机](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E5%A4%B1%E8%81%94%E5%8D%8A%E6%9C%88%E8%97%8F%E5%9C%A8%E5%90%8C%E5%AD%A6%E5%AE%B6%E7%8E%A9%E6%89%8B%E6%9C%BA)
+1. [社恐到这种程度可能是生病了](https://www.zhihu.com/search?q=%E7%A4%BE%E6%81%90%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E5%8F%AF%E8%83%BD%E6%98%AF%E7%94%9F%E7%97%85%E4%BA%86)
+1. [红果短剧处理两万部低质短剧](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%A4%84%E7%90%86%E4%B8%A4%E4%B8%87%E9%83%A8%E4%BD%8E%E8%B4%A8%E7%9F%AD%E5%89%A7)
 
 ## 热门话题
 
