@@ -11,33 +11,31 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-11-07 09:21:35 +0800`
+`更新时间：2026-11-07 15:54:07 +0800`
 
 ## 热门搜索
 
-1. [谷雨](https://www.zhihu.com/search?q=%E8%B0%B7%E9%9B%A8)
+1. [足协通报批评云南玉昆队](https://www.zhihu.com/search?q=%E8%B6%B3%E5%8D%8F%E9%80%9A%E6%8A%A5%E6%89%B9%E8%AF%84%E4%BA%91%E5%8D%97%E7%8E%89%E6%98%86%E9%98%9F)
+1. [茶饮江湖，腰部大换血](https://www.zhihu.com/search?q=%E8%8C%B6%E9%A5%AE%E6%B1%9F%E6%B9%96%EF%BC%8C%E8%85%B0%E9%83%A8%E5%A4%A7%E6%8D%A2%E8%A1%80)
+1. [中国空间站将迎首位外籍航天员](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%B0%86%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98)
 1. [黄渤担心遗传父母的阿尔兹海默症](https://www.zhihu.com/search?q=%E9%BB%84%E6%B8%A4%E6%8B%85%E5%BF%83%E9%81%97%E4%BC%A0%E7%88%B6%E6%AF%8D%E7%9A%84%E9%98%BF%E5%B0%94%E5%85%B9%E6%B5%B7%E9%BB%98%E7%97%87)
 1. [美股科技股遭遇抛售潮](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E9%81%AD%E9%81%87%E6%8A%9B%E5%94%AE%E6%BD%AE)
 1. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E5%8F%8B%E8%B0%8A%E7%A0%B4%E8%A3%82%E8%B0%81%E7%9A%84%E9%94%99)
-1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%91%E8%A2%AB%E6%9B%9D%E9%81%87%E5%AE%B3)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
 1. [王子璇 文吉儿](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AD%90%E7%92%87%20%E6%96%87%E5%90%89%E5%84%BF)
-1. [王子璇文吉儿关系](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AD%90%E7%92%87%E6%96%87%E5%90%89%E5%84%BF%E5%85%B3%E7%B3%BB)
-1. [dsh 推出 Creator Mode](https://www.zhihu.com/search?q=dsh%20%E6%8E%A8%E5%87%BA%20Creator%20Mode)
 1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-1. [《影之刃零》对玩家无恶意设计](https://www.zhihu.com/search?q=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E5%AF%B9%E7%8E%A9%E5%AE%B6%E6%97%A0%E6%81%B6%E6%84%8F%E8%AE%BE%E8%AE%A1)
-1. [张雪重庆大学开价被学生嫌弃](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%BC%80%E4%BB%B7%E8%A2%AB%E5%AD%A6%E7%94%9F%E5%AB%8C%E5%BC%83)
-1. [谷歌调整K-12教育AI政策](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E8%B0%83%E6%95%B4K-12%E6%95%99%E8%82%B2AI%E6%94%BF%E7%AD%96)
-1. [谷歌调整教育AI政策](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E8%B0%83%E6%95%B4%E6%95%99%E8%82%B2AI%E6%94%BF%E7%AD%96)
 1. [副教授白保国去世留下绝笔信](https://www.zhihu.com/search?q=%E5%89%AF%E6%95%99%E6%8E%88%E7%99%BD%E4%BF%9D%E5%9B%BD%E5%8E%BB%E4%B8%96%E7%95%99%E4%B8%8B%E7%BB%9D%E7%AC%94%E4%BF%A1)
+1. [腾讯混元发布Hy4正式版](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E6%B7%B7%E5%85%83%E5%8F%91%E5%B8%83Hy4%E6%AD%A3%E5%BC%8F%E7%89%88)
+1. [得州翻蓝](https://www.zhihu.com/search?q=%E5%BE%97%E5%B7%9E%E7%BF%BB%E8%93%9D)
 1. [《后会友期》热播](https://www.zhihu.com/search?q=%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E7%83%AD%E6%92%AD)
+1. [人民网评「字节时间」](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E3%80%8C%E5%AD%97%E8%8A%82%E6%97%B6%E9%97%B4%E3%80%8D)
 1. [字节时间论战](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E6%97%B6%E9%97%B4%E8%AE%BA%E6%88%98)
-1. [张雪：不能逼我把应届生工资提到20万](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%EF%BC%9A%E4%B8%8D%E8%83%BD%E9%80%BC%E6%88%91%E6%8A%8A%E5%BA%94%E5%B1%8A%E7%94%9F%E5%B7%A5%E8%B5%84%E6%8F%90%E5%88%B020%E4%B8%87)
 1. [卫龙换帅90后余风接棒](https://www.zhihu.com/search?q=%E5%8D%AB%E9%BE%99%E6%8D%A2%E5%B8%8590%E5%90%8E%E4%BD%99%E9%A3%8E%E6%8E%A5%E6%A3%92)
 1. [duanju成专属英文单词](https://www.zhihu.com/search?q=duanju%E6%88%90%E4%B8%93%E5%B1%9E%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D)
 1. [英国男子徒步28年回家](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E7%94%B7%E5%AD%90%E5%BE%92%E6%AD%A528%E5%B9%B4%E5%9B%9E%E5%AE%B6)
 1. [疑似姚润昊ins小号曝光](https://www.zhihu.com/search?q=%E7%96%91%E4%BC%BC%E5%A7%9A%E6%B6%A6%E6%98%8Ains%E5%B0%8F%E5%8F%B7%E6%9B%9D%E5%85%89)
+1. [女孩失联半月藏在同学家玩手机](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E5%A4%B1%E8%81%94%E5%8D%8A%E6%9C%88%E8%97%8F%E5%9C%A8%E5%90%8C%E5%AD%A6%E5%AE%B6%E7%8E%A9%E6%89%8B%E6%9C%BA)
 
 ## 热门话题
 
