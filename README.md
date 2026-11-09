@@ -11,29 +11,28 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-11-09 15:19:28 +0800`
+`更新时间：2026-11-10 01:53:09 +0800`
 
 ## 热门搜索
 
-1. [中国空间站将迎首位外籍航天员](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%B0%86%E8%BF%8E%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98)
+1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
+1. [英伟达](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE)
+1. [76人VS公牛](https://www.zhihu.com/search?q=76%E4%BA%BAVS%E5%85%AC%E7%89%9B)
+1. [人到中年为什么对许多事没了兴趣](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E8%AE%B8%E5%A4%9A%E4%BA%8B%E6%B2%A1%E4%BA%86%E5%85%B4%E8%B6%A3)
+1. [红果短剧为何让人着迷](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E8%AE%A9%E4%BA%BA%E7%9D%80%E8%BF%B7)
+1. [刘邦凭什么七年得天下](https://www.zhihu.com/search?q=%E5%88%98%E9%82%A6%E5%87%AD%E4%BB%80%E4%B9%88%E4%B8%83%E5%B9%B4%E5%BE%97%E5%A4%A9%E4%B8%8B)
+1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%91%E8%A2%AB%E6%9B%9D%E9%81%87%E5%AE%B3)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
+1. [为什么有些人会喜欢看红果短剧](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E4%BC%9A%E5%96%9C%E6%AC%A2%E7%9C%8B%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7)
+1. [王子璇 文吉儿](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AD%90%E7%92%87%20%E6%96%87%E5%90%89%E5%84%BF)
 1. [网曝《后会友期》大结局](https://www.zhihu.com/search?q=%E7%BD%91%E6%9B%9D%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80)
 1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
 1. [巴菲特自曝48年不喝水只喝可乐](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%87%AA%E6%9B%9D48%E5%B9%B4%E4%B8%8D%E5%96%9D%E6%B0%B4%E5%8F%AA%E5%96%9D%E5%8F%AF%E4%B9%90)
-1. [字节时间论战](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E6%97%B6%E9%97%B4%E8%AE%BA%E6%88%98)
 1. [三甲医院医生推荐患者去三乙医院](https://www.zhihu.com/search?q=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8C%BB%E7%94%9F%E6%8E%A8%E8%8D%90%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%89%E4%B9%99%E5%8C%BB%E9%99%A2)
-1. [C 罗宣布从国家队退役](https://www.zhihu.com/search?q=C%20%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9)
 1. [女孩1天吃1顿血糖爆表险失明](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A91%E5%A4%A9%E5%90%831%E9%A1%BF%E8%A1%80%E7%B3%96%E7%88%86%E8%A1%A8%E9%99%A9%E5%A4%B1%E6%98%8E)
 1. [字节跳动扣子下线解散](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%89%A3%E5%AD%90%E4%B8%8B%E7%BA%BF%E8%A7%A3%E6%95%A3)
 1. [全国寺院道观启动财务大检查](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%AF%BA%E9%99%A2%E9%81%93%E8%A7%82%E5%90%AF%E5%8A%A8%E8%B4%A2%E5%8A%A1%E5%A4%A7%E6%A3%80%E6%9F%A5)
-1. [54岁大哥自学AI短剧登顶红果榜](https://www.zhihu.com/search?q=54%E5%B2%81%E5%A4%A7%E5%93%A5%E8%87%AA%E5%AD%A6AI%E7%9F%AD%E5%89%A7%E7%99%BB%E9%A1%B6%E7%BA%A2%E6%9E%9C%E6%A6%9C)
-1. [商南命案嫌犯已身亡](https://www.zhihu.com/search?q=%E5%95%86%E5%8D%97%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E5%B7%B2%E8%BA%AB%E4%BA%A1)
-1. [仰望U9X创造时速503.17km全新纪录](https://www.zhihu.com/search?q=%E4%BB%B0%E6%9C%9BU9X%E5%88%9B%E9%80%A0%E6%97%B6%E9%80%9F503.17km%E5%85%A8%E6%96%B0%E7%BA%AA%E5%BD%95)
-1. [警方通报孙某军因情感纠纷行凶](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%99%E6%9F%90%E5%86%9B%E5%9B%A0%E6%83%85%E6%84%9F%E7%BA%A0%E7%BA%B7%E8%A1%8C%E5%87%B6)
-1. [黄渤自曝今年几乎没戏拍](https://www.zhihu.com/search?q=%E9%BB%84%E6%B8%A4%E8%87%AA%E6%9B%9D%E4%BB%8A%E5%B9%B4%E5%87%A0%E4%B9%8E%E6%B2%A1%E6%88%8F%E6%8B%8D)
-1. [厉娜许飞《后会友期》出圈](https://www.zhihu.com/search?q=%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E3%80%8A%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E3%80%8B%E5%87%BA%E5%9C%88)
-1. [谷爱凌称不要歌颂牺牲](https://www.zhihu.com/search?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E7%A7%B0%E4%B8%8D%E8%A6%81%E6%AD%8C%E9%A2%82%E7%89%BA%E7%89%B2)
 
 ## 热门话题
 
