@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/snaildev/v2ex-hot-hub)
 
 
-`更新时间：2026-11-10 23:52:34 +0800`
+`更新时间：2026-11-11 05:30:27 +0800`
 
 ## 热门搜索
 
-1. [波兰检方就枪击案展开涉恐调查](https://www.zhihu.com/search?q=%E6%B3%A2%E5%85%B0%E6%A3%80%E6%96%B9%E5%B0%B1%E6%9E%AA%E5%87%BB%E6%A1%88%E5%B1%95%E5%BC%80%E6%B6%89%E6%81%90%E8%B0%83%E6%9F%A5)
-1. [理想澄清团购返佣与公司无关](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E6%BE%84%E6%B8%85%E5%9B%A2%E8%B4%AD%E8%BF%94%E4%BD%A3%E4%B8%8E%E5%85%AC%E5%8F%B8%E6%97%A0%E5%85%B3)
+1. [BLG战胜T1](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CT1)
+1. [合肥地震](https://www.zhihu.com/search?q=%E5%90%88%E8%82%A5%E5%9C%B0%E9%9C%87)
 1. [湖人6连胜](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA6%E8%BF%9E%E8%83%9C)
 1. [AI 漫剧《持械入宋》热播](https://www.zhihu.com/search?q=AI%20%E6%BC%AB%E5%89%A7%E3%80%8A%E6%8C%81%E6%A2%B0%E5%85%A5%E5%AE%8B%E3%80%8B%E7%83%AD%E6%92%AD)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=%E5%BC%80%E9%80%A0%E5%95%A6%EF%BC%81%E5%A5%BD%E5%A5%87%E5%B2%9B)
